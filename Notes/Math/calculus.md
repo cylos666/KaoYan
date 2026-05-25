@@ -16,7 +16,7 @@ $$
 \sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!} + \cdots
 $$
 
-前三项：$\sin x \approx x - \frac{x^3}{6} + O(x^5)$
+前三项： $\sin x \approx x - \frac{x^3}{6} + O(x^5)$
 
 ### 3. 余弦函数
 
@@ -24,7 +24,7 @@ $$
 \cos x = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} + \cdots
 $$
 
-前三项：$\cos x \approx 1 - \frac{x^2}{2} + \frac{x^4}{24}$
+前三项： $\cos x \approx 1 - \frac{x^2}{2} + \frac{x^4}{24}$
 
 ### 4. 自然对数函数
 
@@ -32,7 +32,7 @@ $$
 \ln(1+x) = x - \frac{x^2}{2} + \frac{x^3}{3} - \frac{x^4}{4} + \cdots
 $$
 
-前三项：$\ln(1+x) \approx x - \frac{x^2}{2} + \frac{x^3}{3}$
+前三项： $\ln(1+x) \approx x - \frac{x^2}{2} + \frac{x^3}{3}$
 
 ### 5. 对数函数（变号）
 
@@ -40,7 +40,7 @@ $$
 \ln(1-x) = -x - \frac{x^2}{2} - \frac{x^3}{3} - \frac{x^4}{4} + \cdots
 $$
 
-前三项：$\ln(1-x) \approx -x - \frac{x^2}{2} - \frac{x^3}{3}$
+前三项： $\ln(1-x) \approx -x - \frac{x^2}{2} - \frac{x^3}{3}$
 
 ### 6. 二项式函数（一般形式）
 
@@ -48,9 +48,9 @@ $$
 (1+x)^\alpha = 1 + \alpha x + \frac{\alpha(\alpha-1)}{2!}x^2 + \frac{\alpha(\alpha-1)(\alpha-2)}{3!}x^3 + \cdots
 $$
 
-前三项：$(1+x)^\alpha \approx 1 + \alpha x + \frac{\alpha(\alpha-1)}{2}x^2$
+前三项： $(1+x)^\alpha \approx 1 + \alpha x + \frac{\alpha(\alpha-1)}{2}x^2$
 
-> 常用特例：$\frac{1}{1+x} = (1+x)^{-1} = 1 - x + x^2 - x^3 + \cdots$
+> 常用特例： $\frac{1}{1+x} = (1+x)^{-1} = 1 - x + x^2 - x^3 + \cdots$
 
 ### 7. 几何级数（重要！）
 
@@ -58,13 +58,13 @@ $$
 \frac{1}{1-x} = 1 + x + x^2 + x^3 + \cdots
 $$
 
-前三项：$\frac{1}{1-x} \approx 1 + x + x^2$
+前三项： $\frac{1}{1-x} \approx 1 + x + x^2$
 
 $$
 \frac{1}{1+x} = 1 - x + x^2 - x^3 + \cdots
 $$
 
-前三项：$\frac{1}{1+x} \approx 1 - x + x^2$
+前三项： $\frac{1}{1+x} \approx 1 - x + x^2$
 
 ### 8. 反正切函数
 
@@ -72,7 +72,7 @@ $$
 \arctan x = x - \frac{x^3}{3} + \frac{x^5}{5} - \frac{x^7}{7} + \cdots
 $$
 
-前三项：$\arctan x \approx x - \frac{x^3}{3} + O(x^5)$
+前三项： $\arctan x \approx x - \frac{x^3}{3} + O(x^5)$
 
 ### 9. 正切函数
 
@@ -80,7 +80,7 @@ $$
 \tan x = x + \frac{x^3}{3} + \frac{2x^5}{15} + \frac{17x^7}{315} + \cdots
 $$
 
-前三项：$\tan x \approx x + \frac{x^3}{3} + O(x^5)$
+前三项： $\tan x \approx x + \frac{x^3}{3} + O(x^5)$
 
 ### 10. 反正弦函数
 
@@ -88,7 +88,7 @@ $$
 \arcsin x = x + \frac{x^3}{6} + \frac{3x^5}{40} + \frac{5x^7}{112} + \cdots
 $$
 
-前三项：$\arcsin x \approx x + \frac{x^3}{6} + O(x^5)$
+前三项： $\arcsin x \approx x + \frac{x^3}{6} + O(x^5)$
 
 ---
 
