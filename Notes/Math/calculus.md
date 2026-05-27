@@ -821,3 +821,193 @@ $$
 > - 判断方法：构造两个子列——一个使周期函数取 $\pm 1$（证无界），一个使周期函数取 $0$（证非无穷大）
 > - 常见 $\sin\frac{1}{x}$ 在 $x\to 0$ 时的振荡是此类题的标志性信号
 > - 经典结论：$\frac{1}{x^k}\sin\frac{1}{x}$（$k>0$，$x\to 0$）永远是无界但非无穷大
+
+---
+
+### 例题9：$1^\infty$ 型极限·公式法速解（2022 数二/数三真题）
+
+> **题目**（例18·2022 数二、数三）：求极限 $\displaystyle \lim_{x \to 0} \left(\frac{1+e^{x}}{2}\right)^{\cot x} = \underline{\qquad}$
+
+**思路分析**：
+
+$x \to 0$ 时，$\frac{1+e^{x}}{2} \to \frac{1+1}{2}=1$，$\cot x \to \infty$，为 **$1^\infty$ 型未定式**。
+
+$1^\infty$ 型有快速公式：$\lim u^v = e^{\lim v(u-1)}$（前提 $\lim u = 1, \lim v = \infty$）。
+
+---
+
+**解法一：$1^\infty$ 公式法（最快）**
+
+令 $u = \dfrac{1+e^{x}}{2}$，$v = \cot x$。
+
+**第一步**：求 $u-1$
+
+$$
+u - 1 = \frac{1+e^{x}}{2} - 1 = \frac{e^{x} - 1}{2}
+$$
+
+当 $x \to 0$ 时，$e^{x} - 1 \sim x$，所以：
+
+$$
+u - 1 \sim \frac{x}{2}
+$$
+
+**第二步**：求 $v(u-1)$
+
+$$
+v(u-1) = \cot x \cdot (u-1) \sim \frac{\cos x}{\sin x} \cdot \frac{x}{2}
+$$
+
+当 $x \to 0$：$\sin x \sim x$，$\cos x \to 1$：
+
+$$
+v(u-1) \sim \frac{1}{x} \cdot \frac{x}{2} = \frac{1}{2}
+$$
+
+**第三步**：代入公式
+
+$$
+\lim_{x \to 0} \left(\frac{1+e^{x}}{2}\right)^{\cot x} = e^{\lim v(u-1)} = e^{1/2}
+$$
+
+> ✅ **答案：$e^{1/2}$**
+
+---
+
+**解法二：取对数 + 泰勒展开（通用法）**
+
+令 $y = \left(\dfrac{1+e^{x}}{2}\right)^{\cot x}$，取对数：
+
+$$
+\ln y = \cot x \cdot \ln\left(\frac{1+e^{x}}{2}\right) = \frac{\cos x}{\sin x} \cdot \ln\left(\frac{1+e^{x}}{2}\right)
+$$
+
+$x \to 0$ 时，$\sin x \sim x$，$\cos x \to 1$：
+
+$$
+\ln y \sim \frac{1}{x} \cdot \ln\left(\frac{1+e^{x}}{2}\right)
+$$
+
+对 $e^{x}$ 泰勒展开：$e^{x} = 1 + x + \dfrac{x^2}{2} + \dfrac{x^3}{6} + O(x^4)$
+
+$$
+\frac{1+e^{x}}{2} = 1 + \frac{x}{2} + \frac{x^2}{4} + \frac{x^3}{12} + O(x^4)
+$$
+
+令 $t = \dfrac{x}{2} + \dfrac{x^2}{4} + \dfrac{x^3}{12}$，则 $\ln(1+t) = t - \dfrac{t^2}{2} + O(t^3)$：
+
+$$
+\begin{aligned}
+\ln\left(\frac{1+e^{x}}{2}\right) &= \left(\frac{x}{2} + \frac{x^2}{4} + \frac{x^3}{12}\right) - \frac{1}{2}\left(\frac{x}{2} + \frac{x^2}{4}\right)^2 + O(x^3) \\
+&= \frac{x}{2} + \frac{x^2}{4} + \frac{x^3}{12} - \frac{1}{2}\left(\frac{x^2}{4} + \frac{x^3}{4}\right) + O(x^3) \\
+&= \frac{x}{2} + \frac{x^2}{8} + O(x^3)
+\end{aligned}
+$$
+
+$$
+\ln y \sim \frac{1}{x}\left(\frac{x}{2} + \frac{x^2}{8}\right) = \frac{1}{2} + \frac{x}{8} \to \frac{1}{2}
+$$
+
+$$
+\lim y = e^{1/2}
+$$
+
+> ✅ **答案：$e^{1/2}$**
+
+---
+
+> 💡 **启示**：
+> - **$1^\infty$ 型首选公式**：$\lim u^v = e^{\lim v(u-1)}$，三步出答案
+> - 本题 $u-1 \sim \frac{x}{2}$，$v \sim \frac{1}{x}$，相乘即得 $\frac{1}{2}$
+> - 取对数法虽然慢但通用，当 $u-1$ 不便泰勒展开时用
+> - 与例题3对比：都是 $1^\infty$ 型，但本题用公式法更快
+
+---
+
+### 例题10：$1^\infty$ 型·数列极限·几何平均（经典题）
+
+> **题目**（20）：求极限 $\displaystyle \lim_{n \to \infty} \left(\frac{\sqrt[n]{a} + \sqrt[n]{b} + \sqrt[n]{c}}{3}\right)^n$，其中 $a > 0$，$b > 0$，$c > 0$。
+
+**思路分析**：
+
+$n \to \infty$ 时，$\sqrt[n]{a} = a^{1/n} \to 1$，底数 $\to \frac{1+1+1}{3}=1$，指数 $n \to \infty$，为 **$1^\infty$ 型**。
+
+关键技巧：$a^{1/n} = e^{\frac{\ln a}{n}}$，利用 $e^x - 1 \sim x$ 展开到一阶即可。
+
+---
+
+**解法一：$1^\infty$ 公式法**
+
+令 $u = \dfrac{a^{1/n} + b^{1/n} + c^{1/n}}{3}$，$v = n$。
+
+展开 $a^{1/n} = e^{\frac{\ln a}{n}} = 1 + \dfrac{\ln a}{n} + O\!\left(\dfrac{1}{n^2}\right)$
+
+同理 $b^{1/n} = 1 + \dfrac{\ln b}{n} + O\!\left(\dfrac{1}{n^2}\right)$，$c^{1/n} = 1 + \dfrac{\ln c}{n} + O\!\left(\dfrac{1}{n^2}\right)$
+
+$$
+u = \frac{3 + \frac{\ln a + \ln b + \ln c}{n} + O(\frac{1}{n^2})}{3}
+= 1 + \frac{\ln(abc)}{3n} + O\!\left(\frac{1}{n^2}\right)
+$$
+
+$$
+u - 1 \sim \frac{\ln(abc)}{3n}
+$$
+
+$$
+v(u-1) = n \cdot \frac{\ln(abc)}{3n} = \frac{\ln(abc)}{3}
+$$
+
+$$
+\lim_{n \to \infty} u^v = e^{\lim v(u-1)} = e^{\frac{\ln(abc)}{3}} = (abc)^{1/3} = \sqrt[3]{abc}
+$$
+
+> ✅ **答案：$\sqrt[3]{abc}$**
+
+---
+
+**解法二：取对数法**
+
+令 $y_n = \left(\dfrac{a^{1/n} + b^{1/n} + c^{1/n}}{3}\right)^n$
+
+$$
+\ln y_n = n \ln\!\left(\frac{a^{1/n} + b^{1/n} + c^{1/n}}{3}\right)
+$$
+
+令 $t = \dfrac{1}{n} \to 0^+$，则：
+
+$$
+\ln y_n = \frac{1}{t} \ln\!\left(\frac{a^t + b^t + c^t}{3}\right)
+$$
+
+转化为函数极限（$t \to 0^+$ 的 $\frac{0}{0}$ 型），用洛必达：
+
+$$
+\lim_{t \to 0} \frac{\ln(a^t + b^t + c^t) - \ln 3}{t}
+= \lim_{t \to 0} \frac{a^t \ln a + b^t \ln b + c^t \ln c}{a^t + b^t + c^t}
+$$
+
+> ⚠️ **关键一步**：此时分子分母各部分的极限**均存在**，可以拆开分别计算：
+>
+> - 分子：$\lim a^t \ln a = \ln a$，$\lim b^t \ln b = \ln b$，$\lim c^t \ln c = \ln c$
+> - 分母：$\lim (a^t + b^t + c^t) = 3 \neq 0$
+>
+> 因此可将极限"穿透"到分子分母内部：
+
+$$
+= \frac{\ln a + \ln b + \ln c}{3} = \frac{\ln(abc)}{3}
+$$
+
+$$
+\lim y_n = e^{\frac{\ln(abc)}{3}} = \sqrt[3]{abc}
+$$
+
+> ✅ **答案：$\sqrt[3]{abc}$**
+
+---
+
+> 💡 **启示**：
+> - 结果 $\sqrt[3]{abc}$ 恰好是 $a,b,c$ 的**几何平均数**——这是本题最漂亮的结论
+> - 推广：$\displaystyle \lim_{n\to\infty}\!\left(\frac{\sqrt[n]{a_1}+\cdots+\sqrt[n]{a_k}}{k}\right)^n = \sqrt[k]{a_1 a_2 \cdots a_k}$
+> - 关键展开：$a^{1/n} = 1 + \frac{\ln a}{n} + o(\frac{1}{n})$，只须一阶
+> - 洛必达法也很自然：$n\to\infty$ 换元 $t=1/n$，化数列极限为函数极限
+> - **拆项技巧**：洛必达后分子分母各部分极限均存在且分母 $\neq 0$，可直接将极限分配到各项
