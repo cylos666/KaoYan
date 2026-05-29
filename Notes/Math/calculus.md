@@ -1147,3 +1147,80 @@ $$
 > - 关键展开：$a^{1/n} = 1 + \frac{\ln a}{n} + o(\frac{1}{n})$，只须一阶
 > - 洛必达法也很自然：$n\to\infty$ 换元 $t=1/n$，化数列极限为函数极限
 > - **拆项技巧**：洛必达后分子分母各部分极限均存在且分母 $\neq 0$，可直接将极限分配到各项
+
+---
+
+### 例题11：$0/0$ 型极限·三角复合·洛必达 + 泰勒
+
+> **题目**：求极限 $\displaystyle \lim_{x \to 1} \frac{\ln \cos(x-1)}{1 - \sin\left(\frac{\pi}{2}x\right)}$
+
+**思路分析**：
+
+$x \to 1$ 时分子分母均 $\to 0$，为 **$0/0$ 型未定式**。
+
+关键观察：分母 $\sin\left(\frac{\pi}{2}x\right)$ 在 $x=1$ 处可凑成余弦形式。令 $t = x-1$ 换元，将 $x\to1$ 转化为 $t\to0$，便于使用常见等价无穷小和泰勒展开。
+
+---
+
+**换元**：令 $t = x-1$，则 $x = t+1$，$t \to 0$。
+
+分母处理（核心技巧）：
+
+$$
+\sin\left(\frac{\pi}{2}x\right) = \sin\left(\frac{\pi}{2}(t+1)\right) = \sin\left(\frac{\pi}{2}t + \frac{\pi}{2}\right) = \cos\left(\frac{\pi}{2}t\right)
+$$
+
+原式化为：
+
+$$
+\lim_{t \to 0} \frac{\ln \cos t}{1 - \cos\left(\frac{\pi}{2}t\right)}
+$$
+
+---
+
+**解法一：泰勒展开（等价无穷小）**
+
+当 $t \to 0$ 时：
+
+- $\cos t = 1 - \dfrac{t^2}{2} + O(t^4)$
+- $\ln \cos t = \ln\!\left(1 - \dfrac{t^2}{2} + O(t^4)\right) \sim -\dfrac{t^2}{2}$
+- $\cos\left(\dfrac{\pi}{2}t\right) = 1 - \dfrac{1}{2}\left(\dfrac{\pi}{2}t\right)^2 + O(t^4) = 1 - \dfrac{\pi^2 t^2}{8} + O(t^4)$
+- $1 - \cos\left(\dfrac{\pi}{2}t\right) \sim \dfrac{\pi^2 t^2}{8}$
+
+代入原式：
+
+$$
+\lim_{t \to 0} \frac{-\dfrac{t^2}{2}}{\dfrac{\pi^2 t^2}{8}} = -\frac{1}{2} \times \frac{8}{\pi^2} = -\frac{4}{\pi^2}
+$$
+
+> ✅ **答案：$-\dfrac{4}{\pi^2}$**
+
+---
+
+**解法二：洛必达法则**
+
+对 $\displaystyle \lim_{t \to 0} \frac{\ln \cos t}{1 - \cos\left(\frac{\pi}{2}t\right)}$ 用洛必达：
+
+分子求导：$\dfrac{d}{dt}\ln\cos t = \dfrac{-\sin t}{\cos t} = -\tan t$
+
+分母求导：$\dfrac{d}{dt}\!\left[1 - \cos\left(\dfrac{\pi}{2}t\right)\right] = \dfrac{\pi}{2}\sin\left(\dfrac{\pi}{2}t\right)$
+
+$$
+\lim_{t \to 0} \frac{-\tan t}{\dfrac{\pi}{2}\sin\left(\dfrac{\pi}{2}t\right)}
+$$
+
+当 $t \to 0$：$\tan t \sim t$，$\sin\left(\dfrac{\pi}{2}t\right) \sim \dfrac{\pi}{2}t$
+
+$$
+\lim_{t \to 0} \frac{-t}{\dfrac{\pi}{2} \cdot \dfrac{\pi}{2}t} = \frac{-1}{\dfrac{\pi^2}{4}} = -\frac{4}{\pi^2}
+$$
+
+> ✅ **答案：$-\dfrac{4}{\pi^2}$**
+
+---
+
+> 💡 **启示**：
+> - **换元 $t = x-1$** 是此类 $x\to1$ 极限的标准操作，把非 $0$ 点极限化为 $0$ 点极限
+> - **分母处理**：$\sin(\frac{\pi}{2}x) \xrightarrow{x=t+1} \cos(\frac{\pi}{2}t)$，利用的是 $\sin(\theta+\frac{\pi}{2}) = \cos\theta$ 的诱导公式
+> - 转化后的问题 $\displaystyle\lim_{t\to0}\frac{\ln\cos t}{1-\cos(at)}$ 形态非常规整，两种方法皆可
+> - 注意洛必达后分子 $\tan t \sim t$、分母 $\sin(\frac{\pi}{2}t) \sim \frac{\pi}{2}t$，比例系数刚好消去 $t$，得到常数
