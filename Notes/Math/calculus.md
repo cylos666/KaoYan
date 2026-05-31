@@ -341,7 +341,9 @@ $$
 
 ## 例题精讲
 
-### 例题1：无穷小比阶 + 泰勒展开
+### 一、无穷小比阶
+
+#### 例题1：无穷小比阶 + 泰勒展开
 
 > **题目**：设 $\cos x - 1 = x \sin \alpha(x)$，其中 $|\alpha(x)| < \frac{\pi}{2}$，则当 $x \to 0$ 时，$\alpha(x)$ 是 $x$ 的（ ）
 >
@@ -434,7 +436,9 @@ $$
 
 ---
 
-### 例题2：$0/0$ 型极限 · 三步法
+### 二、$0/0$ 型极限
+
+#### 例题2：$0/0$ 型极限 · 三步法
 
 > **题目**：求极限 $\displaystyle \lim_{x \to 0} \frac{\tan x - \sin x}{x^3}$
 
@@ -478,7 +482,140 @@ $$
 
 ---
 
-### 例题3：$1^\infty$ 型极限 · 重要极限法
+#### 例题3：$0/0$ 型极限 · 泰勒展开 / 洛必达
+
+> **题目**：设 $f(x)$ 二阶可导，$f(0)=0$，$f'(0)=1$，$f''(0)=2$，求极限 $\displaystyle\lim_{x\to 0}\frac{f(x)}{x^2}$。
+
+**思路分析**：已知函数在 $x=0$ 处的函数值、一阶和二阶导数值，考虑用**泰勒展开**将 $f(x)$ 展开到 $x^2$ 项，或使用**洛必达法则**逐步求导。由于 $f(0)=0$，$f'(0)=1\neq 0$，$f(x)$ 在 $x=0$ 附近的一次项主导，分母为 $x^2$，极限应为 $\infty$。
+
+---
+
+**解法一（泰勒展开法）**：
+
+由 $f(x)$ 二阶可导，在 $x=0$ 处泰勒展开到 $x^2$ 项：
+
+$$
+f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^2 + o(x^2)
+= 0 + 1\cdot x + \frac{2}{2}x^2 + o(x^2)
+= x + x^2 + o(x^2)
+$$
+
+代入极限：
+
+$$
+\lim_{x\to 0} \frac{f(x)}{x^2}
+= \lim_{x\to 0} \frac{x + x^2 + o(x^2)}{x^2}
+= \lim_{x\to 0} \left(\frac{1}{x} + 1 + \frac{o(x^2)}{x^2}\right)
+= \infty
+$$
+
+---
+
+**解法二（洛必达法则）**：
+
+$$
+\lim_{x\to 0} \frac{f(x)}{x^2}
+\xrightarrow{\frac{0}{0}}
+\lim_{x\to 0} \frac{f'(x)}{2x}
+$$
+
+由于 $f'(0)=1 \neq 0$，分子 $\to 1$，分母 $\to 0$，故
+
+$$
+\lim_{x\to 0} \frac{f'(x)}{2x} = \infty
+$$
+
+---
+
+> **答案**：$\boxed{\infty}$
+
+💡 **启示与要点**：
+1. 本题关键是识别 $f(x) \sim x$（一次项主导），分母为 $x^2$，因此极限为 $\infty$，属于**无穷大**情形。
+2. 若将分母改为 $x$，则 $\displaystyle\lim_{x\to0}\frac{f(x)}{x}=f'(0)=1$，这是导数定义的直接应用。
+3. 若将分子改为 $f(x)-x$，则 $\displaystyle\lim_{x\to0}\frac{f(x)-x}{x^2}=\frac{f''(0)}{2}=1$，体现了二阶导数在极限中的作用。
+
+---
+
+#### 例题4：$0/0$ 型极限 · 三角复合·洛必达 + 泰勒
+
+> **题目**：求极限 $\displaystyle \lim_{x \to 1} \frac{\ln \cos(x-1)}{1 - \sin\left(\frac{\pi}{2}x\right)}$
+
+**思路分析**：
+
+$x \to 1$ 时分子分母均 $\to 0$，为 **$0/0$ 型未定式**。
+
+关键观察：分母 $\sin\left(\frac{\pi}{2}x\right)$ 在 $x=1$ 处可凑成余弦形式。令 $t = x-1$ 换元，将 $x\to1$ 转化为 $t\to0$，便于使用常见等价无穷小和泰勒展开。
+
+---
+
+**换元**：令 $t = x-1$，则 $x = t+1$，$t \to 0$。
+
+分母处理（核心技巧）：
+
+$$
+\sin\left(\frac{\pi}{2}x\right) = \sin\left(\frac{\pi}{2}(t+1)\right) = \sin\left(\frac{\pi}{2}t + \frac{\pi}{2}\right) = \cos\left(\frac{\pi}{2}t\right)
+$$
+
+原式化为：
+
+$$
+\lim_{t \to 0} \frac{\ln \cos t}{1 - \cos\left(\frac{\pi}{2}t\right)}
+$$
+
+---
+
+**解法一：泰勒展开（等价无穷小）**
+
+当 $t \to 0$ 时：
+
+- $\cos t = 1 - \dfrac{t^2}{2} + O(t^4)$
+- $\ln \cos t = \ln\!\left(1 - \dfrac{t^2}{2} + O(t^4)\right) \sim -\dfrac{t^2}{2}$
+- $\cos\left(\dfrac{\pi}{2}t\right) = 1 - \dfrac{1}{2}\left(\dfrac{\pi}{2}t\right)^2 + O(t^4) = 1 - \dfrac{\pi^2 t^2}{8} + O(t^4)$
+- $1 - \cos\left(\dfrac{\pi}{2}t\right) \sim \dfrac{\pi^2 t^2}{8}$
+
+代入原式：
+
+$$
+\lim_{t \to 0} \frac{-\dfrac{t^2}{2}}{\dfrac{\pi^2 t^2}{8}} = -\frac{1}{2} \times \frac{8}{\pi^2} = -\frac{4}{\pi^2}
+$$
+
+> ✅ **答案：$-\dfrac{4}{\pi^2}$**
+
+---
+
+**解法二：洛必达法则**
+
+对 $\displaystyle \lim_{t \to 0} \frac{\ln \cos t}{1 - \cos\left(\frac{\pi}{2}t\right)}$ 用洛必达：
+
+分子求导：$\dfrac{d}{dt}\ln\cos t = \dfrac{-\sin t}{\cos t} = -\tan t$
+
+分母求导：$\dfrac{d}{dt}\!\left[1 - \cos\left(\dfrac{\pi}{2}t\right)\right] = \dfrac{\pi}{2}\sin\left(\dfrac{\pi}{2}t\right)$
+
+$$
+\lim_{t \to 0} \frac{-\tan t}{\dfrac{\pi}{2}\sin\left(\dfrac{\pi}{2}t\right)}
+$$
+
+当 $t \to 0$：$\tan t \sim t$，$\sin\left(\dfrac{\pi}{2}t\right) \sim \dfrac{\pi}{2}t$
+
+$$
+\lim_{t \to 0} \frac{-t}{\dfrac{\pi}{2} \cdot \dfrac{\pi}{2}t} = \frac{-1}{\dfrac{\pi^2}{4}} = -\frac{4}{\pi^2}
+$$
+
+> ✅ **答案：$-\dfrac{4}{\pi^2}$**
+
+---
+
+> 💡 **启示**：
+> - **换元 $t = x-1$** 是此类 $x\to1$ 极限的标准操作，把非 $0$ 点极限化为 $0$ 点极限
+> - **分母处理**：$\sin(\frac{\pi}{2}x) \xrightarrow{x=t+1} \cos(\frac{\pi}{2}t)$，利用的是 $\sin(\theta+\frac{\pi}{2}) = \cos\theta$ 的诱导公式
+> - 转化后的问题 $\displaystyle\lim_{t\to0}\frac{\ln\cos t}{1-\cos(at)}$ 形态非常规整，两种方法皆可
+> - 注意洛必达后分子 $\tan t \sim t$、分母 $\sin(\frac{\pi}{2}t) \sim \frac{\pi}{2}t$，比例系数刚好消去 $t$，得到常数
+
+---
+
+### 三、$1^\infty$ 型极限
+
+#### 例题5：$1^\infty$ 型极限 · 重要极限法
 
 > **题目**：求极限 $\displaystyle \lim_{x \to 0} (\cos x)^{\frac{1}{x^2}}$
 
@@ -514,7 +651,199 @@ $$
 
 ---
 
-### 例题4：数列极限 · 定积分定义
+#### 例题6：$1^\infty$ 型极限 · 公式法速解（2022 数二/数三真题）
+
+> **题目**（例18·2022 数二、数三）：求极限 $\displaystyle \lim_{x \to 0} \left(\frac{1+e^{x}}{2}\right)^{\cot x} = \underline{\qquad}$
+
+**思路分析**：
+
+$x \to 0$ 时，$\frac{1+e^{x}}{2} \to \frac{1+1}{2}=1$，$\cot x \to \infty$，为 **$1^\infty$ 型未定式**。
+
+$1^\infty$ 型有快速公式：$\lim u^v = e^{\lim v(u-1)}$（前提 $\lim u = 1, \lim v = \infty$）。
+
+---
+
+**解法一：$1^\infty$ 公式法（最快）**
+
+令 $u = \dfrac{1+e^{x}}{2}$，$v = \cot x$。
+
+**第一步**：求 $u-1$
+
+$$
+u - 1 = \frac{1+e^{x}}{2} - 1 = \frac{e^{x} - 1}{2}
+$$
+
+当 $x \to 0$ 时，$e^{x} - 1 \sim x$，所以：
+
+$$
+u - 1 \sim \frac{x}{2}
+$$
+
+**第二步**：求 $v(u-1)$
+
+$$
+v(u-1) = \cot x \cdot (u-1) \sim \frac{\cos x}{\sin x} \cdot \frac{x}{2}
+$$
+
+当 $x \to 0$：$\sin x \sim x$，$\cos x \to 1$：
+
+$$
+v(u-1) \sim \frac{1}{x} \cdot \frac{x}{2} = \frac{1}{2}
+$$
+
+**第三步**：代入公式
+
+$$
+\lim_{x \to 0} \left(\frac{1+e^{x}}{2}\right)^{\cot x} = e^{\lim v(u-1)} = e^{1/2}
+$$
+
+> ✅ **答案：$e^{1/2}$**
+
+---
+
+**解法二：取对数 + 泰勒展开（通用法）**
+
+令 $y = \left(\dfrac{1+e^{x}}{2}\right)^{\cot x}$，取对数：
+
+$$
+\ln y = \cot x \cdot \ln\left(\frac{1+e^{x}}{2}\right) = \frac{\cos x}{\sin x} \cdot \ln\left(\frac{1+e^{x}}{2}\right)
+$$
+
+$x \to 0$ 时，$\sin x \sim x$，$\cos x \to 1$：
+
+$$
+\ln y \sim \frac{1}{x} \cdot \ln\left(\frac{1+e^{x}}{2}\right)
+$$
+
+对 $e^{x}$ 泰勒展开：$e^{x} = 1 + x + \dfrac{x^2}{2} + \dfrac{x^3}{6} + O(x^4)$
+
+$$
+\frac{1+e^{x}}{2} = 1 + \frac{x}{2} + \frac{x^2}{4} + \frac{x^3}{12} + O(x^4)
+$$
+
+令 $t = \dfrac{x}{2} + \dfrac{x^2}{4} + \dfrac{x^3}{12}$，则 $\ln(1+t) = t - \dfrac{t^2}{2} + O(t^3)$：
+
+$$
+\begin{aligned}
+\ln\left(\frac{1+e^{x}}{2}\right) &= \left(\frac{x}{2} + \frac{x^2}{4} + \frac{x^3}{12}\right) - \frac{1}{2}\left(\frac{x}{2} + \frac{x^2}{4}\right)^2 + O(x^3) \\
+&= \frac{x}{2} + \frac{x^2}{4} + \frac{x^3}{12} - \frac{1}{2}\left(\frac{x^2}{4} + \frac{x^3}{4}\right) + O(x^3) \\
+&= \frac{x}{2} + \frac{x^2}{8} + O(x^3)
+\end{aligned}
+$$
+
+$$
+\ln y \sim \frac{1}{x}\left(\frac{x}{2} + \frac{x^2}{8}\right) = \frac{1}{2} + \frac{x}{8} \to \frac{1}{2}
+$$
+
+$$
+\lim y = e^{1/2}
+$$
+
+> ✅ **答案：$e^{1/2}$**
+
+---
+
+> 💡 **启示**：
+> - **$1^\infty$ 型首选公式**：$\lim u^v = e^{\lim v(u-1)}$，三步出答案
+> - 本题 $u-1 \sim \frac{x}{2}$，$v \sim \frac{1}{x}$，相乘即得 $\frac{1}{2}$
+> - 取对数法虽然慢但通用，当 $u-1$ 不便泰勒展开时用
+> - 与例题5对比：都是 $1^\infty$ 型，但本题用公式法更快
+
+---
+
+#### 例题7：$1^\infty$ 型极限 · 数列极限·几何平均（经典题）
+
+> **题目**（20）：求极限 $\displaystyle \lim_{n \to \infty} \left(\frac{\sqrt[n]{a} + \sqrt[n]{b} + \sqrt[n]{c}}{3}\right)^n$，其中 $a > 0$，$b > 0$，$c > 0$。
+
+**思路分析**：
+
+$n \to \infty$ 时，$\sqrt[n]{a} = a^{1/n} \to 1$，底数 $\to \frac{1+1+1}{3}=1$，指数 $n \to \infty$，为 **$1^\infty$ 型**。
+
+关键技巧：$a^{1/n} = e^{\frac{\ln a}{n}}$，利用 $e^x - 1 \sim x$ 展开到一阶即可。
+
+---
+
+**解法一：$1^\infty$ 公式法**
+
+令 $u = \dfrac{a^{1/n} + b^{1/n} + c^{1/n}}{3}$，$v = n$。
+
+展开 $a^{1/n} = e^{\frac{\ln a}{n}} = 1 + \dfrac{\ln a}{n} + O\!\left(\dfrac{1}{n^2}\right)$
+
+同理 $b^{1/n} = 1 + \dfrac{\ln b}{n} + O\!\left(\dfrac{1}{n^2}\right)$，$c^{1/n} = 1 + \dfrac{\ln c}{n} + O\!\left(\dfrac{1}{n^2}\right)$
+
+$$
+u = \frac{3 + \frac{\ln a + \ln b + \ln c}{n} + O(\frac{1}{n^2})}{3}
+= 1 + \frac{\ln(abc)}{3n} + O\!\left(\frac{1}{n^2}\right)
+$$
+
+$$
+u - 1 \sim \frac{\ln(abc)}{3n}
+$$
+
+$$
+v(u-1) = n \cdot \frac{\ln(abc)}{3n} = \frac{\ln(abc)}{3}
+$$
+
+$$
+\lim_{n \to \infty} u^v = e^{\lim v(u-1)} = e^{\frac{\ln(abc)}{3}} = (abc)^{1/3} = \sqrt[3]{abc}
+$$
+
+> ✅ **答案：$\sqrt[3]{abc}$**
+
+---
+
+**解法二：取对数法**
+
+令 $y_n = \left(\dfrac{a^{1/n} + b^{1/n} + c^{1/n}}{3}\right)^n$
+
+$$
+\ln y_n = n \ln\!\left(\frac{a^{1/n} + b^{1/n} + c^{1/n}}{3}\right)
+$$
+
+令 $t = \dfrac{1}{n} \to 0^+$，则：
+
+$$
+\ln y_n = \frac{1}{t} \ln\!\left(\frac{a^t + b^t + c^t}{3}\right)
+$$
+
+转化为函数极限（$t \to 0^+$ 的 $\frac{0}{0}$ 型），用洛必达：
+
+$$
+\lim_{t \to 0} \frac{\ln(a^t + b^t + c^t) - \ln 3}{t}
+= \lim_{t \to 0} \frac{a^t \ln a + b^t \ln b + c^t \ln c}{a^t + b^t + c^t}
+$$
+
+> ⚠️ **关键一步**：此时分子分母各部分的极限**均存在**，可以拆开分别计算：
+>
+> - 分子：$\lim a^t \ln a = \ln a$，$\lim b^t \ln b = \ln b$，$\lim c^t \ln c = \ln c$
+> - 分母：$\lim (a^t + b^t + c^t) = 3 \neq 0$
+>
+> 因此可将极限"穿透"到分子分母内部：
+
+$$
+= \frac{\ln a + \ln b + \ln c}{3} = \frac{\ln(abc)}{3}
+$$
+
+$$
+\lim y_n = e^{\frac{\ln(abc)}{3}} = \sqrt[3]{abc}
+$$
+
+> ✅ **答案：$\sqrt[3]{abc}$**
+
+---
+
+> 💡 **启示**：
+> - 结果 $\sqrt[3]{abc}$ 恰好是 $a,b,c$ 的**几何平均数**——这是本题最漂亮的结论
+> - 推广：$\displaystyle \lim_{n\to\infty}\!\left(\frac{\sqrt[n]{a_1}+\cdots+\sqrt[n]{a_k}}{k}\right)^n = \sqrt[k]{a_1 a_2 \cdots a_k}$
+> - 关键展开：$a^{1/n} = 1 + \frac{\ln a}{n} + o(\frac{1}{n})$，只须一阶
+> - 洛必达法也很自然：$n\to\infty$ 换元 $t=1/n$，化数列极限为函数极限
+> - **拆项技巧**：洛必达后分子分母各部分极限均存在且分母 $\neq 0$，可直接将极限分配到各项
+
+---
+
+### 四、数列极限
+
+#### 例题8：数列极限 · 定积分定义
 
 > **题目**：求极限 $\displaystyle \lim_{n \to \infty} \sum_{k=1}^{n} \frac{n}{n^2 + k^2}$
 
@@ -538,7 +867,64 @@ $$
 
 ---
 
-### 例题5：数列收敛的 ε-N 定义辨析
+#### 例题9：数列极限 · 定积分定义（调和型）
+
+> **题目**：$\displaystyle \lim_{n \to \infty}\left(\frac{1}{n+1}+\frac{1}{n+2}+\cdots+\frac{1}{n+n}\right)=\underline{\quad}$
+
+**思路分析**：
+
+这是典型的**定积分定义求和极限**问题。和式中的每一项为 $\frac{1}{n+k}$（$k=1,\dots,n$），分母 $n+k$ 随 $k$ 变化。核心思路是提出因子 $\frac{1}{n}$，将和式化为 $\frac{1}{n}\sum f(\frac{k}{n})$ 的标准形式。
+
+---
+
+**解法一：定积分定义**
+
+$$
+\lim_{n \to \infty} \sum_{k=1}^{n} \frac{1}{n+k}
+= \lim_{n \to \infty} \frac{1}{n} \sum_{k=1}^{n} \frac{1}{1+\frac{k}{n}}
+$$
+
+令 $x_k = \frac{k}{n}$，$\Delta x = \frac{1}{n}$，则上式化为定积分：
+
+$$
+\lim_{n \to \infty} \frac{1}{n} \sum_{k=1}^{n} \frac{1}{1+\frac{k}{n}}
+= \int_0^1 \frac{1}{1+x}\,dx
+= \ln(1+x)\Big|_0^1
+= \ln 2
+$$
+
+---
+
+**解法二：调和级数近似（欧拉常数）**
+
+令 $H_n = 1 + \frac{1}{2} + \cdots + \frac{1}{n}$（第 $n$ 个调和数），则：
+
+$$
+\sum_{k=1}^{n} \frac{1}{n+k} = H_{2n} - H_n
+$$
+
+由欧拉-麦克劳林公式，$H_n = \ln n + \gamma + o(1)$（$\gamma$ 为欧拉常数），故：
+
+$$
+H_{2n} - H_n = (\ln 2n + \gamma) - (\ln n + \gamma) + o(1) = \ln 2 + o(1)
+$$
+
+$$
+\lim_{n \to \infty} (H_{2n} - H_n) = \ln 2
+$$
+
+---
+
+> ✅ **答案**：$\boxed{\ln 2}$
+
+💡 **启示与对比**：
+1. 与**例题8**对比：两者都是 $\frac{1}{n}\sum f(\frac{k}{n})$ 形式的定积分定义问题，但例题8的被积函数为 $\frac{1}{1+x^2}$，本题为 $\frac{1}{1+x}$，结果分别为 $\frac{\pi}{4}$ 和 $\ln 2$。
+2. **关键变形**：$\frac{1}{n+k} = \frac{1}{n}\cdot\frac{1}{1+\frac{k}{n}}$，将分母中的 $n+k$ 拆出 $n$ 因子是定积分定义的标准手法。
+3. 解法二利用调和级数近似，提供了一个更宏观的视角——此类求和可看作 $\ln$ 函数的离散化。
+
+---
+
+#### 例题10：数列收敛的 ε-N 定义辨析
 
 > **题目**（例13·1999 数二）："对任意给定的 $\varepsilon \in (0,1)$，总存在正整数 $N$，当 $n \geq N$ 时，恒有 $|x_n - a| \leq 2\varepsilon$" 是数列 $\{x_n\}$ 收敛于 $a$ 的（ ）
 >
@@ -643,6 +1029,201 @@ $$
 
 ---
 
+#### 例题14：数列极限 · 单调有界准则（递推数列）
+
+> **题目**：设 $x_1 > 0$，$x_{n+1} = \dfrac{1}{2}\left(x_n + \dfrac{1}{x_n}\right)$（$n = 1, 2, \dots$），求极限 $\displaystyle\lim_{n \to \infty} x_n$。
+
+**思路分析**：
+
+这是典型的**递推数列求极限**问题，核心方法是**单调有界准则**：先证数列单调且有界，再对递推式两边取极限求值。也可通过代数变形直接得到收敛速度。
+
+---
+
+**解法一：单调有界准则**
+
+**第一步：有界性**
+
+由 $x_1 > 0$ 及递推式显然 $x_n > 0$（$\forall n$）。对 $n \ge 1$，由 AM–GM 不等式：
+
+$$
+x_{n+1} = \frac{1}{2}\left(x_n + \frac{1}{x_n}\right) \ge \sqrt{x_n \cdot \frac{1}{x_n}} = 1
+$$
+
+故 $x_n \ge 1$（$n \ge 2$），数列有下界 $1$。
+
+**第二步：单调性**
+
+$$
+x_{n+1} - x_n = \frac{1}{2}\left(x_n + \frac{1}{x_n}\right) - x_n
+= \frac{1}{2}\left(\frac{1}{x_n} - x_n\right)
+= \frac{1 - x_n^2}{2x_n}
+$$
+
+当 $n \ge 2$ 时 $x_n \ge 1$，故 $1 - x_n^2 \le 0$，即 $x_{n+1} - x_n \le 0$。因此 $\{x_n\}_{n\ge 2}$ 单调递减。
+
+**第三步：求极限**
+
+$\{x_n\}$ 单调递减有下界 ⇒ 极限存在。设 $\displaystyle\lim_{n\to\infty} x_n = a$（$a \ge 1$）。
+
+对递推式两边取极限：
+
+$$
+a = \frac{1}{2}\left(a + \frac{1}{a}\right)
+\;\Longrightarrow\; 2a = a + \frac{1}{a}
+\;\Longrightarrow\; a = \frac{1}{a}
+\;\Longrightarrow\; a^2 = 1
+$$
+
+由 $a \ge 1$ 得 $a = 1$。
+
+> ✅ **答案：$1$**
+
+---
+
+**解法二：代数变形（平方收敛）**
+
+$$
+x_{n+1} - 1 = \frac{1}{2}\left(x_n + \frac{1}{x_n}\right) - 1
+= \frac{x_n^2 + 1 - 2x_n}{2x_n}
+= \frac{(x_n - 1)^2}{2x_n}
+$$
+
+若 $x_1 = 1$，则 $x_n \equiv 1$，极限为 $1$。
+
+若 $x_1 \neq 1$，由上式知 $x_{n+1} - 1$ 与 $(x_n - 1)^2$ 同阶，即**平方收敛**到 $0$，故 $\displaystyle\lim_{n\to\infty} x_n = 1$。
+
+> ✅ **答案：$\boxed{1}$**
+
+---
+
+> 💡 **启示与要点**：
+> 1. **递推数列极限的标准流程**：证单调 → 证有界 → 设极限 → 递推式取极限 → 解方程。
+> 2. 本题是牛顿迭代法求 $\sqrt{1}$（即求 $x^2 = 1$ 的根）的经典例子，迭代公式 $x_{n+1} = \frac{1}{2}(x_n + \frac{a}{x_n})$ 用于求 $\sqrt{a}$。
+> 3. 解法二揭示了本题的**平方收敛速度**，比解法一的"存在性 + 极限值"给出更多信息。
+> 4. 此题与后续例题不同：它不是用定积分定义或 ε-N 定义，而是用**单调有界准则**——数列极限的三大方法之一。
+
+---
+
+### 五、无穷大 × 周期函数
+
+## 知识卡片：无穷大 × 非零周期函数
+
+**结论**：设 $f(x)$ 为**非零周期函数**（如 $\sin x$、$\cos x$），$g(x) \to \infty$（$x \to x_0$），则：
+
+$$
+f(x) \cdot g(x) \quad\text{是}\quad \text{【无界但不为无穷大】}
+$$
+
+**为什么不是无穷大？**
+
+无穷大的定义：$\forall M > 0$，$\exists \delta > 0$，当 $0 < |x-x_0| < \delta$ 时，$|h(x)| > M$。
+
+但 $f(x) \cdot g(x)$ 不满足此定义——因为 $f(x)$ 周期性振荡，会**反复穿过零点**：
+
+- 当周期函数取 $\pm 1$ 时：$|f \cdot g| = |g| \to \infty$（可以任意大 → **无界**）
+- 当周期函数取 $0$ 时：$f \cdot g = 0$（无法保证始终大于任意 $M$ → **不是无穷大**）
+
+**判定口诀**：
+
+$$
+\text{无穷大} \times \text{非零周期函数} = \text{无界} \neq \text{无穷大}
+$$
+
+**常见题型**：判断 $\dfrac{1}{x^k}\sin\dfrac{1}{x}$、$x\sin x$（$x\to\infty$）等的极限性质。
+
+---
+
+#### 例题11：无穷大 × 周期函数·无界但不为无穷大（1993 数三真题）
+
+> **题目**（例16·1993 数三）：当 $x \to 0$ 时，变量 $\displaystyle \frac{1}{x^2}\sin\frac{1}{x}$ 是（ ）
+>
+> A. 无穷小
+> B. 无穷大
+> C. 有界的，但不是无穷小
+> D. 无界的，但不是无穷大
+
+**思路分析**：
+
+$x \to 0$ 时，$\frac{1}{x^2} \to +\infty$（无穷大量），而 $\sin\frac{1}{x}$ 在 $[-1,1]$ 间无限次振荡（周期函数）。两者的乘积既不是无穷大（因为 $\sin\frac{1}{x}$ 反复取 $0$），也不是有界（因为 $\sin\frac{1}{x}$ 反复取 $\pm 1$ 时 $\frac{1}{x^2}$ 可以任意大）。
+
+---
+
+**解法**：
+
+**第一步：证明无界**
+
+取子列 $x_n = \dfrac{1}{2n\pi + \frac{\pi}{2}}$，则当 $n \to \infty$ 时 $x_n \to 0$，且：
+
+$$
+\sin\frac{1}{x_n} = \sin\left(2n\pi + \frac{\pi}{2}\right) = 1
+$$
+
+$$
+\frac{1}{x_n^2}\sin\frac{1}{x_n} = \frac{1}{x_n^2} \times 1 = \left(2n\pi + \frac{\pi}{2}\right)^2 \to +\infty
+$$
+
+所以该变量**无界** ✅
+
+---
+
+**第二步：证明不是无穷大**
+
+取另一子列 $x_n = \dfrac{1}{2n\pi}$，则当 $n \to \infty$ 时 $x_n \to 0$，且：
+
+$$
+\sin\frac{1}{x_n} = \sin(2n\pi) = 0
+$$
+
+$$
+\frac{1}{x_n^2}\sin\frac{1}{x_n} = \frac{1}{x_n^2} \times 0 = 0
+$$
+
+在 $x=0$ 的任意邻域内，该变量都能取到 $0$，不满足无穷大的定义（无穷大要求「最终」恒大于任意正数），所以**不是无穷大** ❌
+
+---
+
+**结论**：无界但不是无穷大。
+
+> ✅ **答案：D**
+
+---
+
+### 🧪 配套练习
+
+> **练习1**：当 $x \to \infty$ 时，$x\sin x$ 是（ ）
+>
+> A. 无穷小　B. 无穷大　C. 有界变量　D. 无界但非无穷大
+
+**解**：$x \to \infty$，$\sin x$ 振荡于 $[-1,1]$。
+
+- 取 $x = 2n\pi + \frac{\pi}{2}$，$x\sin x = x \to \infty$ → 无界
+- 取 $x = n\pi$，$x\sin x = 0$ → 不是无穷大
+
+> **答案**：D
+
+---
+
+> **练习2**：当 $x \to 0$ 时，$\displaystyle \frac{1}{x}\cos\frac{1}{x}$ 是（ ）
+
+**解**：同理，$\frac{1}{x} \to \infty$，$\cos\frac{1}{x}$ 振荡。
+
+- 取 $x = \frac{1}{2n\pi}$，$\cos\frac{1}{x} = 1$，$\frac{1}{x}\cos\frac{1}{x} = 2n\pi \to \infty$ → 无界
+- 取 $x = \frac{1}{2n\pi + \frac{\pi}{2}}$，$\cos\frac{1}{x} = 0$，表达式 $=0$ → 不是无穷大
+
+> **答案**：无界但不是无穷大
+
+---
+
+> 💡 **启示**：
+> - **无界 ≠ 无穷大**：无穷大要求「终极」大于任意数，无界只要求「存在」大于任意数的点
+> - 判断方法：构造两个子列——一个使周期函数取 $\pm 1$（证无界），一个使周期函数取 $0$（证非无穷大）
+> - 常见 $\sin\frac{1}{x}$ 在 $x\to 0$ 时的振荡是此类题的标志性信号
+> - 经典结论：$\frac{1}{x^k}\sin\frac{1}{x}$（$k>0$，$x\to 0$）永远是无界但非无穷大
+
+---
+
+### 六、复合函数反推内层极限
+
 ## 知识卡片：复合函数极限反推内层极限
 
 > **定理**：设 $\displaystyle\lim_{x \to x_0} f(g(x)) = A$，且满足：
@@ -663,7 +1244,7 @@ $$
 
 ---
 
-### 例题6：复合函数反推内层极限
+#### 例题12：复合函数反推内层极限
 
 > **题目**：设 $f(x)$ 在 $\mathbb{R}$ 上连续且严格单调递增，$\displaystyle\lim_{x \to +\infty} f(g(x)) = A$，且 $g(x)$ 在 $[0,+\infty)$ 上有界。证明：$\displaystyle\lim_{x \to +\infty} g(x)$ 存在，并求出该极限。
 
@@ -757,7 +1338,7 @@ $$
 
 ---
 
-### 例题7：单调性判定·复合函数反推（2022 数一/二真题）
+#### 例题13：单调性判定·复合函数反推（2022 数一/二真题）
 
 > **题目**（例15·2022 数一、二）：已知数列 $\{x_n\}$，其中 $-\dfrac{\pi}{2} \leq x_n \leq \dfrac{\pi}{2}$，则（ ）
 >
@@ -841,386 +1422,3 @@ cos x_n ∈ [0,1]   → sin 单调   → B、D 可推到 cos x_n
                                    B 过度推断到 x_n ❌
                                    D 恰在 cos x_n 停住 ✅
 ```
-
----
-
-## 知识卡片：无穷大 × 非零周期函数
-
-**结论**：设 $f(x)$ 为**非零周期函数**（如 $\sin x$、$\cos x$），$g(x) \to \infty$（$x \to x_0$），则：
-
-$$
-f(x) \cdot g(x) \quad\text{是}\quad \text{【无界但不为无穷大】}
-$$
-
-**为什么不是无穷大？**
-
-无穷大的定义：$\forall M > 0$，$\exists \delta > 0$，当 $0 < |x-x_0| < \delta$ 时，$|h(x)| > M$。
-
-但 $f(x) \cdot g(x)$ 不满足此定义——因为 $f(x)$ 周期性振荡，会**反复穿过零点**：
-
-- 当周期函数取 $\pm 1$ 时：$|f \cdot g| = |g| \to \infty$（可以任意大 → **无界**）
-- 当周期函数取 $0$ 时：$f \cdot g = 0$（无法保证始终大于任意 $M$ → **不是无穷大**）
-
-**判定口诀**：
-
-$$
-\text{无穷大} \times \text{非零周期函数} = \text{无界} \neq \text{无穷大}
-$$
-
-**常见题型**：判断 $\dfrac{1}{x^k}\sin\dfrac{1}{x}$、$x\sin x$（$x\to\infty$）等的极限性质。
-
----
-
-### 例题8：无穷大 × 周期函数·无界但不为无穷大（1993 数三真题）
-
-> **题目**（例16·1993 数三）：当 $x \to 0$ 时，变量 $\displaystyle \frac{1}{x^2}\sin\frac{1}{x}$ 是（ ）
->
-> A. 无穷小
-> B. 无穷大
-> C. 有界的，但不是无穷小
-> D. 无界的，但不是无穷大
-
-**思路分析**：
-
-$x \to 0$ 时，$\frac{1}{x^2} \to +\infty$（无穷大量），而 $\sin\frac{1}{x}$ 在 $[-1,1]$ 间无限次振荡（周期函数）。两者的乘积既不是无穷大（因为 $\sin\frac{1}{x}$ 反复取 $0$），也不是有界（因为 $\sin\frac{1}{x}$ 反复取 $\pm 1$ 时 $\frac{1}{x^2}$ 可以任意大）。
-
----
-
-**解法**：
-
-**第一步：证明无界**
-
-取子列 $x_n = \dfrac{1}{2n\pi + \frac{\pi}{2}}$，则当 $n \to \infty$ 时 $x_n \to 0$，且：
-
-$$
-\sin\frac{1}{x_n} = \sin\left(2n\pi + \frac{\pi}{2}\right) = 1
-$$
-
-$$
-\frac{1}{x_n^2}\sin\frac{1}{x_n} = \frac{1}{x_n^2} \times 1 = \left(2n\pi + \frac{\pi}{2}\right)^2 \to +\infty
-$$
-
-所以该变量**无界** ✅
-
----
-
-**第二步：证明不是无穷大**
-
-取另一子列 $x_n = \dfrac{1}{2n\pi}$，则当 $n \to \infty$ 时 $x_n \to 0$，且：
-
-$$
-\sin\frac{1}{x_n} = \sin(2n\pi) = 0
-$$
-
-$$
-\frac{1}{x_n^2}\sin\frac{1}{x_n} = \frac{1}{x_n^2} \times 0 = 0
-$$
-
-在 $x=0$ 的任意邻域内，该变量都能取到 $0$，不满足无穷大的定义（无穷大要求「最终」恒大于任意正数），所以**不是无穷大** ❌
-
----
-
-**结论**：无界但不是无穷大。
-
-> ✅ **答案：D**
-
----
-
-### 🧪 配套练习
-
-> **练习1**：当 $x \to \infty$ 时，$x\sin x$ 是（ ）
->
-> A. 无穷小　B. 无穷大　C. 有界变量　D. 无界但非无穷大
-
-**解**：$x \to \infty$，$\sin x$ 振荡于 $[-1,1]$。
-
-- 取 $x = 2n\pi + \frac{\pi}{2}$，$x\sin x = x \to \infty$ → 无界
-- 取 $x = n\pi$，$x\sin x = 0$ → 不是无穷大
-
-> **答案**：D
-
----
-
-> **练习2**：当 $x \to 0$ 时，$\displaystyle \frac{1}{x}\cos\frac{1}{x}$ 是（ ）
-
-**解**：同理，$\frac{1}{x} \to \infty$，$\cos\frac{1}{x}$ 振荡。
-
-- 取 $x = \frac{1}{2n\pi}$，$\cos\frac{1}{x} = 1$，$\frac{1}{x}\cos\frac{1}{x} = 2n\pi \to \infty$ → 无界
-- 取 $x = \frac{1}{2n\pi + \frac{\pi}{2}}$，$\cos\frac{1}{x} = 0$，表达式 $=0$ → 不是无穷大
-
-> **答案**：无界但不是无穷大
-
----
-
-> 💡 **启示**：
-> - **无界 ≠ 无穷大**：无穷大要求「终极」大于任意数，无界只要求「存在」大于任意数的点
-> - 判断方法：构造两个子列——一个使周期函数取 $\pm 1$（证无界），一个使周期函数取 $0$（证非无穷大）
-> - 常见 $\sin\frac{1}{x}$ 在 $x\to 0$ 时的振荡是此类题的标志性信号
-> - 经典结论：$\frac{1}{x^k}\sin\frac{1}{x}$（$k>0$，$x\to 0$）永远是无界但非无穷大
-
----
-
-### 例题9：$1^\infty$ 型极限·公式法速解（2022 数二/数三真题）
-
-> **题目**（例18·2022 数二、数三）：求极限 $\displaystyle \lim_{x \to 0} \left(\frac{1+e^{x}}{2}\right)^{\cot x} = \underline{\qquad}$
-
-**思路分析**：
-
-$x \to 0$ 时，$\frac{1+e^{x}}{2} \to \frac{1+1}{2}=1$，$\cot x \to \infty$，为 **$1^\infty$ 型未定式**。
-
-$1^\infty$ 型有快速公式：$\lim u^v = e^{\lim v(u-1)}$（前提 $\lim u = 1, \lim v = \infty$）。
-
----
-
-**解法一：$1^\infty$ 公式法（最快）**
-
-令 $u = \dfrac{1+e^{x}}{2}$，$v = \cot x$。
-
-**第一步**：求 $u-1$
-
-$$
-u - 1 = \frac{1+e^{x}}{2} - 1 = \frac{e^{x} - 1}{2}
-$$
-
-当 $x \to 0$ 时，$e^{x} - 1 \sim x$，所以：
-
-$$
-u - 1 \sim \frac{x}{2}
-$$
-
-**第二步**：求 $v(u-1)$
-
-$$
-v(u-1) = \cot x \cdot (u-1) \sim \frac{\cos x}{\sin x} \cdot \frac{x}{2}
-$$
-
-当 $x \to 0$：$\sin x \sim x$，$\cos x \to 1$：
-
-$$
-v(u-1) \sim \frac{1}{x} \cdot \frac{x}{2} = \frac{1}{2}
-$$
-
-**第三步**：代入公式
-
-$$
-\lim_{x \to 0} \left(\frac{1+e^{x}}{2}\right)^{\cot x} = e^{\lim v(u-1)} = e^{1/2}
-$$
-
-> ✅ **答案：$e^{1/2}$**
-
----
-
-**解法二：取对数 + 泰勒展开（通用法）**
-
-令 $y = \left(\dfrac{1+e^{x}}{2}\right)^{\cot x}$，取对数：
-
-$$
-\ln y = \cot x \cdot \ln\left(\frac{1+e^{x}}{2}\right) = \frac{\cos x}{\sin x} \cdot \ln\left(\frac{1+e^{x}}{2}\right)
-$$
-
-$x \to 0$ 时，$\sin x \sim x$，$\cos x \to 1$：
-
-$$
-\ln y \sim \frac{1}{x} \cdot \ln\left(\frac{1+e^{x}}{2}\right)
-$$
-
-对 $e^{x}$ 泰勒展开：$e^{x} = 1 + x + \dfrac{x^2}{2} + \dfrac{x^3}{6} + O(x^4)$
-
-$$
-\frac{1+e^{x}}{2} = 1 + \frac{x}{2} + \frac{x^2}{4} + \frac{x^3}{12} + O(x^4)
-$$
-
-令 $t = \dfrac{x}{2} + \dfrac{x^2}{4} + \dfrac{x^3}{12}$，则 $\ln(1+t) = t - \dfrac{t^2}{2} + O(t^3)$：
-
-$$
-\begin{aligned}
-\ln\left(\frac{1+e^{x}}{2}\right) &= \left(\frac{x}{2} + \frac{x^2}{4} + \frac{x^3}{12}\right) - \frac{1}{2}\left(\frac{x}{2} + \frac{x^2}{4}\right)^2 + O(x^3) \\
-&= \frac{x}{2} + \frac{x^2}{4} + \frac{x^3}{12} - \frac{1}{2}\left(\frac{x^2}{4} + \frac{x^3}{4}\right) + O(x^3) \\
-&= \frac{x}{2} + \frac{x^2}{8} + O(x^3)
-\end{aligned}
-$$
-
-$$
-\ln y \sim \frac{1}{x}\left(\frac{x}{2} + \frac{x^2}{8}\right) = \frac{1}{2} + \frac{x}{8} \to \frac{1}{2}
-$$
-
-$$
-\lim y = e^{1/2}
-$$
-
-> ✅ **答案：$e^{1/2}$**
-
----
-
-> 💡 **启示**：
-> - **$1^\infty$ 型首选公式**：$\lim u^v = e^{\lim v(u-1)}$，三步出答案
-> - 本题 $u-1 \sim \frac{x}{2}$，$v \sim \frac{1}{x}$，相乘即得 $\frac{1}{2}$
-> - 取对数法虽然慢但通用，当 $u-1$ 不便泰勒展开时用
-> - 与例题3对比：都是 $1^\infty$ 型，但本题用公式法更快
-
----
-
-### 例题10：$1^\infty$ 型·数列极限·几何平均（经典题）
-
-> **题目**（20）：求极限 $\displaystyle \lim_{n \to \infty} \left(\frac{\sqrt[n]{a} + \sqrt[n]{b} + \sqrt[n]{c}}{3}\right)^n$，其中 $a > 0$，$b > 0$，$c > 0$。
-
-**思路分析**：
-
-$n \to \infty$ 时，$\sqrt[n]{a} = a^{1/n} \to 1$，底数 $\to \frac{1+1+1}{3}=1$，指数 $n \to \infty$，为 **$1^\infty$ 型**。
-
-关键技巧：$a^{1/n} = e^{\frac{\ln a}{n}}$，利用 $e^x - 1 \sim x$ 展开到一阶即可。
-
----
-
-**解法一：$1^\infty$ 公式法**
-
-令 $u = \dfrac{a^{1/n} + b^{1/n} + c^{1/n}}{3}$，$v = n$。
-
-展开 $a^{1/n} = e^{\frac{\ln a}{n}} = 1 + \dfrac{\ln a}{n} + O\!\left(\dfrac{1}{n^2}\right)$
-
-同理 $b^{1/n} = 1 + \dfrac{\ln b}{n} + O\!\left(\dfrac{1}{n^2}\right)$，$c^{1/n} = 1 + \dfrac{\ln c}{n} + O\!\left(\dfrac{1}{n^2}\right)$
-
-$$
-u = \frac{3 + \frac{\ln a + \ln b + \ln c}{n} + O(\frac{1}{n^2})}{3}
-= 1 + \frac{\ln(abc)}{3n} + O\!\left(\frac{1}{n^2}\right)
-$$
-
-$$
-u - 1 \sim \frac{\ln(abc)}{3n}
-$$
-
-$$
-v(u-1) = n \cdot \frac{\ln(abc)}{3n} = \frac{\ln(abc)}{3}
-$$
-
-$$
-\lim_{n \to \infty} u^v = e^{\lim v(u-1)} = e^{\frac{\ln(abc)}{3}} = (abc)^{1/3} = \sqrt[3]{abc}
-$$
-
-> ✅ **答案：$\sqrt[3]{abc}$**
-
----
-
-**解法二：取对数法**
-
-令 $y_n = \left(\dfrac{a^{1/n} + b^{1/n} + c^{1/n}}{3}\right)^n$
-
-$$
-\ln y_n = n \ln\!\left(\frac{a^{1/n} + b^{1/n} + c^{1/n}}{3}\right)
-$$
-
-令 $t = \dfrac{1}{n} \to 0^+$，则：
-
-$$
-\ln y_n = \frac{1}{t} \ln\!\left(\frac{a^t + b^t + c^t}{3}\right)
-$$
-
-转化为函数极限（$t \to 0^+$ 的 $\frac{0}{0}$ 型），用洛必达：
-
-$$
-\lim_{t \to 0} \frac{\ln(a^t + b^t + c^t) - \ln 3}{t}
-= \lim_{t \to 0} \frac{a^t \ln a + b^t \ln b + c^t \ln c}{a^t + b^t + c^t}
-$$
-
-> ⚠️ **关键一步**：此时分子分母各部分的极限**均存在**，可以拆开分别计算：
->
-> - 分子：$\lim a^t \ln a = \ln a$，$\lim b^t \ln b = \ln b$，$\lim c^t \ln c = \ln c$
-> - 分母：$\lim (a^t + b^t + c^t) = 3 \neq 0$
->
-> 因此可将极限"穿透"到分子分母内部：
-
-$$
-= \frac{\ln a + \ln b + \ln c}{3} = \frac{\ln(abc)}{3}
-$$
-
-$$
-\lim y_n = e^{\frac{\ln(abc)}{3}} = \sqrt[3]{abc}
-$$
-
-> ✅ **答案：$\sqrt[3]{abc}$**
-
----
-
-> 💡 **启示**：
-> - 结果 $\sqrt[3]{abc}$ 恰好是 $a,b,c$ 的**几何平均数**——这是本题最漂亮的结论
-> - 推广：$\displaystyle \lim_{n\to\infty}\!\left(\frac{\sqrt[n]{a_1}+\cdots+\sqrt[n]{a_k}}{k}\right)^n = \sqrt[k]{a_1 a_2 \cdots a_k}$
-> - 关键展开：$a^{1/n} = 1 + \frac{\ln a}{n} + o(\frac{1}{n})$，只须一阶
-> - 洛必达法也很自然：$n\to\infty$ 换元 $t=1/n$，化数列极限为函数极限
-> - **拆项技巧**：洛必达后分子分母各部分极限均存在且分母 $\neq 0$，可直接将极限分配到各项
-
----
-
-### 例题11：$0/0$ 型极限·三角复合·洛必达 + 泰勒
-
-> **题目**：求极限 $\displaystyle \lim_{x \to 1} \frac{\ln \cos(x-1)}{1 - \sin\left(\frac{\pi}{2}x\right)}$
-
-**思路分析**：
-
-$x \to 1$ 时分子分母均 $\to 0$，为 **$0/0$ 型未定式**。
-
-关键观察：分母 $\sin\left(\frac{\pi}{2}x\right)$ 在 $x=1$ 处可凑成余弦形式。令 $t = x-1$ 换元，将 $x\to1$ 转化为 $t\to0$，便于使用常见等价无穷小和泰勒展开。
-
----
-
-**换元**：令 $t = x-1$，则 $x = t+1$，$t \to 0$。
-
-分母处理（核心技巧）：
-
-$$
-\sin\left(\frac{\pi}{2}x\right) = \sin\left(\frac{\pi}{2}(t+1)\right) = \sin\left(\frac{\pi}{2}t + \frac{\pi}{2}\right) = \cos\left(\frac{\pi}{2}t\right)
-$$
-
-原式化为：
-
-$$
-\lim_{t \to 0} \frac{\ln \cos t}{1 - \cos\left(\frac{\pi}{2}t\right)}
-$$
-
----
-
-**解法一：泰勒展开（等价无穷小）**
-
-当 $t \to 0$ 时：
-
-- $\cos t = 1 - \dfrac{t^2}{2} + O(t^4)$
-- $\ln \cos t = \ln\!\left(1 - \dfrac{t^2}{2} + O(t^4)\right) \sim -\dfrac{t^2}{2}$
-- $\cos\left(\dfrac{\pi}{2}t\right) = 1 - \dfrac{1}{2}\left(\dfrac{\pi}{2}t\right)^2 + O(t^4) = 1 - \dfrac{\pi^2 t^2}{8} + O(t^4)$
-- $1 - \cos\left(\dfrac{\pi}{2}t\right) \sim \dfrac{\pi^2 t^2}{8}$
-
-代入原式：
-
-$$
-\lim_{t \to 0} \frac{-\dfrac{t^2}{2}}{\dfrac{\pi^2 t^2}{8}} = -\frac{1}{2} \times \frac{8}{\pi^2} = -\frac{4}{\pi^2}
-$$
-
-> ✅ **答案：$-\dfrac{4}{\pi^2}$**
-
----
-
-**解法二：洛必达法则**
-
-对 $\displaystyle \lim_{t \to 0} \frac{\ln \cos t}{1 - \cos\left(\frac{\pi}{2}t\right)}$ 用洛必达：
-
-分子求导：$\dfrac{d}{dt}\ln\cos t = \dfrac{-\sin t}{\cos t} = -\tan t$
-
-分母求导：$\dfrac{d}{dt}\!\left[1 - \cos\left(\dfrac{\pi}{2}t\right)\right] = \dfrac{\pi}{2}\sin\left(\dfrac{\pi}{2}t\right)$
-
-$$
-\lim_{t \to 0} \frac{-\tan t}{\dfrac{\pi}{2}\sin\left(\dfrac{\pi}{2}t\right)}
-$$
-
-当 $t \to 0$：$\tan t \sim t$，$\sin\left(\dfrac{\pi}{2}t\right) \sim \dfrac{\pi}{2}t$
-
-$$
-\lim_{t \to 0} \frac{-t}{\dfrac{\pi}{2} \cdot \dfrac{\pi}{2}t} = \frac{-1}{\dfrac{\pi^2}{4}} = -\frac{4}{\pi^2}
-$$
-
-> ✅ **答案：$-\dfrac{4}{\pi^2}$**
-
----
-
-> 💡 **启示**：
-> - **换元 $t = x-1$** 是此类 $x\to1$ 极限的标准操作，把非 $0$ 点极限化为 $0$ 点极限
-> - **分母处理**：$\sin(\frac{\pi}{2}x) \xrightarrow{x=t+1} \cos(\frac{\pi}{2}t)$，利用的是 $\sin(\theta+\frac{\pi}{2}) = \cos\theta$ 的诱导公式
-> - 转化后的问题 $\displaystyle\lim_{t\to0}\frac{\ln\cos t}{1-\cos(at)}$ 形态非常规整，两种方法皆可
-> - 注意洛必达后分子 $\tan t \sim t$、分母 $\sin(\frac{\pi}{2}t) \sim \frac{\pi}{2}t$，比例系数刚好消去 $t$，得到常数
