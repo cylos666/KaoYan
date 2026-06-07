@@ -133,4 +133,4 @@ $$
 
 ---
 
-> 📎 **关联文件**：[极限例题精讲](calculus_limit.md) | [洛必达法则失效专题](calculus_lhopital.md) | [返回高等数学目录](calculus.md)
+> 📎 **关联文件**：[极限例题精讲](Math/calculus_limit.md) | [洛必达法则失效专题](Math/calculus_lhopital.md) | [返回考研总览](../)

@@ -8,13 +8,13 @@
 
 | # | 章节 | 内容简介 |
 |:---:|:---|:---|
-| 总览 | [题型分类总览](calculus_overview.md) | 七大章节题型与核心方法一览 |
-| 泰勒 | [泰勒展开与等价无穷小](calculus_taylor.md) | 常用函数泰勒展开前三项、八大麦克劳林公式、等价无穷小汇总 |
-| 不等式 | [常用不等式](calculus_inequality.md) | 代数不等式、函数不等式、积分不等式、琴生不等式 |
-| 求导 | [求导公式大全](calculus_derivative.md) | 基本初等函数求导、链式法则、隐函数、参数方程、高阶导数、变限积分求导等 |
-| 洛必达 | [洛必达法则失效专题](calculus_lhopital.md) | 振荡函数导致洛必达失效的 7 个典例与应对策略 |
-| 极限 | [极限例题精讲](calculus_limit.md) | 无穷小比阶、0/0 型、1^∞ 型、数列极限、无穷大×周期函数、复合函数反推内层极限 |
-| 连续 | [连续与间断点](calculus_continuous.md) | 幂指函数间断点判定、极限函数连续性、介值定理证明 |
+| 总览 | [题型分类总览](Math/calculus_overview.md) | 七大章节题型与核心方法一览 |
+| 泰勒 | [泰勒展开与等价无穷小](Math/calculus_taylor.md) | 常用函数泰勒展开前三项、八大麦克劳林公式、等价无穷小汇总 |
+| 不等式 | [常用不等式](Math/calculus_inequality.md) | 代数不等式、函数不等式、积分不等式、琴生不等式 |
+| 求导 | [求导公式大全](Math/calculus_derivative.md) | 基本初等函数求导、链式法则、隐函数、参数方程、高阶导数、变限积分求导等 |
+| 洛必达 | [洛必达法则失效专题](Math/calculus_lhopital.md) | 振荡函数导致洛必达失效的 7 个典例与应对策略 |
+| 极限 | [极限例题精讲](Math/calculus_limit.md) | 无穷小比阶、0/0 型、1^∞ 型、数列极限、无穷大×周期函数、复合函数反推内层极限 |
+| 连续 | [连续与间断点](Math/calculus_continuous.md) | 幂指函数间断点判定、极限函数连续性、介值定理证明 |
 
 ---
 
@@ -24,11 +24,11 @@
 ① 泰勒展开 → ② 题型总览 → ③ 求导公式 → ④ 极限例题 → ⑤ 连续与间断
 ```
 
-> - **基础工具**：先掌握 [泰勒展开](calculus_taylor.md) 和 [不等式](calculus_inequality.md)，这是后续所有章节的根基
-> - **知识框架**：浏览 [题型分类总览](calculus_overview.md) 建立宏观认识
-> - **公式记忆**：反复查阅 [求导公式大全](calculus_derivative.md)
-> - **实战训练**：通过 [极限例题](calculus_limit.md) 和 [连续与间断](calculus_continuous.md) 深入理解
-> - **避坑指南**：遇到振荡函数极限时参考 [洛必达失效专题](calculus_lhopital.md)
+> - **基础工具**：先掌握 [泰勒展开](Math/calculus_taylor.md) 和 [不等式](Math/calculus_inequality.md)，这是后续所有章节的根基
+> - **知识框架**：浏览 [题型分类总览](Math/calculus_overview.md) 建立宏观认识
+> - **公式记忆**：反复查阅 [求导公式大全](Math/calculus_derivative.md)
+> - **实战训练**：通过 [极限例题](Math/calculus_limit.md) 和 [连续与间断](Math/calculus_continuous.md) 深入理解
+> - **避坑指南**：遇到振荡函数极限时参考 [洛必达失效专题](Math/calculus_lhopital.md)
 
 ---
 
@@ -36,8 +36,8 @@
 
 | 章节 | 核心内容 | 对应文件 |
 |:---|:---|:---:|
-| **一、极限与连续** | 七种未定式、数列极限、间断点判定 | [极限](calculus_limit.md) + [连续](calculus_continuous.md) |
-| **二、一元函数微分学** | 导数定义、中值定理、极值与凹凸性 | [求导公式](calculus_derivative.md) |
+| **一、极限与连续** | 七种未定式、数列极限、间断点判定 | [极限](Math/calculus_limit.md) + [连续](Math/calculus_continuous.md) |
+| **二、一元函数微分学** | 导数定义、中值定理、极值与凹凸性 | [求导公式](Math/calculus_derivative.md) |
 | **三、一元函数积分学** | 不定/定积分、反常积分、变限积分 | — |
 | **四、多元函数微分学** | 偏导数、全微分、极值 | — |
 | **五、多元函数积分学** | 二重/三重积分、曲线/曲面积分 | — |
