@@ -136,4 +136,4 @@ $$
 
 ---
 
-> 📎 **关联文件**：[泰勒展开与等价无穷小](Math/calculus_taylor.md) | [极限例题精讲](Math/calculus_limit.md) | [返回考研总览](../)
+> 📎 **关联文件**：[泰勒展开与等价无穷小](/Math/calculus_taylor) | [极限例题精讲](/Math/calculus_limit) | [返回考研总览](/)

@@ -1721,4 +1721,4 @@ cos x_n ∈ [0,1]   → sin 单调   → B、D 可推到 cos x_n
 
 ---
 
-> 📎 **关联文件**：[泰勒展开与等价无穷小](Math/calculus_taylor.md) | [洛必达法则失效](Math/calculus_lhopital.md) | [连续与间断点](Math/calculus_continuous.md) | [返回考研总览](../)
+> 📎 **关联文件**：[泰勒展开与等价无穷小](/Math/calculus_taylor) | [洛必达法则失效](/Math/calculus_lhopital) | [连续与间断点](/Math/calculus_continuous) | [返回考研总览](/)
