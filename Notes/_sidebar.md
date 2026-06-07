@@ -10,6 +10,7 @@
 - **📗 英语**
   - [单词](English/Words.md)
   - [长难句](English/Long_sentence.md)
+  - [阅读精析](English/Reading.md)
   - [作文练习](English/Composition.md)
 - **📘 政治**
   - [政治笔记](Politics/politics.md)
