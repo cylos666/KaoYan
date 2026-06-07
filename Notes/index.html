@@ -6,6 +6,40 @@
   <title>考研笔记总览</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+  <style>
+    /* 手机适配 */
+    @media (max-width: 768px) {
+      /* 表格横向滚动 */
+      .markdown-section table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        white-space: nowrap;
+      }
+      /* 代码块横向滚动 */
+      .markdown-section pre {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+      }
+      /* 侧边栏宽度适配 */
+      .sidebar {
+        width: 260px !important;
+      }
+      /* 内容区域留白调整 */
+      .content {
+        padding: 0 15px !important;
+      }
+      /* 数学公式缩放 */
+      .katex { font-size: 1.05em; }
+    }
+    /* 小屏手机 */
+    @media (max-width: 480px) {
+      .markdown-section { font-size: 15px; }
+      h1 { font-size: 1.5em; }
+      h2 { font-size: 1.2em; }
+      .katex { font-size: 1em; }
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
@@ -17,6 +51,7 @@
       loadNavbar: false,
       subMaxLevel: 3,
       autoHeader: true,
+      auto2top: true,   // 页面切换自动滚回顶部（手机友好）
       search: {
         maxAge: 86400000,
         paths: 'auto',
