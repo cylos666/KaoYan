@@ -1432,21 +1432,26 @@ $$
 
 ### 例题：ε-N 定义辨析·命题真伪判断
 
-> **题目**：设 $\displaystyle\lim_{n\to\infty} a_n = a$，则下列命题正确的个数为（ ）
+> **题目**：给出以下 4 个命题
 >
-> ① $|a_n - a| < \dfrac{1}{1000!}$
-> ② $|a_n - a| < \dfrac{\varepsilon}{100}$
-> ③ $|a_n - a| < 100\varepsilon$
-> ④ $|a_n - a| < \dfrac{1000!}{n}$
+> ① 若 $\displaystyle\lim_{n\to\infty} a_n = a$，则当 $n$ 充分大时，$|a_n - a| < \dfrac{1}{1000!}$
+>
+> ② 若 $\displaystyle\lim_{n\to\infty} a_n = a$，则对任意给定的 $\varepsilon > 0$，当 $n$ 充分大时，$|a_n - a| < \dfrac{\varepsilon}{100}$
+>
+> ③ 若 $\displaystyle\lim_{n\to\infty} a_n = a$，则对任意给定的 $\varepsilon > 0$，当 $n$ 充分大时，$|a_n - a| < 100\varepsilon$
+>
+> ④ 若 $\displaystyle\lim_{n\to\infty} a_n = a$，则当 $n$ 充分大时，$|a_n - a| < \dfrac{1000!}{n}$
+>
+> 其中真命题个数为（ ）
 >
 > A. 0　　　B. 1　　　C. 2　　　D. 3
 
 **思路分析**：
 
-本题考察对 **ε-N 定义** 的理解。核心是判断每个命题是否与 $\displaystyle\lim_{n\to\infty} a_n = a$ 等价（或可被推出）。
+本题考察对 **ε-N 定义** 的理解。核心是判断每个条件是否可由 $\displaystyle\lim_{n\to\infty} a_n = a$ 推出：
 
-- 命题①④没有 $\forall\varepsilon>0$ 前缀，表示"存在某个 $N$，当 $n\ge N$ 时成立"
-- 命题②③以 $\varepsilon$ 为自由变量，隐含"对任意 $\varepsilon>0$"
+- 命题①④没有 $\forall\varepsilon>0$ 前缀，只需取定一个 $\varepsilon$ 即可
+- 命题②③带"对任意 $\varepsilon>0$"，判断其是否等价于原定义
 
 ---
 
