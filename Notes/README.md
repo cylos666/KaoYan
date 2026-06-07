@@ -22,6 +22,7 @@
 |:---|:---:|
 | [单词本](English/Words.md) | 🔄 进行中 |
 | [长难句](English/Long_sentence.md) | 🔄 进行中 |
+| [作文练习](English/Composition.md) | ✅ 已创建 |
 
 ## 📘 政治
 
