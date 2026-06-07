@@ -1,4 +1,4 @@
-- [🏠 返回考研总览](../)
+- [🏠 考研总览](/)
 - [📖 高数目录](calculus.md)
 - [📋 题型分类总览](calculus_overview.md)
 - [🔢 泰勒展开与等价无穷小](calculus_taylor.md)
