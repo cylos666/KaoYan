@@ -1430,6 +1430,84 @@ $$
 
 ---
 
+### 例题：ε-N 定义辨析·命题真伪判断
+
+> **题目**：设 $\displaystyle\lim_{n\to\infty} a_n = a$，则下列命题正确的个数为（ ）
+>
+> ① $|a_n - a| < \dfrac{1}{1000!}$
+> ② $|a_n - a| < \dfrac{\varepsilon}{100}$
+> ③ $|a_n - a| < 100\varepsilon$
+> ④ $|a_n - a| < \dfrac{1000!}{n}$
+>
+> A. 0　　　B. 1　　　C. 2　　　D. 3
+
+**思路分析**：
+
+本题考察对 **ε-N 定义** 的理解。核心是判断每个命题是否与 $\displaystyle\lim_{n\to\infty} a_n = a$ 等价（或可被推出）。
+
+- 命题①④没有 $\forall\varepsilon>0$ 前缀，表示"存在某个 $N$，当 $n\ge N$ 时成立"
+- 命题②③以 $\varepsilon$ 为自由变量，隐含"对任意 $\varepsilon>0$"
+
+---
+
+**逐项判断**：
+
+**①** $|a_n - a| < \dfrac{1}{1000!}$
+
+在极限定义中取 $\varepsilon = \dfrac{1}{1000!} > 0$，则 $\exists N$，当 $n\ge N$ 时 $|a_n-a|<\varepsilon = \dfrac{1}{1000!}$。
+
+> ✅ **正确**
+
+---
+
+**②** $|a_n - a| < \dfrac{\varepsilon}{100}$
+
+对任意 $\varepsilon > 0$，令 $\varepsilon' = \dfrac{\varepsilon}{100} > 0$，由极限定义 $\exists N$，$n\ge N \Rightarrow |a_n-a|<\varepsilon' = \dfrac{\varepsilon}{100}$。
+
+> ✅ **正确**
+
+---
+
+**③** $|a_n - a| < 100\varepsilon$
+
+对任意 $\varepsilon > 0$，$100\varepsilon$ 也是任意正数，由极限定义直接得证。
+
+> ✅ **正确**
+
+---
+
+**④** $|a_n - a| < \dfrac{1000!}{n}$
+
+取反例：$a_n = a + \dfrac{1}{\sqrt{n}}$，则 $a_n \to a$，但 $|a_n-a| = \dfrac{1}{\sqrt{n}}$。
+
+当 $n$ 足够大时，$\sqrt{n} > 1000!$，即 $\dfrac{1}{\sqrt{n}} < \dfrac{1000!}{n}$ 不成立（因为 $\dfrac{1}{\sqrt{n}} > \dfrac{1000!}{n} \iff \sqrt{n} < 1000!$ 对 $n < (1000!)^2$ 不成立）。
+
+实际上 $\dfrac{1}{\sqrt{n}} > \dfrac{1000!}{n}$ 等价于 $\sqrt{n} < 1000!$，当 $n > (1000!)^2$ 时不等式反向，从而 $|a_n-a| > \dfrac{1000!}{n}$，该条件不满足。
+
+> ❌ **错误**
+
+---
+
+| 命题 | 结果 | 理由 |
+|:---:|:---:|:---|
+| ① | ✅ | 取 $\varepsilon = 1/1000!$ 即得 |
+| ② | ✅ | $\varepsilon/100$ 可替换原定义中的 $\varepsilon$ |
+| ③ | ✅ | $100\varepsilon$ 也可替换原定义中的 $\varepsilon$ |
+| ④ | ❌ | 反例 $a_n = a + 1/\sqrt{n}$ 不满足该不等式 |
+
+3 个正确。
+
+> ✅ **答案：D（3 个）**
+
+---
+
+> 💡 **启示与要点**：
+> 1. **①②③ 的本质**：极限定义中的 $\varepsilon$ 可以是任意正数，无论乘除多少倍，都等价于原定义。
+> 2. **④ 的陷阱**：分母有 $n$ 的不等式并非 $\varepsilon$-$N$ 定义的直接推论，它要求收敛速度——不是所有收敛数列都满足。
+> 3. **判断标准**：看到具体数字（如 $1/1000!$）→ 取 $\varepsilon$ 等于该数字即可；看到 $\varepsilon$ 的倍数 → 本质上与定义等价；看到含 $n$ 的表达式 → 警惕收敛速度条件。
+
+---
+
 ## 五、无穷大 × 非零周期函数
 
 > **知识卡片**：设 $f(x)$ 为**非零周期函数**（如 $\sin x$、$\cos x$），$g(x) \to \infty$（$x \to x_0$），则：
