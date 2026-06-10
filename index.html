@@ -21,5 +21,74 @@
   </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script>
+    // 每日打卡系统（localStorage）
+    (function() {
+      var key = 'kaoyan_checkin_dates';
+      function getDates() {
+        try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { return []; }
+      }
+      function saveDates(arr) { localStorage.setItem(key, JSON.stringify(arr)); }
+      function todayStr() {
+        var d = new Date();
+        return d.getFullYear() + '-' + String(d.getMonth()+1).padStart(2,'0') + '-' + String(d.getDate()).padStart(2,'0');
+      }
+      function streak(arr) {
+        if (!arr.length) return 0;
+        var sorted = arr.slice().sort().reverse();
+        var td = new Date(); td.setHours(0,0,0,0);
+        var count = 0;
+        for (var i = 0; i < sorted.length; i++) {
+          var d = new Date(sorted[i]); d.setHours(0,0,0,0);
+          var diff = (td - d) / 86400000;
+          if (diff === count) { count++; }
+          else if (diff > count) { break; }
+        }
+        return count;
+      }
+      function hasCheckedToday() {
+        return getDates().indexOf(todayStr()) >= 0;
+      }
+      function updateUI() {
+        var el = document.getElementById('streak-text');
+        if (!el) return;
+        var s = streak(getDates());
+        el.innerHTML = s > 0 ? '🔥 已连续打卡 <b>' + s + '</b> 天' : '🔥 还没有打卡记录';
+        var btn = document.getElementById('checkin-btn');
+        if (btn) {
+          if (hasCheckedToday()) {
+            btn.textContent = '✅ 今日已打卡';
+            btn.style.background = '#999';
+            btn.disabled = true;
+          } else {
+            btn.textContent = '📅 今日打卡';
+            btn.style.background = '#42b983';
+            btn.disabled = false;
+          }
+        }
+        var hint = document.getElementById('checkin-hint');
+        if (hint) {
+          hint.textContent = hasCheckedToday() ? '明天继续加油！' : '';
+        }
+      }
+      window.doCheckin = function() {
+        if (hasCheckedToday()) return;
+        var dates = getDates();
+        dates.push(todayStr());
+        saveDates(dates);
+        updateUI();
+      };
+      // Docsify 动态加载内容，用 MutationObserver 监听 DOM 变化
+      var obs = new MutationObserver(function() {
+        if (document.getElementById('streak-text')) {
+          updateUI();
+          obs.disconnect();
+        }
+      });
+      obs.observe(document.body, { childList: true, subtree: true });
+      // 兜底：页面加载完也执行一次
+      window.addEventListener('load', function() { updateUI(); });
+    })();
+  </script>
 </body>
 </html>
