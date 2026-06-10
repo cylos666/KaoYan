@@ -54,7 +54,7 @@
 
 <div id="checkin-area" style="text-align:center;margin:16px 0;">
   <span style="font-size:1.2em;" id="streak-text">🔥 加载中...</span><br>
-  <button id="checkin-btn" onclick="doCheckin()" style="
+  <button id="checkin-btn" style="
     margin-top:8px;padding:10px 28px;font-size:1em;
     background:#42b983;color:#fff;border:none;border-radius:6px;cursor:pointer;
   ">📅 今日打卡</button>

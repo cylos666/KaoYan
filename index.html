@@ -80,9 +80,15 @@
       };
       // Docsify 动态加载内容，用 MutationObserver 监听 DOM 变化
       var obs = new MutationObserver(function() {
-        if (document.getElementById('streak-text')) {
+        var streakEl = document.getElementById('streak-text');
+        if (streakEl) {
           updateUI();
-          obs.disconnect();
+          // 绑定按钮点击事件（比 inline onclick 更可靠）
+          var btn = document.getElementById('checkin-btn');
+          if (btn && !btn._bound) {
+            btn._bound = true;
+            btn.addEventListener('click', doCheckin);
+          }
         }
       });
       obs.observe(document.body, { childList: true, subtree: true });
