@@ -124,7 +124,82 @@
 
 ---
 
-### 句型四：倒装 / 强调结构
+### 句型四：定语从句内并列谓语 + 嵌套定语从句
+
+**公式**：`主句 + 先行词 + [that 谓语₁... and 谓语₂... (n. + that 从句)]`
+
+**特征**：一个 that 引导的定语从句内部包含**两个并列谓语**，且第二个谓语的宾语又被另一个定语从句修饰，形成"从句套从句"的多层嵌套。
+
+**断句策略**：
+
+```
+① 先抓主句的主谓宾
+② 找到 that/which 定语从句 → 确认先行词
+③ 在定语从句内找并列连词 and → 识别并列的谓语
+④ 并列谓语的宾语中若还有 that → 那是下一层嵌套
+```
+
+**翻译公式**：
+
+```
+[主句 → 直译]
+    +
+[定语从句谓语₁ → 译为"该法案将…"]
+    +
+[and 谓语₂ + 内嵌定语 → 拆成独立小句，"并严格限制…的…"]
+```
+
+**同类变体**：
+
+| 句型变体 | 例句骨架 |
+|:---|:---|
+| `...n. that V₁...and V₂...n. that V₃...` | a bill that will ban smoking and limit ads that target children |
+| `...n. which V₁..., V₂..., and V₃...` | a policy which cuts costs, boosts efficiency, and protects the environment |
+
+**⚠️ 易错点**：定语从句内的 `and` 连接的是从句内的**并列谓语**，不是主句的并列谓语！翻译时内嵌定语从句通常拆成独立小句。
+
+> 📎 **例句见** → [2026-06-11 | Lord Irvine & press bill](#2026-06-11--lord-irvine--press-bill)
+
+---
+
+### 句型五：嵌入式定语从句（S+V 插入定从中）
+
+**公式**：`先行词 + [that 主谓..., (S + V) 谓...]`
+
+**特征**：定语从句中嵌入一个"主语 + 表示观点/感觉的动词"（如 he felt, they thought, we believe），该嵌入结构把定语从句的**主语和谓语分隔开**。去掉嵌入的 S+V 后，定语从句依然完整。
+
+**断句策略**：
+
+```
+① 找到先行词和定语从句的引导词（that/which，常省略）
+② 定从中出现"名词 + felt/thought/believed/said..." → 标记为嵌入式 S+V
+③ 忽略嵌入的 S+V → 找到定语从句真正的谓语
+④ 验证：去掉 S+V 后从句是否成立
+```
+
+**翻译公式**：
+
+```
+[主句 → 直译]
+    +
+[定语从句 → 将嵌入的 S+V 译为"某人认为/觉得"，提前或加逗号处理]
+```
+
+**同类变体**：
+
+| 句型变体 | 例句骨架 |
+|:---|:---|
+| `...n. (that) S felt was...` | a drawing Dickens felt was not faithful |
+| `...n. (that) S believed could...` | a plan they believed could succeed |
+| `...n. (that) S thought would...` | a decision he thought would be unpopular |
+
+**⚠️ 易错点**：嵌入式 S+V 前后都**省略了 that**（前省关系代词，后省宾语从句连词），导致两个谓语动词（felt 和 was）紧挨在一起，非常容易把 felt 误判为定语从句的谓语！
+
+> 📎 **例句见** → [2026-06-11 | Dickens & drawing](#2026-06-11--dickens--drawing)
+
+---
+
+### 句型六：倒装 / 强调结构
 
 > 🔜 待补充……
 
@@ -249,3 +324,163 @@
 | assistance | /əˈsɪstəns/ | n. 援助，帮助 | ⭐ |
 | eightfold | /ˈeɪtfoʊld/ | adv./adj. 八倍地/八倍的 | ⭐ |
 | generation | /ˌdʒenəˈreɪʃn/ | n. 一代人 | ⭐ |
+
+---
+
+### 2026-06-11 | Lord Irvine & press bill
+
+**原文**：
+
+> In a significant tightening of legal controls over the press, Lord Irvine, the Lord Chancellor, will introduce a draft bill that will propose making payments to witnesses illegal, and will strictly control the amount of publicity that can be given to a case before a trial begins.
+
+**断句**：
+
+```
+[状语：In a significant tightening of legal controls over the press]
+  → 介词短语，交代背景："在对新闻界法律控制的大幅收紧中"
+[主句：Lord Irvine, the Lord Chancellor, || will introduce || a draft bill]
+  → 主语（同位语解释身份）              谓语              宾语
+[定语从句₁：that will propose making payments to witnesses illegal,
+            and will strictly control the amount of publicity]
+  → that = the draft bill
+  → ⚠️ 并列谓语：① will propose... ② and will strictly control...
+  → propose 的宾语：making payments to witnesses illegal（动名词短语作宾语）
+[定语从句₂：that can be given to a case before a trial begins]
+  → that = publicity
+  → 嵌套在 publicity 后，说明"什么样的宣传"
+```
+
+**翻译**：在对新闻界法律控制的大幅收紧中，大法官欧文勋爵将提出一项法案草案，该法案提议将向证人支付报酬定为非法，并将严格限制案件在开庭前可以获得的报道量。
+
+**🏷️ 句型**：[句型四：定语从句内并列谓语 + 嵌套定语从句](#句型四定语从句内并列谓语--嵌套定语从句)
+
+**词汇**：
+
+| 单词 | 音标 | 释义 | 考纲 |
+|:---|:---|:---|:---:|
+| tightening | /ˈtaɪtnɪŋ/ | n. 收紧，加强 | ⭐ |
+| legal | /ˈliːɡl/ | adj. 法律的，合法的 | ⭐ |
+| press | /pres/ | n. 新闻界，媒体 | ⭐ |
+| Lord Chancellor | — | n. 大法官（英国） | ⚠️ 超纲 |
+| draft bill | — | n. 法案草案 | ⭐ |
+| propose | /prəˈpoʊz/ | v. 提议，建议 | ⭐ |
+| witness | /ˈwɪtnəs/ | n. 证人 | ⭐ |
+| publicity | /pʌbˈlɪsəti/ | n. 宣传，报道 | ⭐ |
+| trial | /ˈtraɪəl/ | n. 审判 | ⭐ |
+
+---
+
+### 2026-06-11 | Dickens & drawing
+
+**原文**：
+
+> After the first installment, Dickens wrote to the artist and asked him to correct a drawing Dickens felt was not faithful enough to his prose.
+
+**断句**：
+
+```
+[状语：After the first installment]
+  → 时间状语："在第一期连载之后"
+[主句并列谓语₁：Dickens || wrote || to the artist]
+  主语                谓语₁    宾语
+[主句并列谓语₂：and asked him to correct a drawing]
+  → ask sb to do sth
+[嵌入式定语从句：a drawing (that) Dickens felt (that) was not faithful enough to his prose]
+  → ⚠️ 先行词 drawing 后省略了关系代词 that/which
+  → ⚠️ 嵌入结构：Dickens felt（主语+观点动词）
+  → ⚠️ 嵌入结构后省略了宾语从句连词 that
+  → 定语从句真正谓语：was not faithful enough to his prose
+  → 还原：a drawing that Dickens felt (that it) was not faithful enough...
+```
+
+**翻译**：第一期连载之后，狄更斯写信给那位画家，请他修改一幅狄更斯觉得对他的散文不够忠实的画作。
+
+**🏷️ 句型**：[句型五：嵌入式定语从句](#句型五嵌入式定语从句sv-插入定从中)
+
+**词汇**：
+
+| 单词 | 音标 | 释义 | 考纲 |
+|:---|:---|:---|:---:|
+| installment | /ɪnˈstɔːlmənt/ | n. 一期，一集；分期付款 | ⭐ |
+| prose | /proʊz/ | n. 散文 | ⭐ |
+| faithful | /ˈfeɪθfl/ | adj. 忠实的，忠诚的 | ⭐ |
+
+---
+
+### 2026-06-11 | algorithm & platform
+
+**原文**：
+
+> Because its recommendation system—an algorithm that no one outside the company fully understands—has consistently favored sensational content over factual reporting, the platform, which once promised to elevate public discourse, now finds itself accused of deepening social divisions.
+
+**断句**：
+
+```
+[原因从句：Because its recommendation system
+    —an algorithm that no one outside the company fully understands—
+    has consistently favored sensational content over factual reporting]
+  → ⚠️ 句型三变体：Because + 破折号插入语！
+  → 主语：its recommendation system
+  → 谓语：has favored（跳过整个破折号插入语！）
+  → favor A over B = 偏爱A而非B
+[主句：the platform, 
+    which once promised to elevate public discourse, 
+    now finds itself accused of deepening social divisions]
+  → which 从句：非限制性定从，补充背景
+  → find oneself + done = 发现自己被…
+```
+
+**翻译**：因为其推荐系统——一个公司外部无人能完全理解的算法——一直在持续偏爱耸人听闻的内容而非事实报道，这个曾许诺提升公众话语水平的平台，如今发现自己被指控在加深社会分裂。
+
+**🏷️ 句型**：[句型三变体：Because + 破折号插入语（主谓分离）](#句型三as-原因状语从句--破折号插入语主谓分离)
+
+**词汇**：
+
+| 单词 | 音标 | 释义 | 考纲 |
+|:---|:---|:---|:---:|
+| recommendation | /ˌrekəmenˈdeɪʃn/ | n. 推荐 | ⭐ |
+| algorithm | /ˈælɡərɪðəm/ | n. 算法 | ⭐ |
+| sensational | /senˈseɪʃənl/ | adj. 耸人听闻的，轰动的 | ⭐ |
+| factual | /ˈfæktʃuəl/ | adj. 事实的，基于事实的 | ⭐ |
+| elevate | /ˈelɪveɪt/ | v. 提升，提高 | ⭐ |
+| discourse | /ˈdɪskɔːrs/ | n. 话语，论述 | ⭐ |
+| division | /dɪˈvɪʒn/ | n. 分裂，分歧 | ⭐ |
+
+---
+
+### 2026-06-11 | researchers & paper
+
+**原文**：
+
+> The researchers, having spent nearly a decade collecting data that most of their peers had dismissed as irrelevant, published a paper that even the fiercest critics admitted would fundamentally change the field, with several leading journals rushing to feature it on their covers within a month of its release.
+
+**断句**：
+
+```
+[分词状语：having spent nearly a decade collecting data
+    (that most of their peers had dismissed as irrelevant)]
+  → 句型一！内含定语从句修饰 data
+  → dismiss as = 认为…而不予理会
+[主句：the researchers || published || a paper
+    (that even the fiercest critics admitted (that it) would fundamentally change the field)]
+  → 句型五！S+V 嵌入在定从中
+[with 复合结构：with several leading journals rushing to feature it on their covers
+               within a month of its release]
+  → 句型二！rush to do = 争相做某事
+```
+
+**翻译**：这些研究人员花了近十年收集被多数同行认为无关紧要而弃之不理的数据，最终发表了一篇连最激烈的批评者都承认将从根本上改变该领域的论文，几家顶级期刊在论文发表一个月内争相将其作为封面文章刊登。
+
+**🏷️ 句型**：三合一——[句型一](#句型一分词状语--主句--分词伴随状语) + [句型五](#句型五嵌入式定语从句sv-插入定从中) + [句型二](#句型二with-复合结构独立主格)
+
+**词汇**：
+
+| 单词 | 音标 | 释义 | 考纲 |
+|:---|:---|:---|:---:|
+| peer | /pɪr/ | n. 同龄人；同行 | ⭐ |
+| dismiss | /dɪsˈmɪs/ | v. 不予理会；解雇 | ⭐ |
+| irrelevant | /ɪˈreləvənt/ | adj. 无关的，不相关的 | ⭐ |
+| fierce | /fɪrs/ | adj. 激烈的，凶猛的 | ⭐ |
+| fundamentally | /ˌfʌndəˈmentəli/ | adv. 根本上地 | ⭐ |
+| rush | /rʌʃ/ | v./n. 冲，匆忙做 | ⭐ |
+| release | /rɪˈliːs/ | v./n. 发布；释放 | ⭐ |
