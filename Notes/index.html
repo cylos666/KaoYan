@@ -76,7 +76,7 @@
     window.$docsify.plugins = (window.$docsify.plugins || []).concat(function(hook) {
       hook.afterEach(function(html, next) {
         // 将 ```mermaid 代码块替换为 <div class="mermaid">
-        var replaced = html.replace(/<pre><code class="lang-mermaid">([\s\S]*?)<\/code><\/pre>/g,
+        var replaced = html.replace(/<pre[^>]*><code class="lang-mermaid">([\s\S]*?)<\/code><\/pre>/g,
           '<div class="mermaid">$1</div>');
         next(replaced);
       });

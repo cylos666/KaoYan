@@ -28,7 +28,7 @@
     mermaid.initialize({ startOnLoad: false, theme: 'default' });
     (window.$docsify.plugins = (window.$docsify.plugins || [])).concat(function(hook) {
       hook.afterEach(function(html, next) {
-        next(html.replace(/<pre><code class="lang-mermaid">([\s\S]*?)<\/code><\/pre>/g, '<div class="mermaid">$1</div>'));
+        next(html.replace(/<pre[^>]*><code class="lang-mermaid">([\s\S]*?)<\/code><\/pre>/g, '<div class="mermaid">$1</div>'));
       });
       hook.doneEach(function() { mermaid.run(); });
     });
