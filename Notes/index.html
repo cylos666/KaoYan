@@ -64,7 +64,7 @@
           next(html.replace(/<pre[^>]*><code class="lang-mermaid">([\s\S]*?)<\/code><\/pre>/g,
             '<div class="mermaid">$1</div>'));
         });
-        hook.doneEach(function() { mermaid.init(undefined, '.mermaid'); });
+        hook.doneEach(function() { mermaid.init('.mermaid'); });
       })]    }
   </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
