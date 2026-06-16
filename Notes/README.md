@@ -50,24 +50,6 @@
 
 ---
 
-## 📝 每日任务清单
-
-<div id="checkin-area" style="text-align:center;margin:16px 0;">
-  <span style="font-size:1.2em;" id="streak-text">🔥 加载中...</span><br>
-  <button id="checkin-btn" style="
-    margin-top:8px;padding:10px 28px;font-size:1em;
-    background:#42b983;color:#fff;border:none;border-radius:6px;cursor:pointer;
-  ">📅 今日打卡</button>
-  <p style="margin-top:4px;color:#888;font-size:0.85em;" id="checkin-hint"></p>
-</div>
-
-- [ ] 背单词 30 个（记录到 [生词本](English/Words.md)）
-- [ ] 精读 1 篇阅读（记录到 [阅读精析](English/Reading.md)）
-- [ ] 数学例题 2 道（按章节整理到对应笔记）
-- [ ] 长难句分析 3 句
-
----
-
 ## 🛠 本站使用指南
 
 | 功能 | 操作 |
