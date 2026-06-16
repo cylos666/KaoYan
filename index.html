@@ -30,7 +30,7 @@
       hook.afterEach(function(html, next) {
         next(html.replace(/<pre[^>]*><code class="lang-mermaid">([\s\S]*?)<\/code><\/pre>/g, '<div class="mermaid">$1</div>'));
       });
-      hook.doneEach(function() { mermaid.run(); });
+      hook.doneEach(function() { mermaid.init(undefined, '.mermaid'); });
     });
   </script>
   <script>
