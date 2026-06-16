@@ -59,8 +59,13 @@
         noData: '没有找到结果',
       },
       externalLinkRel: 'noopener',
-      externalLinkTarget: '_blank',
-    }
+      externalLinkTarget: '_blank',      plugins: [(function(hook) {
+        hook.afterEach(function(html, next) {
+          next(html.replace(/<pre[^>]*><code class="lang-mermaid">([\s\S]*?)<\/code><\/pre>/g,
+            '<div class="mermaid">$1</div>'));
+        });
+        hook.doneEach(function() { mermaid.init(undefined, '.mermaid'); });
+      })]    }
   </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
@@ -70,20 +75,7 @@
   <!-- Mermaid 图表支持 -->
   <script src="https://cdn.jsdelivr.net/npm/mermaid@9/dist/mermaid.min.js"></script>
   <script>
-    // 初始化 Mermaid，渲染所有 mermaid 代码块
     mermaid.initialize({ startOnLoad: false, theme: 'default' });
-    window.$docsify = window.$docsify || {};
-    window.$docsify.plugins = (window.$docsify.plugins || []).concat(function(hook) {
-      hook.afterEach(function(html, next) {
-        // 将 ```mermaid 代码块替换为 <div class="mermaid">
-        var replaced = html.replace(/<pre[^>]*><code class="lang-mermaid">([\s\S]*?)<\/code><\/pre>/g,
-          '<div class="mermaid">$1</div>');
-        next(replaced);
-      });
-      hook.doneEach(function() {
-        mermaid.init(undefined, '.mermaid');
-      });
-    });
   </script>
 </body>
 </html>
