@@ -67,5 +67,23 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-katex@1/dist/docsify-katex.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-back-to-top/dist/docsify-back-to-top.min.js"></script>
+  <!-- Mermaid 图表支持 -->
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script>
+    // 初始化 Mermaid，渲染所有 mermaid 代码块
+    mermaid.initialize({ startOnLoad: false, theme: 'default' });
+    window.$docsify = window.$docsify || {};
+    window.$docsify.plugins = (window.$docsify.plugins || []).concat(function(hook) {
+      hook.afterEach(function(html, next) {
+        // 将 ```mermaid 代码块替换为 <div class="mermaid">
+        var replaced = html.replace(/<pre><code class="lang-mermaid">([\s\S]*?)<\/code><\/pre>/g,
+          '<div class="mermaid">$1</div>');
+        next(replaced);
+      });
+      hook.doneEach(function() {
+        mermaid.run();
+      });
+    });
+  </script>
 </body>
 </html>
