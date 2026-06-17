@@ -1153,6 +1153,71 @@ $$
 
 ---
 
+### 例题：数列极限 · 比值判别法 + $\frac{a^n n!}{n^n}$ 型
+
+> **题目**：数列极限中一个常用结论：
+>
+> (1) 若 $\lim\limits_{n\to\infty}\dfrac{a_{n+1}}{a_n}=a$ 且 $|a|<1$，则 $\lim\limits_{n\to\infty}a_n=0$；
+>
+> (2) 求 $\displaystyle\lim_{n\to\infty}\dfrac{2^n n!}{n^n}$，$\displaystyle\lim_{n\to\infty}\dfrac{3^n n!}{n^n}$。
+
+**思路分析**：
+
+本题考察**数列的比值判别法**——类比正项级数的比值判别法，但直接用于数列收敛性。对 $\frac{a^n n!}{n^n}$ 型数列，直接求极限很难，但相邻项比值可借助重要极限 $\lim(1+\frac{1}{n})^n=e$ 化简。
+
+---
+
+**(1) 比值判别法原理**：
+
+当 $\lim\frac{a_{n+1}}{a_n}=a$ 且 $|a|<1$ 时，$|a_n|$ 最终按几何级数速度衰减，必有 $a_n\to0$。
+
+> 直观：若 $\frac{a_{n+1}}{a_n}\approx a<1$，则 $a_n\approx C\cdot a^n\to0$。
+
+---
+
+**(2) 令 $a_n=\dfrac{a^n n!}{n^n}$，求相邻项比值**：
+
+$$
+\begin{aligned}
+\frac{a_{n+1}}{a_n}
+&= \frac{\dfrac{a^{n+1}(n+1)!}{(n+1)^{n+1}}}{\dfrac{a^n n!}{n^n}}
+= a \cdot \frac{(n+1)!}{n!} \cdot \frac{n^n}{(n+1)^{n+1}} \\[6pt]
+&= a \cdot (n+1) \cdot \frac{n^n}{(n+1)^n \cdot (n+1)} \\[6pt]
+&= a \cdot \frac{n^n}{(n+1)^n}
+= a \cdot \left(\frac{n}{n+1}\right)^n \\[6pt]
+&= \frac{a}{\left(1+\frac{1}{n}\right)^n}
+\end{aligned}
+$$
+
+取极限：
+
+$$
+\lim_{n\to\infty}\frac{a_{n+1}}{a_n}
+= \frac{a}{\displaystyle\lim_{n\to\infty}\left(1+\frac{1}{n}\right)^n}
+= \frac{a}{e}
+$$
+
+---
+
+**分别代入**：
+
+| $a$ 的值 | $\displaystyle\lim\frac{a_{n+1}}{a_n}=\frac{a}{e}$ | 与 $1$ 比较 | $\lim a_n$ |
+|:---:|:---|:---:|:---|
+| $a=2$ | $\dfrac{2}{e}\approx 0.736$ | $<1$ ✅ | $0$ |
+| $a=3$ | $\dfrac{3}{e}\approx 1.104$ | $>1$ ✅ | $+\infty$ |
+
+> ✅ **答案**：$\displaystyle\lim_{n\to\infty}\dfrac{2^n n!}{n^n}=0$，$\displaystyle\lim_{n\to\infty}\dfrac{3^n n!}{n^n}=+\infty$
+
+---
+
+> 💡 **启示与要点**：
+> 1. **比值判别法在数列上的应用**：若 $\lim\frac{a_{n+1}}{a_n}<1$ → $a_n\to0$；若 $>1$ → $|a_n|\to\infty$；若 $=1$ → 无法判断。
+> 2. **核心极限**：$\lim(1+\frac{1}{n})^n=e$ 是化简 $\frac{n^n}{(n+1)^n}$ 型表达式的关键。
+> 3. **分水岭在 $a=e$**：当 $a<e$ 时 $\frac{a^n n!}{n^n}\to0$，$a>e$ 时 $\to+\infty$。$2<e<3$ 是天然的命题素材。
+> 4. 此题也可用**斯特林公式** $n!\sim\sqrt{2\pi n}\left(\frac{n}{e}\right)^n$ 直接得出，但比值法更初等、更符合考研风格。
+
+---
+
 ## 五、无穷大 × 非零周期函数
 
 > **知识卡片**：设 $f(x)$ 为**非零周期函数**（如 $\sin x$、$\cos x$），$g(x) \to \infty$（$x \to x_0$），则：
