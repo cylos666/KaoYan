@@ -19,3 +19,20 @@
 | 数学 | 修正 2013 数三：介值定理 → 零点定理 + 构造函数 $g(x)=f(x)-1$ | `calculus_derivative.md` |
 | 数学 | 数列比值判别法 + $\frac{a^n n!}{n^n}$ 型极限（$\frac{2^n n!}{n^n}\to0,\;\frac{3^n n!}{n^n}\to+\infty$） | `calculus_limit.md` |
 | 英语 | 复习巩固：易混词组对比（salient/silent, elicit/illicit, seminar/seminary 等） | — |
+
+---
+
+## 2026-06-18
+
+### 🔁 复习
+
+- 单词：自我抽测昨日 6/17 复习清单中的顽固词
+- 长难句：句型一~三回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 48 个 | `Words.md` |
+| 英语 | 复现 5 个：merit(2), brace(2), thrust(3), booth(2), furnace(已在当天) | `Words.md` |
+| 英语 | 新增 ⚡ 专区词：merit, brace, thrust | `Words.md` |
