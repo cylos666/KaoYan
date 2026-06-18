@@ -32,8 +32,19 @@
 
 ### 🆕 新学
 
+（无新增内容）
+
+---
+
+## 2026-06-19
+
+### 🔁 复习
+
+- 单词抽查 + 易混词回顾
+
+### 🆕 新学
+
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
-| 英语 | 新词 48 个 | `Words.md` |
-| 英语 | 复现 5 个：merit(2), brace(2), thrust(3), booth(2), furnace(已在当天) | `Words.md` |
-| 英语 | 新增 ⚡ 专区词：merit, brace, thrust | `Words.md` |
+| 英语 | 新词 27 个 + 复现 8 个 | `Words.md` |
+| 英语 | 新增 ⚡ 专区词：turnover, hypocrisy, wage, imminent, eradicate, reciprocal, undermine, impart | `Words.md` |
