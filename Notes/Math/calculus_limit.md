@@ -1159,7 +1159,7 @@ $$
 >
 > (1) 若 $\lim\limits_{n\to\infty}\dfrac{a_{n+1}}{a_n}=a$ 且 $|a|<1$，则 $\lim\limits_{n\to\infty}a_n=0$；
 >
-> (2) 求 $\displaystyle\lim_{n\to\infty}\dfrac{2^n n!}{n^n}$，$\displaystyle\lim_{n\to\infty}\dfrac{3^n n!}{n^n}$。
+> (2) 利用 (1) 证明：$\displaystyle\lim_{n\to\infty}\dfrac{2^n n!}{n^n}=0$，$\displaystyle\lim_{n\to\infty}\dfrac{3^n n!}{n^n}=+\infty$。
 
 **思路分析**：
 
@@ -1509,7 +1509,99 @@ cos x_n ∈ [0,1]   → sin 单调   → B、D 可推到 cos x_n
 
 ---
 
-## 渐近线（2014数一/二真题）
+## 七、$\infty-\infty$ 型极限
+
+### 例题：$\infty-\infty$ 型 · 提取 + 泰勒展开
+
+> **题目**（题型二·5）：求 $\displaystyle\lim_{x\to+\infty}\left[\frac{x^{1+x}}{(1+x)^x} - \frac{x}{e}\right]$
+
+**思路分析**：
+
+$x\to+\infty$ 时，两项都趋于 $+\infty$，属于 $\infty-\infty$ 型。首先要将第一项重写为更易展开的形式，核心是处理 $(1+\frac{1}{x})^x \to e$，并展开到足够阶数以消去主项、露出差值。
+
+---
+
+**第一步：重写第一项**
+
+$$
+\frac{x^{1+x}}{(1+x)^x}
+= x \cdot \frac{x^x}{(1+x)^x}
+= x \cdot \left(\frac{x}{1+x}\right)^x
+= x \cdot \left(\frac{1}{1+\frac{1}{x}}\right)^x
+$$
+
+令 $t = \frac{1}{x}$，则 $x\to+\infty \iff t\to0^+$：
+
+$$
+x \cdot \left(\frac{1}{1+\frac{1}{x}}\right)^x
+= \frac{1}{t} \cdot \left(\frac{1}{1+t}\right)^{1/t}
+$$
+
+---
+
+**第二步：展开 $(1+t)^{1/t}$（关键）**
+
+$$
+\begin{aligned}
+(1+t)^{1/t}
+&= e^{\frac{\ln(1+t)}{t}} \\
+&= e^{\frac{t - \frac{t^2}{2} + \frac{t^3}{3} + O(t^4)}{t}} \\
+&= e^{1 - \frac{t}{2} + \frac{t^2}{3} + O(t^3)} \\
+&= e \cdot e^{-\frac{t}{2} + \frac{t^2}{3} + O(t^3)} \\
+&= e \cdot \left[1 + \left(-\frac{t}{2} + \frac{t^2}{3}\right) + \frac{1}{2}\left(-\frac{t}{2}\right)^2 + O(t^3)\right] \\
+&= e \cdot \left[1 - \frac{t}{2} + \frac{t^2}{3} + \frac{t^2}{8} + O(t^3)\right] \\
+&= e \cdot \left[1 - \frac{t}{2} + \frac{11}{24}t^2 + O(t^3)\right]
+\end{aligned}
+$$
+
+---
+
+**第三步：取倒数展开**
+
+$$
+\begin{aligned}
+\left(\frac{1}{1+t}\right)^{1/t}
+&= \frac{1}{(1+t)^{1/t}}
+= \frac{1}{e\left[1 - \frac{t}{2} + \frac{11}{24}t^2 + O(t^3)\right]} \\
+&= \frac{1}{e} \cdot \left[1 + \frac{t}{2} + O(t^2)\right] \quad\text{（}\frac{1}{1-u}=1+u+\cdots\text{）}\\
+&= \frac{1}{e} + \frac{t}{2e} + O(t^2)
+\end{aligned}
+$$
+
+---
+
+**第四步：代回求极限**
+
+$$
+\begin{aligned}
+\frac{x^{1+x}}{(1+x)^x}
+&= \frac{1}{t} \cdot \left(\frac{1}{e} + \frac{t}{2e} + O(t^2)\right) \\
+&= \frac{1}{e \cdot t} + \frac{1}{2e} + O(t) \\
+&= \frac{x}{e} + \frac{1}{2e} + o(1) \quad(\because\; t=\tfrac{1}{x})
+\end{aligned}
+$$
+
+---
+
+**第五步：相减**
+
+$$
+\lim_{x\to+\infty}\left[\frac{x^{1+x}}{(1+x)^x} - \frac{x}{e}\right]
+= \lim_{x\to+\infty}\left[\frac{x}{e} + \frac{1}{2e} + o(1) - \frac{x}{e}\right]
+= \frac{1}{2e}
+$$
+
+> ✅ **答案：$\boxed{\dfrac{1}{2e}}$**
+
+---
+
+> 💡 **启示与要点**：
+> 1. **提取主项**：$x^n$ 型比 $a^n$ 型优先——当底数和指数都有 $x$ 时，先提出 $x$ 把问题转到 $(1+1/x)^x$ 类表达式。
+> 2. **$(1+t)^{1/t}$ 的泰勒展开**是这道题的核心计算量——展开到 $t^2$ 才能得到常数项。
+> 3. **$\infty-\infty$ 型的套路**：重写 → 展开 → 消去主导项 → 剩下的常数就是答案。
+> 4. 类似题型：$\lim(1+\frac{1}{n})^n = e$，但 $(1+\frac{1}{n})^n$ 的**二阶展开**是这道题的区分点。
+
+---
 
 ### 例题：判断曲线的渐近线
 
