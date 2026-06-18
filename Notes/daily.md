@@ -28,11 +28,24 @@
 
 ### 🔁 复习
 
-- （尚未复习）
+- 单词：6/17 新词 15 抽测（sow/stationery/barren/oral/curb/intact/vicious 等，得分 10/14）
+- 单词：顽固易混词纠正（intact≠接触, inspire≠尽管, arise≠上升）
+- 长难句：句型一~五回顾（分词伴随/with独立主格/as插入/定从并列/嵌入式定从）
+- 数学：数列比值判别法——分水岭 $a=e$
 
 ### 🆕 新学
 
-（无新增内容）
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 数学 | $\varepsilon$-$N$ 定义证明 $\frac{1}{n}\to0$，极限 → 反解 $N$ | `calculus_limit.md` |
+| 数学 | 比值判别法全链：$\varepsilon$-$N$ → 夹逼 → $|a_n|\to0$ | `calculus_limit.md` |
+| 数学 | 保号性 vs 保序性 vs 夹逼——方向辨析 | — |
+| 数学 | 琴生不等式（Jensen）三种证法 + AM–GM 推导 | `calculus_inequality.md` |
+| 数学 | $\infty-\infty$ 型极限：$\frac{x^{1+x}}{(1+x)^x}-\frac{x}{e}$，$(1+t)^{1/t}$ 二阶展开 | `calculus_limit.md` |
+| 数学 | 等价无穷小边界条件：互消型 + 误差放大型 | — |
+| 数学 | 修正比值判别法题目：(2) "求" → "利用 (1) 证明" | `calculus_limit.md` |
+| 英语 | 新词 27 个 + 复现 8 个（league(3), turnover(2), lapse, cordial, fuss, hypocrisy(2), wage(2), imminent(2), eradicate(2), reciprocal(2), undermine(2), impart(2), indignation, rob, diagnose, lease, spectacle, dismay, bleed, reproach, ethic, secretary, secondary, chin, excursion, quart, bracket, diffuse, perplex, deficit, retail, oxide, rifle, corrupt 等） | `Words.md` |
+| 英语 | 新增 ⚡ 专区词：turnover, hypocrisy, wage, imminent, eradicate, reciprocal, undermine, impart | `Words.md` |
 
 ---
 
@@ -40,11 +53,8 @@
 
 ### 🔁 复习
 
-- 单词抽查 + 易混词回顾
+- （尚未开始）
 
 ### 🆕 新学
 
-| 学科 | 内容 | 文件 |
-|:---|:---|:---|
-| 英语 | 新词 27 个 + 复现 8 个 | `Words.md` |
-| 英语 | 新增 ⚡ 专区词：turnover, hypocrisy, wage, imminent, eradicate, reciprocal, undermine, impart | `Words.md` |
+（暂无）
