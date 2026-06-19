@@ -45,7 +45,7 @@
 | 数学 | 等价无穷小边界条件：互消型 + 误差放大型 | — |
 | 数学 | 修正比值判别法题目：(2) "求" → "利用 (1) 证明" | `calculus_limit.md` |
 | 英语 | 新词 27 个 + 复现 8 个（league(3), turnover(2), lapse, cordial, fuss, hypocrisy(2), wage(2), imminent(2), eradicate(2), reciprocal(2), undermine(2), impart(2), indignation, rob, diagnose, lease, spectacle, dismay, bleed, reproach, ethic, secretary, secondary, chin, excursion, quart, bracket, diffuse, perplex, deficit, retail, oxide, rifle, corrupt 等） | `Words.md` |
-| 英语 | 新增 ⚡ 专区词：turnover, hypocrisy, wage, imminent, eradicate, reciprocal, undermine, impart | `Words.md` |
+| 英语 | 新增 ⚡ 专区词：turnover, hypocrisy, wage, imminent, eradicate, reciprocal, undermine, impart, doze, militant, thermal, barren, cereal, curb, commence, hoist, kidnap, contrive, sly, spacious, outlet, parasite, inflict, notion, sow | `Words.md` |
 
 ---
 
@@ -53,8 +53,10 @@
 
 ### 🔁 复习
 
-- （尚未开始）
+- 单词复现自测
 
 ### 🆕 新学
 
-（暂无）
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 25 个（transparent, abdomen, evaporate, survey, tug, panorama, shutter, grin, telegraph, repression, razor, priest, lateral, testimony, dividend, axe, pottery, forum, handicap, emit, fable, audit, auction, seam, clerk, imperative, module, pistol） | `Words.md` |
