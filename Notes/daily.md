@@ -60,3 +60,18 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 25 个（transparent, abdomen, evaporate, survey, tug, panorama, shutter, grin, telegraph, repression, razor, priest, lateral, testimony, dividend, axe, pottery, forum, handicap, emit, fable, audit, auction, seam, clerk, imperative, module, pistol） | `Words.md` |
+
+---
+
+## 2026-06-20
+
+### 🔁 复习
+
+- 单词复现 + ⚡ 专区巩固
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 28 个（depict, hay, definite, congress, neutral, vest, diversion, exceedingly, differentiate, trunk, catalog, motel, comb, distort, oval, voltage, cabin, federation, tribe, soar, brisk, senate, ribbon, fiscal, conscience, portray, transistor, relish） | `Words.md` |
+| 英语 | 复现 8 个加入 ⚡（spectacle, reproach, rifle, dismay, perplex, deficit, lease, excursion） | `Words.md` |

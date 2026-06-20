@@ -4,7 +4,7 @@
 
 > <!-- 这里只放单词本身，不加其他信息。你记不住的词我放这里 -->
 >
-`contagious` `reconcile` `contingent` `contemplate` `aggregate` `heir` `reservoir` `treaty` `wipe` `denounce` `fling` `salient` `surplus` `hospitality` `controversial` `strap` `discrete` `municipal` `suffice` `ruthless` `decimal` `formation` `dual` `plagiarism` `intersection` `radius` `equator` `haul` `consult` `knit` `grip` `gown` `wicked` `territory` `ascribe` `seminar` `penalty` `shuttle` `mortgage` `vulgar` `elicit` `clause` `convene` `mingle` `fraud` `epoch` `league` `famine` `furious` `exquisite` `resume` `reverse` `aerial` `roundabout` `wreck` `gang` `counsel` `considerable` `likewise` `grief` `bronze` `ascertain` `adjacent` `debut` `beware` `courtesy` `radiant` `thermometer` `limp` `feeble` `huddle` `lane` `fore` `dispute` `indignant` `snap` `vigorous` `plunge` `conscientious` `crude` `wagon` `apparatus` `stack` `litter` `transient` `integral` `naive` `drawback` `allegiance` `booth` `porcelain` `nuisance` `thrift` `repel` `toil` `tow` `overhear` `burglar` `escort` `skull` `stipulate` `cohesive` `exaggerate` `merit` `brace` `thrust` `turnover` `hypocrisy` `wage` `imminent` `eradicate` `reciprocal` `undermine` `impart` `doze` `militant` `thermal` `barren` `cereal` `curb` `commence` `hoist` `kidnap` `contrive` `sly` `spacious` `outlet` `parasite` `inflict` `notion` `sow`
+`contagious` `reconcile` `contingent` `contemplate` `aggregate` `heir` `reservoir` `treaty` `wipe` `denounce` `fling` `salient` `surplus` `hospitality` `controversial` `strap` `discrete` `municipal` `suffice` `ruthless` `decimal` `formation` `dual` `plagiarism` `intersection` `radius` `equator` `haul` `consult` `knit` `grip` `gown` `wicked` `territory` `ascribe` `seminar` `penalty` `shuttle` `mortgage` `vulgar` `elicit` `clause` `convene` `mingle` `fraud` `epoch` `league` `famine` `furious` `exquisite` `resume` `reverse` `aerial` `roundabout` `wreck` `gang` `counsel` `considerable` `likewise` `grief` `bronze` `ascertain` `adjacent` `debut` `beware` `courtesy` `radiant` `thermometer` `limp` `feeble` `huddle` `lane` `fore` `dispute` `indignant` `snap` `vigorous` `plunge` `conscientious` `crude` `wagon` `apparatus` `stack` `litter` `transient` `integral` `naive` `drawback` `allegiance` `booth` `porcelain` `nuisance` `thrift` `repel` `toil` `tow` `overhear` `burglar` `escort` `skull` `stipulate` `cohesive` `exaggerate` `merit` `brace` `thrust` `turnover` `hypocrisy` `wage` `imminent` `eradicate` `reciprocal` `undermine` `impart` `doze` `militant` `thermal` `barren` `cereal` `curb` `commence` `hoist` `kidnap` `contrive` `sly` `spacious` `outlet` `parasite` `inflict` `notion` `sow` `spectacle` `reproach` `rifle` `dismay` `perplex` `deficit` `lease` `excursion`
 
 ---
 
@@ -738,3 +738,32 @@
 | | imperative | /ɪmˈperətɪv/ | adj. 迫切的；命令式的<br>n. 必要的事 | it is imperative that 必须…<br>moral imperative 道德责任 | It is **imperative** to act now. （必须立刻行动。）<br><br>🔍 **易混**：imperative vs imperial（帝国的）|
 | | module | /ˈmɑːdʒuːl/ | n. 模块；单元 | training module 培训模块<br>lunar module 登月舱 | The course is divided into six **modules**. （课程分为六个模块。）|
 | | pistol | /ˈpɪstl/ | n. 手枪 | automatic pistol 自动手枪<br>pistol grip 手枪握把 | He drew his **pistol** and fired. （他拔出手枪射击。）<br><br>🔍 **易混**：pistol vs piston（活塞）|
+| | depict | /dɪˈpɪkt/ | v. 描绘，描述 | depict...as 把…描绘成<br>depiction n. 描绘 | The novel **depicts** life in 19th-century London. （小说描绘了19世纪伦敦的生活。）<br><br>🔍 **近义**：portray/describe · **易混**：depict vs depict ≠ predict（预测）|
+
+| | hay | /heɪ/ | n. 干草 | make hay while the sun shines 趁热打铁<br>hay fever 花粉症 | The farmer stacked bales of **hay**. （农民堆起干草捆。）|
+| | definite | /ˈdefɪnət/ | adj. 明确的，肯定的 | definite answer 明确答复<br>definitely adv. 肯定地 | We need a **definite** plan. （我们需要一个明确的计划。）|
+| | congress | /ˈkɑːŋɡrəs/ | n. 国会；大会 | Congress 美国国会<br>congressional adj. 国会的 | The bill was passed by **Congress**. （法案由国会通过。）|
+| | neutral | /ˈnuːtrəl/ | adj. 中立的<br>n. 空挡 | remain neutral 保持中立<br>neutralize v. 中和 | Switzerland remained **neutral** during the war. （瑞士在战争期间保持中立。）|
+| | vest | /vest/ | n. 背心；马甲<br>v. 授予（权力） | bulletproof vest 防弹背心<br>be vested in 授予 | The authority is **vested** in the committee. （权力授予了委员会。）|
+| | diversion | /daɪˈvɜːrʒn/ | n. 转移；消遣，娱乐 | create a diversion 声东击西<br>traffic diversion 交通绕行 | Reading is a pleasant **diversion**. （阅读是愉快的消遣。）|
+| | exceedingly | /ɪkˈsiːdɪŋli/ | adv. 极其，非常 | exceedingly difficult 极其困难 | The exam was **exceedingly** difficult. （考试极其困难。）|
+| | differentiate | /ˌdɪfəˈrenʃieɪt/ | v. 区分，区别；求导 | differentiate A from B 区分A与B<br>differentiation n. 区分 | It's hard to **differentiate** between the twins. （那对双胞胎很难区分。）|
+| | trunk | /trʌŋk/ | n. 树干；行李箱；象鼻 | tree trunk 树干<br>trunk call 长途电话 | The elephant lifted its **trunk**. （大象举起了鼻子。）|
+| | catalog | /ˈkætəlɔːɡ/ | n. 目录<br>v. 编目 | library catalog 图书目录<br>catalog an exhibition 编展品目录 | Browse our online **catalog**. （浏览我们的在线目录。）|
+| | motel | /moʊˈtel/ | n. 汽车旅馆 | stay at a motel 住在汽车旅馆 | We stopped at a **motel** for the night. （我们在一家汽车旅馆过夜。）|
+| | comb | /koʊm/ | n. 梳子<br>v. 梳理；仔细搜索 | comb through 仔细搜寻<br>fine-tooth comb 细齿梳 | Police **combed** the area for clues. （警方在该区域仔细搜寻线索。）|
+| | distort | /dɪˈstɔːrt/ | v. 扭曲，歪曲 | distort the truth 歪曲事实<br>distortion n. 扭曲 | The media **distorted** the facts. （媒体歪曲了事实。）|
+| | oval | /ˈoʊvl/ | adj./n. 椭圆形的 | oval shape 椭圆形<br>the Oval Office 总统办公室 | The table has an **oval** shape. （桌子是椭圆形的。）|
+| | voltage | /ˈvoʊltɪdʒ/ | n. 电压 | high voltage 高压<br>voltage drop 电压降 | Be careful — it's high **voltage**. （小心——这是高压。）|
+| | cabin | /ˈkæbɪn/ | n. 小木屋；机舱 | log cabin 木屋<br>first-class cabin 头等舱 | They stayed in a cozy **cabin**. （他们住在舒适的小木屋里。）|
+| | federation | /ˌfedəˈreɪʃn/ | n. 联邦，联盟 | federal adj. 联邦的<br>Russian Federation 俄罗斯联邦 | Australia is a **federation** of states. （澳大利亚是一个联邦制国家。）|
+| | tribe | /traɪb/ | n. 部落；族群 | tribal adj. 部落的<br>native American tribe 美洲土著部落 | The **tribe** has lived here for centuries. （这个部落已在此生活了几个世纪。）|
+| | soar | /sɔːr/ | v. 飙升；翱翔 | soar high 高高飞翔<br>prices soar 物价飙升 | The eagle **soared** above the mountains. （鹰在山上方翱翔。）<br><br>🔍 **易混**：soar vs sore（疼痛的，同音！）|
+| | brisk | /brɪsk/ | adj. 轻快的；兴旺的 | brisk walk 快步走<br>brisk trade 生意兴隆 | We took a **brisk** walk in the park. （我们在公园轻快地散步。）<br><br>🔍 **易混**：brisk vs risk（风险）|
+| | senate | /ˈsenət/ | n. 参议院 | senator n. 参议员<br>Senate hearing 参议院听证会 | The **Senate** approved the bill. （参议院批准了法案。）|
+| | ribbon | /ˈrɪbən/ | n. 丝带，缎带 | ribbon cutting 剪彩<br>tie a ribbon 系丝带 | She tied a red **ribbon** on the gift. （她在礼物上系了红丝带。）|
+| | fiscal | /ˈfɪskl/ | adj. 财政的 | fiscal policy 财政政策<br>fiscal year 财政年度 | The government announced new **fiscal** measures. （政府宣布了新的财政措施。）|
+| | conscience | /ˈkɑːnʃəns/ | n. 良心，良知 | guilty conscience 内疚<br>clear conscience 问心无愧 | His **conscience** wouldn't let him lie. （他的良心不允许他撒谎。）<br><br>🔍 **易混**：conscience vs conscious（有意识的）vs conscientious（尽责的，已在⚡）|
+| | portray | /pɔːrˈtreɪ/ | v. 描绘；扮演 | portray as 把…描绘成<br>portrayal n. 描绘 | The film **portrays** the life of a scientist. （电影描绘了一位科学家的生活。）|
+| | transistor | /trænˈzɪstər/ | n. 晶体管 | transistor radio 晶体管收音机 | The **transistor** revolutionized electronics. （晶体管革新了电子行业。）|
+| | relish | /ˈrelɪʃ/ | v. 享受，喜爱<br>n. 享受；调味酱 | relish the challenge 喜欢挑战<br>relish the thought 喜欢这个想法 | She **relished** the opportunity to travel. （她很喜欢旅行机会。）<br><br>🔍 **易混**：relish vs relish ≠ relish（≠ relish vs release 释放）|
