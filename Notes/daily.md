@@ -75,3 +75,18 @@
 |:---|:---|:---|
 | 英语 | 新词 28 个（depict, hay, definite, congress, neutral, vest, diversion, exceedingly, differentiate, trunk, catalog, motel, comb, distort, oval, voltage, cabin, federation, tribe, soar, brisk, senate, ribbon, fiscal, conscience, portray, transistor, relish） | `Words.md` |
 | 英语 | 复现 8 个加入 ⚡（spectacle, reproach, rifle, dismay, perplex, deficit, lease, excursion） | `Words.md` |
+
+---
+
+## 2026-06-21
+
+### 🔁 复习
+
+- 单词复现 + ⚡ 专区扩增
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 18 个（eminent, straw, warrant, verdict, democratic, riddle, stoop, aviation, striking, overhaul, pasture, tribute, plumber, preface, banquet, pathetic, ozone, gigantic） | `Words.md` |
+| 英语 | 复现 12 个加入 ⚡（dividend, cupboard, liner, imperative, module, seam, priest, razor, audit, forum, handicap, soar） | `Words.md` |

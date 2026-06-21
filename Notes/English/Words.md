@@ -4,7 +4,7 @@
 
 > <!-- 这里只放单词本身，不加其他信息。你记不住的词我放这里 -->
 >
-`contagious` `reconcile` `contingent` `contemplate` `aggregate` `heir` `reservoir` `treaty` `wipe` `denounce` `fling` `salient` `surplus` `hospitality` `controversial` `strap` `discrete` `municipal` `suffice` `ruthless` `decimal` `formation` `dual` `plagiarism` `intersection` `radius` `equator` `haul` `consult` `knit` `grip` `gown` `wicked` `territory` `ascribe` `seminar` `penalty` `shuttle` `mortgage` `vulgar` `elicit` `clause` `convene` `mingle` `fraud` `epoch` `league` `famine` `furious` `exquisite` `resume` `reverse` `aerial` `roundabout` `wreck` `gang` `counsel` `considerable` `likewise` `grief` `bronze` `ascertain` `adjacent` `debut` `beware` `courtesy` `radiant` `thermometer` `limp` `feeble` `huddle` `lane` `fore` `dispute` `indignant` `snap` `vigorous` `plunge` `conscientious` `crude` `wagon` `apparatus` `stack` `litter` `transient` `integral` `naive` `drawback` `allegiance` `booth` `porcelain` `nuisance` `thrift` `repel` `toil` `tow` `overhear` `burglar` `escort` `skull` `stipulate` `cohesive` `exaggerate` `merit` `brace` `thrust` `turnover` `hypocrisy` `wage` `imminent` `eradicate` `reciprocal` `undermine` `impart` `doze` `militant` `thermal` `barren` `cereal` `curb` `commence` `hoist` `kidnap` `contrive` `sly` `spacious` `outlet` `parasite` `inflict` `notion` `sow` `spectacle` `reproach` `rifle` `dismay` `perplex` `deficit` `lease` `excursion`
+`contagious` `reconcile` `contingent` `contemplate` `aggregate` `heir` `reservoir` `treaty` `wipe` `denounce` `fling` `salient` `surplus` `hospitality` `controversial` `strap` `discrete` `municipal` `suffice` `ruthless` `decimal` `formation` `dual` `plagiarism` `intersection` `radius` `equator` `haul` `consult` `knit` `grip` `gown` `wicked` `territory` `ascribe` `seminar` `penalty` `shuttle` `mortgage` `vulgar` `elicit` `clause` `convene` `mingle` `fraud` `epoch` `league` `famine` `furious` `exquisite` `resume` `reverse` `aerial` `roundabout` `wreck` `gang` `counsel` `considerable` `likewise` `grief` `bronze` `ascertain` `adjacent` `debut` `beware` `courtesy` `radiant` `thermometer` `limp` `feeble` `huddle` `lane` `fore` `dispute` `indignant` `snap` `vigorous` `plunge` `conscientious` `crude` `wagon` `apparatus` `stack` `litter` `transient` `integral` `naive` `drawback` `allegiance` `booth` `porcelain` `nuisance` `thrift` `repel` `toil` `tow` `overhear` `burglar` `escort` `skull` `stipulate` `cohesive` `exaggerate` `merit` `brace` `thrust` `turnover` `hypocrisy` `wage` `imminent` `eradicate` `reciprocal` `undermine` `impart` `doze` `militant` `thermal` `barren` `cereal` `curb` `commence` `hoist` `kidnap` `contrive` `sly` `spacious` `outlet` `parasite` `inflict` `notion` `sow` `spectacle` `reproach` `rifle` `dismay` `perplex` `deficit` `lease` `excursion` `dividend` `cupboard` `liner` `imperative` `module` `seam` `priest` `razor` `audit` `forum` `handicap` `soar`
 
 ---
 
@@ -767,3 +767,22 @@
 | | portray | /pɔːrˈtreɪ/ | v. 描绘；扮演 | portray as 把…描绘成<br>portrayal n. 描绘 | The film **portrays** the life of a scientist. （电影描绘了一位科学家的生活。）|
 | | transistor | /trænˈzɪstər/ | n. 晶体管 | transistor radio 晶体管收音机 | The **transistor** revolutionized electronics. （晶体管革新了电子行业。）|
 | | relish | /ˈrelɪʃ/ | v. 享受，喜爱<br>n. 享受；调味酱 | relish the challenge 喜欢挑战<br>relish the thought 喜欢这个想法 | She **relished** the opportunity to travel. （她很喜欢旅行机会。）<br><br>🔍 **易混**：relish vs relish ≠ relish（≠ relish vs release 释放）|
+
+| | eminent | /ˈemɪnənt/ | adj. 杰出的，卓越的 | eminent scientist 杰出科学家<br>eminence n. 卓越 | She is an **eminent** scholar in this field. （她是该领域杰出学者。）<br><br>🔍 **易混**：eminent vs imminent（迫在眉睫的，已在⚡）vs immanent（内在的）|
+| | straw | /strɔː/ | n. 稻草；吸管 | the last straw 最后一根稻草<br>drinking straw 吸管 | That's the **last straw** — I quit. （忍无可忍——我辞职。）|
+| | warrant | /ˈwɔːrənt/ | n. 授权令；正当理由<br>v. 使有必要 | search warrant 搜查令<br>be warranted 有理由 | The situation **warrants** immediate action. （形势需要立即行动。）|
+| | verdict | /ˈvɜːrdɪkt/ | n. 裁决；定论 | jury verdict 陪审团裁决<br>reach a verdict 达成裁决 | The jury returned a **verdict** of guilty. （陪审团作出有罪裁决。）|
+| | democratic | /ˌdeməˈkrætɪk/ | adj. 民主的 | democratic election 民主选举<br>democracy n. 民主 | Free speech is a **democratic** right. （言论自由是民主权利。）|
+| | riddle | /ˈrɪdl/ | n. 谜语；谜团<br>v. 使布满孔 | solve a riddle 解谜<br>be riddled with 布满 | The case remains a **riddle**. （这个案件仍是个谜。）|
+| | stoop | /stuːp/ | v. 弯腰；俯身；堕落 | stoop to doing 堕落到做某事<br>stoop down 弯腰 | Don't **stoop** to their level. （别堕落到他们那种层次。）|
+| | aviation | /ˌeɪviˈeɪʃn/ | n. 航空，飞行 | aviation industry 航空业<br>civil aviation 民航 | The **aviation** industry was hit by the pandemic. （航空业受疫情打击。）|
+| | striking | /ˈstraɪkɪŋ/ | adj. 显著的，引人注目的 | striking contrast 鲜明对比<br>strikingly adv. 显著地 | There is a **striking** similarity between them. （他们之间有惊人相似。）|
+| | overhaul | /ˈoʊvərhɔːl/ n.<br>/ˌoʊvərˈhɔːl/ v. | n./v. 彻底检修，全面改革 | major overhaul 大修<br>overhaul the system 改革制度 | The tax system needs a complete **overhaul**. （税收系统需要彻底改革。）|
+| | pasture | /ˈpæstʃər/ | n. 牧场<br>v. 放牧 | green pastures 绿草牧场<br>put out to pasture 让退休 | Sheep were grazing in the **pasture**. （羊在牧场吃草。）|
+| | tribute | /ˈtrɪbjuːt/ | n. 致敬，颂词；贡品 | pay tribute to 向…致敬<br>a tribute to …的证明 | The film is a **tribute** to her courage. （影片是对她勇气的致敬。）|
+| | plumber | /ˈplʌmər/ | n. 水管工 | call a plumber 叫水管工<br>plumbing n. 管道系统 | We had to call a **plumber** to fix the leak. （我们得叫水管工修漏水。）|
+| | preface | /ˈprefəs/ | n. 前言，序言<br>v. 以…开头 | preface to …的序言<br>preface with 以…开头 | He wrote a **preface** to the book. （他为书作了序。）|
+| | banquet | /ˈbæŋkwɪt/ | n. 宴会，盛宴 | state banquet 国宴<br>wedding banquet 婚宴 | A **banquet** was held in his honor. （为他举行了宴会。）|
+| | pathetic | /pəˈθetɪk/ | adj. 可怜的，可悲的 | pathetic excuse 蹩脚的借口<br>pathetically adv. 可怜地 | It's **pathetic** that he still blames others. （他还在怪别人，真可悲。）|
+| | ozone | /ˈoʊzoʊn/ | n. 臭氧 | ozone layer 臭氧层<br>ozone depletion 臭氧损耗 | The **ozone** layer protects us from UV rays. （臭氧层保护我们免受紫外线。）|
+| | gigantic | /dʒaɪˈɡæntɪk/ | adj. 巨大的，庞大的 | a gigantic amount of 巨量的<br>gigantic statue 巨大雕像 | The project cost a **gigantic** amount of money. （项目花费了巨额资金。）|
