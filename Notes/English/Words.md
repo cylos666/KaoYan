@@ -786,3 +786,66 @@
 | | pathetic | /pəˈθetɪk/ | adj. 可怜的，可悲的 | pathetic excuse 蹩脚的借口<br>pathetically adv. 可怜地 | It's **pathetic** that he still blames others. （他还在怪别人，真可悲。）|
 | | ozone | /ˈoʊzoʊn/ | n. 臭氧 | ozone layer 臭氧层<br>ozone depletion 臭氧损耗 | The **ozone** layer protects us from UV rays. （臭氧层保护我们免受紫外线。）|
 | | gigantic | /dʒaɪˈɡæntɪk/ | adj. 巨大的，庞大的 | a gigantic amount of 巨量的<br>gigantic statue 巨大雕像 | The project cost a **gigantic** amount of money. （项目花费了巨额资金。）|
+
+| | mutter | /ˈmʌtər/ | v. 嘀咕，喃喃自语 | mutter to oneself 自言自语 | He **muttered** under his breath. （他低声嘀咕。）|
+| | swell | /swel/ | v. 肿胀；膨胀；增大 | swell up 肿起来 | His ankle **swelled** after the fall. （摔后脚踝肿了。）|
+| | crude | /kruːd/ | adj. 粗糙的；原油的；粗鲁的 | crude oil 原油 | His **crude** remarks offended many. （他粗鲁言论冒犯了很多人。）|
+| | counsel | /ˈkaʊnsl/ | n./v. 忠告；律师 | legal counsel 法律顾问 | She **counseled** patience. （她劝告要耐心。）|
+| | benevolent | /bəˈnevələnt/ | adj. 仁慈的，慈善的 | benevolent dictator 仁慈独裁者 | He is a **benevolent** leader. （他是仁慈的领导者。）|
+| | wrinkle | /ˈrɪŋkl/ | n. 皱纹<br>v. 起皱 | wrinkle with age 因年老起皱 | She had fine **wrinkles** around her eyes. （她眼角有细纹。）|
+| | ideology | /ˌaɪdiˈɑːlədʒi/ | n. 意识形态，思想体系 | political ideology 政治意识形态 | The party embraces a socialist **ideology**. （该党奉行社会主义意识形态。）|
+| | preach | /priːtʃ/ | v. 布道；鼓吹，宣扬 | preach about 宣扬…<br>preacher n. 传教士 | He **preached** about the importance of education. （他宣扬教育的重要性。）|
+| | revolt | /rɪˈvoʊlt/ | n./v. 反抗，起义 | in revolt 起义中<br>revolt against 反抗 | The people **revolted** against the dictator. （人民反抗独裁者。）|
+| | feeble | /ˈfiːbl/ | adj. 虚弱的，无力的 | feeble attempt 无力尝试 | She made a **feeble** excuse. （她找了个站不住脚的借口。）|
+| | sophomore | /ˈsɑːfəmɔːr/ | n. 大二学生 | sophomore year 大二 | He is a **sophomore** at Harvard. （他是哈佛大二学生。）|
+| | crust | /krʌst/ | n. 面包皮；外壳；地壳 | earth's crust 地壳<br>pie crust 派皮 | The **crust** of the bread was hard. （面包皮很硬。）|
+| | terrify | /ˈterɪfaɪ/ | v. 使恐惧，使害怕 | be terrified of 害怕 | The thought of flying **terrifies** her. （想到飞行她就害怕。）|
+| | inaugurate | /ɪˈnɔːɡjəreɪt/ | v. 为…举行就职典礼；开创 | inaugurate a president 总统就职<br>inauguration n. 就职典礼 | The new president was **inaugurated** in January. （新总统1月就职。）|
+| | imperial | /ɪmˈpɪriəl/ | adj. 帝国的，皇帝的 | imperial palace 皇宫<br>imperialism n. 帝国主义 | The **imperial** dynasty ruled for centuries. （帝国王朝统治了几个世纪。）|
+| | mandate | /ˈmændeɪt/ | n./v. 授权；强制执行 | mandate reform 强制改革 | The government has a clear **mandate** to act. （政府有明确授权采取行动。）|
+| | concise | /kənˈsaɪs/ | adj. 简洁的，简明的 | concise summary 简明总结 | Keep your report **concise**. （报告要保持简洁。）|
+| | mosquito | /məˈskiːtoʊ/ | n. 蚊子 | mosquito net 蚊帐<br>mosquito bite 蚊子叮咬 | I was bitten by a **mosquito**. （我被蚊子咬了。）|
+| | dedicate | /ˈdedɪkeɪt/ | v. 致力于；奉献；题献 | dedicate oneself to 致力于<br>dedication n. 奉献 | She **dedicated** her life to science. （她把一生奉献给科学。）|
+| | spoil | /spɔɪl/ | v. 破坏；溺爱 | spoil a child 宠坏孩子<br>spoiler n. 剧透 | Don't **spoil** your appetite. （别破坏食欲。）|
+| | fireplace | /ˈfaɪərpleɪs/ | n. 壁炉 | by the fireplace 在壁炉旁 | They sat by the **fireplace** reading. （他们坐在壁炉旁看书。）|
+| | commodity | /kəˈmɑːdəti/ | n. 商品，日用品 | commodity market 商品市场<br>commodities trader 商品交易员 | Oil is a valuable **commodity**. （石油是宝贵商品。）|
+| | apt | /æpt/ | adj. 恰当的；易于…的；聪明的 | be apt to do 易于做<br>apt description 恰当描述 | He is **apt** to forget things. （他容易忘事。）|
+| | acre | /ˈeɪkər/ | n. 英亩（复数 acres） | acres of 大量的… | They own 50 **acres** of land. （他们拥有50英亩土地。）|
+| | appliance | /əˈplaɪəns/ | n. 家用电器，器具 | household appliance 家用电器<br>electrical appliance 电器 | The kitchen is full of modern **appliances**. （厨房满是现代电器。）|
+| | radius | /ˈreɪdiəs/ | n. 半径；范围 | within a radius of 在…半径范围内 | The explosion destroyed everything within a 5-mile **radius**. （爆炸摧毁了半径5英里内的一切。）|
+| | augment | /ɔːɡˈment/ | v. 增加，扩大 | augment income 增加收入<br>augmentation n. 增大 | She took a second job to **augment** her income. （她做第二份工作增加收入。）|
+| | cape | /keɪp/ | n. 披肩；海角 | Cape of Good Hope 好望角<br>superhero cape 超级英雄披风 | They sailed around the **Cape**. （他们绕过了海角。）|
+| | formation | /fɔːrˈmeɪʃn/ | n. 形成；队形 | rock formation 岩层<br>in formation 编队 | The planes flew in **formation**. （飞机编队飞行。）|
+| | strife | /straɪf/ | n. 冲突，争斗 | internal strife 内讧 | The country was torn by **strife**. （国家被内乱撕裂。）|
+| | latitude | /ˈlætɪtuːd/ | n. 纬度；自由度 | high latitudes 高纬度<br>give sb latitude 给予自由 | We were given some **latitude** in decision-making. （我们被给予一定决策自由度。）|
+| | alleviate | /əˈliːvieɪt/ | v. 减轻，缓解 | alleviate pain 减轻疼痛 | The medicine **alleviated** her pain. （药物缓解了她的疼痛。）|
+| | applicable | /ˈæplɪkəbl/ | adj. 适用的，可应用的 | be applicable to 适用于 | The rule is **applicable** to all employees. （该规定适用于所有员工。）|
+| | obsession | /əbˈseʃn/ | n. 痴迷，困扰 | obsession with 对…的痴迷 | His **obsession** with perfection is unhealthy. （他对完美的痴迷不健康。）|
+| | conscientious | /ˌkɑːnʃiˈenʃəs/ | adj. 认真尽责的 | conscientious student 认真学生 | She is a **conscientious** worker. （她工作认真尽责。）|
+| | agony | /ˈæɡəni/ | n. 极度痛苦，折磨 | in agony 痛苦中<br>agony aunt 知心姐姐 | He was in **agony** after the surgery. （手术后他痛苦不堪。）|
+| | shear | /ʃɪr/ | v. 剪羊毛；剪切 | shear sheep 剪羊毛<br>shear off 剪断 | Farmers **shear** sheep every spring. （农民每年春天剪羊毛。）|
+| | discipline | /ˈdɪsəplɪn/ | n. 纪律；学科<br>v. 管教 | self-discipline 自律<br>academic discipline 学科 | **Discipline** is key to success. （纪律是成功的关键。）|
+| | bearing | /ˈberɪŋ/ | n. 举止；关系；方位 | have a bearing on 与…有关<br>lose one's bearings 迷失方向 | His opinion has no **bearing** on the decision. （他的意见与决定无关。）|
+| | yawn | /jɔːn/ | v./n. 打哈欠 | stifle a yawn 忍住哈欠<br>yawning gap 巨大的差距 | He couldn't stop **yawning** during the lecture. （他在讲座中不停打哈欠。）|
+| | pit | /pɪt/ | n. 坑；矿井；果核 | pit against 使对抗<br>armpit 腋窝 | The miners worked deep in the **pit**. （矿工在矿井深处工作。）|
+| | preside | /prɪˈzaɪd/ | v. 主持，负责 | preside over/at 主持 | The judge **presided** over the trial. （法官主持了审判。）|
+| | extravagant | /ɪkˈstrævəɡənt/ | adj. 奢侈的；过分的 | extravagant lifestyle 奢侈生活<br>extravagant claims 过分主张 | She has an **extravagant** taste in clothes. （她在衣着上品味奢侈。）|
+| | mercury | /ˈmɜːrkjəri/ | n. 水银，汞；水星 | mercury poisoning 汞中毒 | The thermometer contains **mercury**. （温度计含水银。）|
+| | affiliate | /əˈfɪlieɪt/ v.<br>/əˈfɪliət/ n. | v. 使隶属于<br>n. 附属机构 | affiliate with 隶属于<br>affiliation n. 隶属关系 | The hospital is **affiliated** with the university. （该医院隶属于大学。）|
+| | meadow | /ˈmedoʊ/ | n. 草地，牧场 | green meadow 绿色草地 | Cows were grazing in the **meadow**. （牛在草地上吃草。）|
+| | liver | /ˈlɪvər/ | n. 肝脏 | liver disease 肝病<br>liver transplant 肝移植 | Alcohol can damage your **liver**. （酒精会损害肝脏。）|
+| | stance | /stæns/ | n. 立场，态度；站姿 | take a stance 表明立场<br>political stance 政治立场 | She took a firm **stance** on the issue. （她在这个问题上立场坚定。）|
+| | weary | /ˈwɪri/ | adj. 疲倦的；厌倦的<br>v. 使厌倦 | weary of 厌倦<br>weariness n. 疲倦 | She was **weary** of the long journey. （她对长途旅行感到疲倦。）|
+| | pant | /pænt/ | v./n. 喘气，喘息 | pant for breath 喘不过气<br>panting adj. 喘气的 | He was **panting** after the run. （他跑完后气喘吁吁。）|
+| | marxist | /ˈmɑːrksɪst/ | adj./n. 马克思主义的（者） | Marxist theory 马克思主义理论 | He studied **Marxist** philosophy. （他研究马克思主义哲学。）|
+| | resolute | /ˈrezəluːt/ | adj. 坚决的，坚定的 | resolute determination 坚定决心<br>resolution n. 决心 | She remained **resolute** in her decision. （她对决定坚定不移。）|
+| | commonplace | /ˈkɑːmənpleɪs/ | adj. 平凡的，普通的 | become commonplace 变得普遍 | Smartphones are now **commonplace**. （智能手机现在很普遍了。）|
+| | diplomatic | /ˌdɪpləˈmætɪk/ | adj. 外交的；有手腕的 | diplomatic relations 外交关系<br>diplomacy n. 外交 | She gave a very **diplomatic** reply. （她给了非常得体的回答。）|
+| | mosaic | /moʊˈzeɪɪk/ | n. 马赛克；镶嵌画 | mosaic floor 马赛克地板<br>mosaic of cultures 多元文化 | The church has beautiful **mosaic** floors. （教堂有美丽的马赛克地板。）|
+| | sew | /soʊ/ | v. 缝纫，缝合 | sew up 缝合；搞定<br>sewing machine 缝纫机 | She **sewed** the button back on. （她把纽扣缝回去了。）|
+| | rural | /ˈrʊrəl/ | adj. 农村的，乡村的 | rural area 农村地区<br>rural life 乡村生活 | They moved from the city to a **rural** village. （他们从城市搬到了农村。）|
+| | wool | /wʊl/ | n. 羊毛；毛线 | wool sweater 羊毛衫<br>pull the wool over sb's eyes 蒙骗 | This scarf is made of pure **wool**. （这条围巾是纯羊毛的。）|
+| | wardrobe | /ˈwɔːrdroʊb/ | n. 衣柜；全部衣服 | built-in wardrobe 嵌入式衣柜<br>wardrobe malfunction 走光 | She has an extensive **wardrobe**. （她有很多衣服。）|
+| | pilgrim | /ˈpɪlɡrɪm/ | n. 朝圣者，香客 | pilgrimage n. 朝圣<br>pilgrim route 朝圣路线 | Thousands of **pilgrims** visit the shrine. （成千上万的朝圣者参拜圣地。）|
+| | pneumonia | /nuːˈmoʊniə/ | n. 肺炎 | catch pneumonia 得肺炎<br>pneumonia vaccine 肺炎疫苗 | He was hospitalized with **pneumonia**. （他因肺炎住院。）|
+| | proficiency | /prəˈfɪʃnsi/ | n. 熟练，精通 | proficiency in 精通于…<br>proficient adj. 熟练的 | She has a high **proficiency** in English. （她英语非常熟练。）|

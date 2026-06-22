@@ -90,3 +90,17 @@
 |:---|:---|:---|
 | 英语 | 新词 18 个（eminent, straw, warrant, verdict, democratic, riddle, stoop, aviation, striking, overhaul, pasture, tribute, plumber, preface, banquet, pathetic, ozone, gigantic） | `Words.md` |
 | 英语 | 复现 12 个加入 ⚡（dividend, cupboard, liner, imperative, module, seam, priest, razor, audit, forum, handicap, soar） | `Words.md` |
+
+---
+
+## 2026-06-22
+
+### 🔁 复习
+
+- 单词复现 + ⚡ 专区巩固
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 ~45 个（mutter, swell, crude, counsel, benevolent, wrinkle, ideology, preach, revolt, feeble, sophomore, crust, terrify, inaugurate, imperial, mandate, concise, mosquito, dedicate, spoil, fireplace, commodity, apt, acre, appliance, radius, augment, cape, formation, strife, latitude, alleviate, applicable, obsession, conscientious, agony, shear, discipline, bearing, yawn, pit, preside, extravagant, mercury, affiliate, meadow, liver, stance, weary, pant, marxist, resolute, commonplace, diplomatic, mosaic, sew, rural, wool, wardrobe, pilgrim, pneumonia, proficiency） | `Words.md` |
