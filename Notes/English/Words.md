@@ -698,6 +698,7 @@
 | | ethic | /ˈeθɪk/ | n. 伦理，道德准则 | work ethic 职业道德<br>ethic of 关于…的伦理 | She has a strong work **ethic**. （她职业道德很强。）<br><br>🔍 **易混**：ethic（伦理）vs ethnic（种族的）vs ethics（伦理学）|
 | | secretary | /ˈsekrəteri/ | n. 秘书；部长，大臣 | secretary of state 国务卿<br>company secretary 公司秘书 | She works as a **secretary**. （她做秘书工作。）<br><br>🔍 **易混**：secretary vs secret（秘密）|
 | | secondary | /ˈsekənderi/ | adj. 次要的；中等的 | secondary school 中学<br>of secondary importance 次要的 | Cost is a **secondary** concern. （成本是次要考虑。）<br><br>🔍 **反义**：primary · **易混**：secondary vs secondly（其次）|
+| 2026-06-23 | indispensable | /ˌɪndɪˈspensəbl/ | adj. 不可或缺的，<br>必不可少的 | indispensable to/for 对…必不可少<br>play an indispensable role 扮演不可或缺的角色<br>indispensable part of …不可或缺的部分 | Water is **indispensable** to life. （水对生命来说是不可或缺的。）<br>She has become an **indispensable** member of the team. （她已成为团队中不可或缺的一员。）<br><br>🔍 **近义**：essential（本质的，必需的）/ vital（至关重要的）/ integral（构成整体所必需的）· **反义**：dispensable（可有可无的）· **易混**：indispensable vs inevitable（不可避免的）|
 | | chin | /tʃɪn/ | n. 下巴 | keep one's chin up 不气馁<br>double chin 双下巴 | Keep your **chin** up — things will get better. （别气馁——会好起来的。）|
 | | excursion | /ɪkˈskɜːrʒn/ | n. 短途旅行，远足 | go on an excursion 去远足<br>weekend excursion 周末短途游 | We went on a weekend **excursion** to the mountains. （我们去山里度周末。）<br><br>🔍 **近义**：outing/trip · **易混**：excursion vs expedition（远征）|
 | | quart | /kwɔːrt/ | n. 夸脱（液量单位） | a quart of milk 一夸脱牛奶<br>quart bottle 夸脱瓶 | Add a **quart** of water to the mixture. （给混合物加一夸脱水。）|
@@ -849,3 +850,54 @@
 | | pilgrim | /ˈpɪlɡrɪm/ | n. 朝圣者，香客 | pilgrimage n. 朝圣<br>pilgrim route 朝圣路线 | Thousands of **pilgrims** visit the shrine. （成千上万的朝圣者参拜圣地。）|
 | | pneumonia | /nuːˈmoʊniə/ | n. 肺炎 | catch pneumonia 得肺炎<br>pneumonia vaccine 肺炎疫苗 | He was hospitalized with **pneumonia**. （他因肺炎住院。）|
 | | proficiency | /prəˈfɪʃnsi/ | n. 熟练，精通 | proficiency in 精通于…<br>proficient adj. 熟练的 | She has a high **proficiency** in English. （她英语非常熟练。）|
+
+| | indispensable | /ˌɪndɪˈspensəbl/ | adj. 不可或缺的 | indispensable to/for 对…不可或缺 | Water is **indispensable** to life. （水对生命不可或缺。）|
+| | chimney | /ˈtʃɪmni/ | n. 烟囱 | chimney sweep 扫烟囱 | Smoke rose from the **chimney**. （烟从烟囱升起。）|
+| | curb | /kɜːrb/ | v./n. 抑制；路缘 | curb inflation 抑制通胀 | Measures were taken to **curb** spending. （采取措施抑制开支。）|
+| | precaution | /prɪˈkɔːʃn/ | n. 预防措施 | take precautions 采取预防 | As a **precaution**, lock the doors. （关好门作为预防。）|
+| | recite | /rɪˈsaɪt/ | v. 背诵；列举 | recite a poem 背诗<br>recitation n. 背诵 | She **recited** the poem from memory. （她凭记忆背诵了诗。）|
+| | banquet | /ˈbæŋkwɪt/ | n. 宴会 | state banquet 国宴 | A grand **banquet** was held. （举行了盛大宴会。）|
+| | overhaul | /ˈoʊvərhɔːl/ | n./v. 彻底检修，全面改革 | major overhaul 大修 | The system needs a complete **overhaul**. （系统需要彻底改革。）|
+| | soar | /sɔːr/ | v. 飙升；翱翔 | prices soar 物价飙升 | The eagle **soared** high above. （鹰高高翱翔。）|
+| | confess | /kənˈfes/ | v. 坦白，承认 | confess to 承认<br>confession n. 忏悔 | He **confessed** to the crime. （他承认了罪行。）|
+| | rifle | /ˈraɪfl/ | n. 步枪<br>v. 翻找 | rifle through 翻找 | He **rifled** through the drawer. （他翻遍了抽屉。）|
+| | advisable | /ədˈvaɪzəbl/ | adj. 明智的，可取的 | it is advisable to 做…是明智的 | It is **advisable** to book early. （提前预订是明智的。）|
+| | aviation | /ˌeɪviˈeɪʃn/ | n. 航空 | civil aviation 民航 | The **aviation** industry is recovering. （航空业正在复苏。）|
+| | dividend | /ˈdɪvɪdend/ | n. 股息；收益 | pay dividends 带来回报 | Hard work will pay **dividends**. （努力终有回报。）|
+| | prudent | /ˈpruːdnt/ | adj. 谨慎的，审慎的 | prudent decision 审慎决定 | It is **prudent** to save for emergencies. （存钱应急是明智的。）|
+| | temperament | /ˈtemprəmənt/ | n. 气质，性情 | artistic temperament 艺术气质 | She has a calm **temperament**. （她性情冷静。）|
+| | cottage | /ˈkɑːtɪdʒ/ | n. 小屋，村舍 | country cottage 乡村小屋 | They stayed in a cozy **cottage**. （他们住在舒适的小屋。）|
+| | superiority | /suːˌpɪriˈɔːrəti/ | n. 优越性，优势 | sense of superiority 优越感 | He has a sense of **superiority**. （他有优越感。）|
+| | memorandum | /ˌmeməˈrændəm/ | n. 备忘录（memo） | internal memorandum 内部备忘录 | The CEO sent a **memorandum** to all staff. （CEO发了备忘录给全员。）|
+| | furnish | /ˈfɜːrnɪʃ/ | v. 提供；布置家具 | furnish with 提供<br>furnished apartment 带家具公寓 | The report **furnished** us with data. （报告给我们提供了数据。）|
+| | disclose | /dɪsˈkloʊz/ | v. 揭露，透露 | disclose information 透露信息<br>disclosure n. 披露 | He refused to **disclose** the source. （他拒绝透露来源。）|
+| | hoist | /hɔɪst/ | v. 吊起，升起 | hoist a flag 升旗 | The sailors **hoisted** the sails. （水手们扬起了帆。）|
+| | dispose | /dɪˈspoʊz/ | v. 处理；使倾向于 | dispose of 处理<br>be disposed to 倾向于 | Please **dispose of** the waste properly. （请妥善处理废物。）|
+| | handicap | /ˈhændikæp/ | n./v. 障碍；妨碍 | mental handicap 智力障碍 | Lack of funding is a serious **handicap**. （资金不足是严重障碍。）|
+| | oar | /ɔːr/ | n. 桨 | put one's oar in 多管闲事 | He dipped his **oar** into the water. （他把桨插入水中。）|
+| | integral | /ˈɪntɪɡrəl/ | adj. 不可或缺的 | integral part of 不可分割的一部分 | Trust is **integral** to teamwork. （信任对团队合作不可或缺。）|
+| | tribute | /ˈtrɪbjuːt/ | n. 致敬；贡品 | pay tribute to 向…致敬 | The speech was a **tribute** to her. （演讲是对她的致敬。）|
+| | democratic | /ˌdeməˈkrætɪk/ | adj. 民主的 | democratic society 民主社会 | Free elections are **democratic** rights. （自由选举是民主权利。）|
+| | brutal | /ˈbruːtl/ | adj. 残忍的，野蛮的 | brutal murder 残忍谋杀<br>brutality n. 残忍 | The dictator's regime was **brutal**. （独裁者的政权非常残暴。）|
+| | pasture | /ˈpæstʃər/ | n. 牧场 | green pastures 绿草牧场 | Sheep grazed in the **pasture**. （羊在牧场吃草。）|
+| | verdict | /ˈvɜːrdɪkt/ | n. 裁决 | jury verdict 陪审团裁决 | The jury reached a **verdict** of not guilty. （陪审团作出无罪裁决。）|
+| | allowance | /əˈlaʊəns/ | n. 津贴；零用钱；允许量 | make allowance for 考虑到<br>monthly allowance 月津贴 | Parents gave him a weekly **allowance**. （父母给他每周零用钱。）|
+| | earnest | /ˈɜːrnɪst/ | adj. 认真的，诚恳的<br>n. 定金 | in earnest 认真地<br>earnest money 定金 | He made an **earnest** attempt to improve. （他认真努力改进。）|
+| | stumble | /ˈstʌmbl/ | v. 绊倒；踉跄；结巴 | stumble upon 偶然发现<br>stumble over words 说话结巴 | I **stumbled** over a rock. （我被石头绊倒了。）|
+| | aluminum | /əˈluːmɪnəm/ | n. 铝（英 aluminium） | aluminum foil 铝箔 | The frame is made of **aluminum**. （框子是铝制的。）|
+| | compact | /ˈkɑːmpækt/ adj.<br>/kəmˈpækt/ v. | adj. 紧凑的<br>v. 压缩 | compact car 紧凑型车<br>compact disc 光盘 | The apartment is small but **compact**. （公寓虽小但紧凑。）|
+| | stove | /stoʊv/ | n. 炉子，火炉 | gas stove 煤气炉<br>wood stove 柴火炉 | She cooked soup on the **stove**. （她在炉子上煮汤。）|
+| | discreet | /dɪˈskriːt/ | adj. 谨慎的，审慎的 | discreet inquiry 谨慎询问<br>discretion n. 谨慎 | He was very **discreet** about the matter. （他对此事非常谨慎。）|
+| | pedestrian | /pəˈdestriən/ | n. 行人<br>adj. 平凡的 | pedestrian crossing 人行横道<br>pedestrian prose 平淡散文 | The **pedestrian** waited for the green light. （行人等绿灯。）|
+| | contaminate | /kənˈtæmɪneɪt/ | v. 污染，弄脏 | contaminate water 污染水<br>contamination n. 污染 | The water was **contaminated** with chemicals. （水被化学物质污染了。）|
+| | prejudice | /ˈpredʒədɪs/ | n. 偏见<br>v. 使有偏见 | racial prejudice 种族偏见<br>prejudice against 对…的偏见 | We must fight against **prejudice**. （我们必须反对偏见。）|
+| | competent | /ˈkɑːmpɪtənt/ | adj. 有能力的，胜任的 | be competent at/in 胜任<br>competence n. 能力 | She is a highly **competent** lawyer. （她是非常能胜任的律师。）|
+| | blush | /blʌʃ/ | v./n. 脸红 | blush with embarrassment 窘迫脸红<br>at first blush 乍一看 | She **blushed** when he complimented her. （他夸她时她脸红了。）|
+| | incident | /ˈɪnsɪdənt/ | n. 事件，事变 | isolated incident 孤立事件<br>incidentally adv. 顺便一提 | The **incident** was reported to the police. （事件已报警。）|
+| | conservative | /kənˈsɜːrvətɪv/ | adj./n. 保守的（者） | conservative estimate 保守估计<br>Conservative Party 保守党 | She is **conservative** in her spending. （她花钱保守。）|
+| | dwelling | /ˈdwelɪŋ/ | n. 住所，住宅 | dwelling place 住所<br>dwell v. 居住 | The tribe built simple **dwellings**. （部落建造了简单住所。）|
+| | economics | /ˌiːkəˈnɑːmɪks/ | n. 经济学 | economics degree 经济学位<br>economic adj. 经济的 | He studied **economics** at university. （他在大学学经济学。）|
+| | peninsula | /pəˈnɪnsələ/ | n. 半岛 | Korean Peninsula 朝鲜半岛<br>peninsular adj. 半岛的 | Italy is a **peninsula**. （意大利是一个半岛。）|
+| | starve | /stɑːrv/ | v. 挨饿，饿死 | starve to death 饿死<br>starvation n. 饥饿 | Thousands are **starving** due to drought. （数千人因干旱挨饿。）|
+| | continual | /kənˈtɪnjuəl/ | adj. 持续的，频繁的 | continual improvement 持续改进<br>continually adv. 不断地 | The **continual** noise was annoying. （持续噪音很烦人。）|
+| | appraisal | /əˈpreɪzl/ | n. 评价，评估 | performance appraisal 绩效评估<br>appraise v. 评估 | She had her annual **appraisal** today. （她今天做了年度评估。）|
