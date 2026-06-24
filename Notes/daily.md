@@ -118,3 +118,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 ~50 个（indispensable, chimney, curb, precaution, recite, banquet, overhaul, soar, confess, rifle, advisable, aviation, dividend, prudent, temperament, cottage, superiority, memorandum, furnish, disclose, hoist, dispose, handicap, oar, integral, tribute, democratic, brutal, pasture, verdict, allowance, earnest, stumble, aluminum, compact, stove, discreet, pedestrian, contaminate, prejudice, competent, blush, incident, conservative, dwelling, economics, peninsula, starve, continual, appraisal） | `Words.md` |
+
+---
+
+## 2026-06-24
+
+### 🔁 复习
+
+- 单词复现巩固
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 ~40 个（wreck, competent, resolute, appraisal, wardrobe, sleeve, dual, horn, litter, artery, retention, peninsula, divine, extravagant, discretion, plagiarism, preside, republican, proficiency, wary, prose, refute, exclaim, levy, signify, attorney, discriminate, maneuver, wax, parliament, statistics, simultaneous, refrain, decree, diploma, rectangle, barber, omit, enlighten, quota, monotonous） | `Words.md` |

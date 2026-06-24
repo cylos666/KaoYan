@@ -901,3 +901,45 @@
 | | starve | /stɑːrv/ | v. 挨饿，饿死 | starve to death 饿死<br>starvation n. 饥饿 | Thousands are **starving** due to drought. （数千人因干旱挨饿。）|
 | | continual | /kənˈtɪnjuəl/ | adj. 持续的，频繁的 | continual improvement 持续改进<br>continually adv. 不断地 | The **continual** noise was annoying. （持续噪音很烦人。）|
 | | appraisal | /əˈpreɪzl/ | n. 评价，评估 | performance appraisal 绩效评估<br>appraise v. 评估 | She had her annual **appraisal** today. （她今天做了年度评估。）|
+
+| | wreck | /rek/ | n. 残骸；v. 毁掉 | ship wreck 沉船<br>nervous wreck 精神崩溃 | The storm **wrecked** several boats. （暴风雨毁了几艘船。）|
+| | competent | /ˈkɑːmpɪtənt/ | adj. 有能力的，胜任的 | be competent at 胜任 | She is a **competent** manager. （她是一位能干的经理。）|
+| | resolute | /ˈrezəluːt/ | adj. 坚定的 | resolute determination 坚定决心 | She was **resolute** in her decision. （她决心坚定。）|
+| | appraisal | /əˈpreɪzl/ | n. 评估 | performance appraisal 绩效评估 | Her annual **appraisal** went well. （她年度评估不错。）|
+| | wardrobe | /ˈwɔːrdroʊb/ | n. 衣柜；全部衣服 | built-in wardrobe 嵌入式衣柜 | She has an impressive **wardrobe**. （她有令人印象深刻的衣橱。）|
+| | sleeve | /sliːv/ | n. 袖子 | roll up one's sleeves 卷起袖子<br>up one's sleeve 留有一手 | He rolled up his **sleeves** to work. （他卷起袖子干活。）|
+| | dual | /ˈduːəl/ | adj. 双重的 | dual citizenship 双重国籍 | She holds **dual** nationality. （她有双重国籍。）|
+| | horn | /hɔːrn/ | n. 角；喇叭 | car horn 汽车喇叭<br>French horn 法国号 | The driver honked the **horn**. （司机按了喇叭。）|
+| | litter | /ˈlɪtər/ | n. 垃圾；v. 乱扔 | litter bin 垃圾桶<br>no littering 禁止乱扔 | The park was **littered** with trash. （公园满是垃圾。）|
+| | artery | /ˈɑːrtəri/ | n. 动脉；干线 | main artery 主动脉<br>traffic artery 交通要道 | Blocked **arteries** cause heart attacks. （堵塞动脉导致心脏病。）|
+| | retention | /rɪˈtenʃn/ | n. 保留；记忆力 | memory retention 记忆力<br>employee retention 员工留任 | Regular review improves **retention**. （定期复习提高记忆力。）|
+| | peninsula | /pəˈnɪnsələ/ | n. 半岛 | Korean Peninsula 朝鲜半岛 | Italy is a **peninsula**. （意大利是半岛。）|
+| | divine | /dɪˈvaɪn/ | adj. 神圣的；极好的 | divine power 神力<br>divine right 神授之权 | The cake tastes **divine**! （蛋糕好吃极了！）|
+| | extravagant | /ɪkˈstrævəɡənt/ | adj. 奢侈的；过分的 | extravagant lifestyle 奢侈生活 | She has **extravagant** taste. （她品味奢侈。）|
+| | discretion | /dɪˈskreʃn/ | n. 谨慎；自行决定权 | at one's discretion 自行决定 | Use your own **discretion**. （自行斟酌决定。）|
+| | plagiarism | /ˈpleɪdʒərɪzəm/ | n. 抄袭 | academic plagiarism 学术抄袭 | The paper was rejected for **plagiarism**. （论文因抄袭被拒。）|
+| | preside | /prɪˈzaɪd/ | v. 主持 | preside over 主持 | The judge **presided** over the trial. （法官主持了审判。）|
+| | republican | /rɪˈpʌblɪkən/ | adj./n. 共和党的；共和主义者 | Republican Party 共和党<br>republic n. 共和国 | He is a lifelong **Republican**. （他是终身共和党人。）|
+| | proficiency | /prəˈfɪʃnsi/ | n. 熟练，精通 | proficiency in 精通于 | She has **proficiency** in three languages. （她精通三种语言。）|
+| | wary | /ˈweri/ | adj. 谨慎的，警惕的 | be wary of 提防<br>warily adv. 警惕地 | Be **wary** of strangers online. （警惕网络陌生人。）|
+| | prose | /proʊz/ | n. 散文 | in prose 以散文形式<br>prose style 散文风格 | He writes beautiful **prose**. （他写得一手好散文。）|
+| | refute | /rɪˈfjuːt/ | v. 驳斥，反驳 | refute an argument 驳斥论点<br>refutation n. 反驳 | He **refuted** the accusation. （他驳斥了指控。）|
+| | exclaim | /ɪkˈskleɪm/ | v. 呼喊，惊叫 | exclaim in surprise 惊叫<br>exclamation n. 感叹 | He **exclaimed** in delight. （他高兴得叫了起来。）|
+| | levy | /ˈlevi/ | v./n. 征收，征税 | levy a tax on 对…征税 | The government **levied** new taxes. （政府征收了新税。）|
+| | signify | /ˈsɪɡnɪfaɪ/ | v. 表示，意味着 | signify that 意味着<br>significance n. 重要性 | The red light **signifies** danger. （红灯表示危险。）|
+| | attorney | /əˈtɜːrni/ | n. 律师，代理人 | attorney at law 律师<br>power of attorney 授权书 | She consulted her **attorney**. （她咨询了律师。）|
+| | discriminate | /dɪˈskrɪmɪneɪt/ | v. 歧视；区分 | discriminate against 歧视<br>discrimination n. 歧视 | The law bans **discriminating** by gender. （法律禁止性别歧视。）|
+| | maneuver | /məˈnuːvər/ | n./v. 策略；操纵；机动 | political maneuver 政治手腕<br>room to maneuver 回旋余地 | The driver **maneuvered** into the parking space. （司机把车停进车位。）|
+| | wax | /wæks/ | n. 蜡<br>v. 上蜡；渐满（月） | candle wax 蜡烛<br>wax and wane 月圆月缺 | The moon **waxes** and wanes. （月有盈缺。）|
+| | parliament | /ˈpɑːrləmənt/ | n. 议会，国会 | Member of Parliament 议员<br>parliamentary adj. 议会的 | The bill was passed by **Parliament**. （议会通过了法案。）|
+| | statistics | /stəˈtɪstɪks/ | n. 统计学；统计数据 | statistics show 统计显示<br>statistical adj. 统计的 | **Statistics** reveal a growing trend. （统计数据显示增长趋势。）|
+| | simultaneous | /ˌsaɪmlˈteɪniəs/ | adj. 同时发生的 | simultaneous translation 同声传译<br>simultaneously adv. 同时地 | The two events were **simultaneous**. （两件事同时发生。）|
+| | refrain | /rɪˈfreɪn/ | v. 克制，避免<br>n. 副歌 | refrain from doing 克制不做 | Please **refrain** from smoking. （请勿吸烟。）|
+| | decree | /dɪˈkriː/ | n. 法令<br>v. 颁布 | issue a decree 颁布法令<br>by decree 依法令 | The king issued a royal **decree**. （国王颁布了敕令。）|
+| | diploma | /dɪˈploʊmə/ | n. 文凭，毕业证书 | college diploma 大学文凭<br>diploma course 文凭课程 | She received her **diploma** at graduation. （她毕业时拿到了文凭。）|
+| | rectangle | /ˈrektæŋɡl/ | n. 矩形 | rectangular adj. 矩形的 | The table is shaped like a **rectangle**. （桌子是矩形。）|
+| | barber | /ˈbɑːrbər/ | n. 理发师 | barber shop 理发店 | He went to the **barber** for a haircut. （他去理发店理发。）|
+| | omit | /əˈmɪt/ | v. 省略，遗漏 | omit to do 忘记做<br>omission n. 遗漏 | Don't **omit** any details. （不要遗漏任何细节。）|
+| | enlighten | /ɪnˈlaɪtn/ | v. 启发，启迪 | enlighten sb about 启迪某人<br>enlightenment n. 启蒙 | Can you **enlighten** me on this topic? （你能给我讲讲这个话题吗？）|
+| | quota | /ˈkwoʊtə/ | n. 配额，限额 | import quota 进口配额<br>quota system 配额制 | Each country has an immigration **quota**. （每个国家有移民配额。）|
+| | monotonous | /məˈnɑːtənəs/ | adj. 单调的，乏味的 | monotonous work 单调工作<br>monotony n. 单调 | The job is repetitive and **monotonous**. （工作重复单调。）|
