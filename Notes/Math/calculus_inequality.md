@@ -78,11 +78,11 @@ $f''(x) > 0$ 意味着 $f$ 是严格凸函数。本题本质是证明**凸函数
 
 ```mermaid
 graph TD
-    START["f''(x) &gt; 0 + 不等式结论"] --> Q1{"是否直接就是<br>Jensen 的形式？"}
-    Q1 -->|"✅ 是：f(ax₁+bx₂) &lt; af(x₁)+bf(x₂)"| JENSEN["直接套 Jensen<br>因为 f''&gt;0 ⇔ 凸函数<br>凸函数 ⇔ Jensen 成立<br>一句话证毕"]
-    Q1 -->|"🤔 想写出严谨证明步骤"| Q2{"喜欢用哪种工具？"}
-    Q2 -->|"几何直觉强"| LAGRANGE["解法一：Lagrange 中值定理<br>核心：f''&gt;0 → f'递增 → 斜率比较"]
-    Q2 -->|"代数推导顺手"| TAYLOR["解法二：泰勒展开<br>核心：展开后一次项抵消<br>余项 &gt; 0 直接得证"]
+    START["f''(x) > 0 + 不等式结论"] --> Q1{"是否直接就是 Jensen 的形式？"}
+    Q1 -->|"是：f(ax1+bx2) < af(x1)+bf(x2)"| JENSEN["直接套 Jensen：f''>0 即凸函数，Jensen 成立"]
+    Q1 -->|"想写出严谨证明步骤"| Q2{"喜欢用哪种工具？"}
+    Q2 -->|"几何直觉强"| LAGRANGE["解法一：Lagrange 中值定理"]
+    Q2 -->|"代数推导顺手"| TAYLOR["解法二：泰勒展开"]
     style JENSEN fill:#d4edda,stroke:#28a745
     style LAGRANGE fill:#cce5ff,stroke:#004085
     style TAYLOR fill:#fff3cd,stroke:#856404

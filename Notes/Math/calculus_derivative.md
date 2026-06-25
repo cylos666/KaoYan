@@ -784,10 +784,10 @@ $$\Longrightarrow\; f(x) \text{ 至多 } 3 \text{ 个零点} \quad \square$$
 ### 12.3 中值定理选择决策树
 
 ```mermaid
-flowchart TD
+graph TD
     START["题目要证什么？"] --> Q1{"结论中有几阶导数？"}
     
-    Q1 -->|"二阶及以上 f&#40;n&#41;"| TAYLOR["🔴 泰勒中值定理"]
+    Q1 -->|"二阶及以上 f(n)"| TAYLOR["🔴 泰勒中值定理"]
     Q1 -->|"一阶 f'"| Q2{"结论中涉及几个函数？"}
     
     Q2 -->|"两个函数 f',g'"| Q3{"结论是比值形式？"}
@@ -796,13 +796,13 @@ flowchart TD
     
     Q2 -->|"一个函数 f'"| Q4{"结论形式？"}
     
-    Q4 -->|"f'&#40;ξ&#41;=0"| Q5{"题干有 f&#40;a&#41;=f&#40;b&#41;？"}
+    Q4 -->|"f'(ξ)=0"| Q5{"题干有 f(a)=f(b)？"}
     Q5 -->|"有"| ROLLE["🟡 罗尔定理"]
     Q5 -->|"无，但有极值条件"| FERMAT["🟢 费马引理"]
     
-    Q4 -->|"f'&#40;ξ&#41;=差商"| LAGRANGE
-    Q4 -->|"不等式含 f&#40;b&#41;-f&#40;a&#41;"| LAGRANGE
-    Q4 -->|"f'&#40;ξ&#41;+p&#40;ξ&#41;f&#40;ξ&#41;=0"| ROLLE
+    Q4 -->|"f'(ξ)=差商"| LAGRANGE
+    Q4 -->|"不等式含 f(b)-f(a)"| LAGRANGE
+    Q4 -->|"f'(ξ)+p(ξ)f(ξ)=0"| ROLLE
     
     style FERMAT fill:#d4edda,stroke:#28a745
     style ROLLE fill:#fff3cd,stroke:#ffc107

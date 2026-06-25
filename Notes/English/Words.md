@@ -680,7 +680,6 @@
 | | wage (第2次) | /weɪdʒ/ | n. 工资；v. 发动(战争/运动) | minimum wage 最低工资<br>wage war on 对…开战<br>hourly wage 时薪 | Workers demanded higher **wages**. （工人要求涨工资。）<br>They **waged** a campaign for reform. （他们发起了改革运动。） <br><br>🔍 **近义**：salary（月薪）/ launch（发动）· **易混**：wage vs wedge（楔子）vs wag（摇摆）|
 | | cordial | /ˈkɔːrdʒəl/ | adj. 热情友好的，热诚的 | cordial welcome 热情欢迎<br>cordial relations 友好关系<br>cordial atmosphere 亲切氛围<br>cordially adv. 热情地 | We received a **cordial** welcome from the host. （我们受到了主人的热情欢迎。）<br>The two leaders had a **cordial** meeting. （两位领导人进行了友好的会晤。） <br><br>🔍 **近义**：warm（温暖的/热情的）/ friendly（友好的）/ heartfelt（衷心的）· **反义**：cold（冷淡的）/ hostile（敌对的）· **易混**：cordial（热情的）vs cardial（心脏的，形近）vs cord（绳子）|
 | | fuss | /fʌs/ | n./v. 大惊小怪，小题大做 | make a fuss 大惊小怪<br>fuss over/about 为…过分操心<br>without fuss 不声张地<br>fussy adj. 挑剔的 | Don't make such a **fuss** about it — it's nothing serious. （别这么大惊小怪——没什么大不了的。）<br>She **fussed** over the details for hours. （她对细节操心了几个小时。） <br><br>🔍 **近义**：commotion（骚动）/ bother（烦扰）· **反义**：calm（冷静）· **易混**：fuss（大惊小怪）vs fuse（保险丝/融合）vs fussy（挑剔的）|
-
 | | hypocrisy (第2次) | /hɪˈpɑːkrəsi/ | n. 虚伪，伪善 | pure hypocrisy 纯粹虚伪<br>expose hypocrisy 揭露虚伪<br>hypocrite n. 伪君子 | It's **hypocrisy** to say you care but never help. （说关心却从不帮忙就是虚伪。）<br><br>🔍 **近义**：insincerity · **反义**：sincerity · **易混**：hypocrisy vs hypothesis（假设）|
 | | imminent (第2次) | /ˈɪmɪnənt/ | adj. 迫在眉睫的，临近的 | imminent danger 迫在眉睫的危险<br>imminent arrival 即将到来 | The storm is **imminent**. （暴风雨即将来临。）<br><br>🔍 **近义**：impending · **易混**：imminent vs prominent（突出的）|
 | | eradicate (第2次) | /ɪˈrædɪkeɪt/ | v. 根除，消灭 | eradicate poverty 消除贫困<br>eradicate disease 消灭疾病 | Smallpox has been **eradicated**. （天花已被根除。）<br><br>🔍 **近义**：eliminate/wipe out · **易混**：eradicate vs radicate（生根）|
@@ -719,7 +718,6 @@
 | | shutter | /ˈʃʌtər/ | n. 百叶窗；快门<br>v. 关闭，停业 | window shutter 百叶窗<br>camera shutter 相机快门<br>shutter speed 快门速度<br>shut down 关闭 | She opened the **shutters** to let in the light. （她打开百叶窗让光线进来。）<br><br>🔍 **近义**：blind（百叶窗）/ close（关闭）· **易混**：shutter vs shuttle（穿梭，已在⚡）vs shudder（颤抖）|
 | | grin | /ɡrɪn/ | v./n. 咧嘴笑，露齿笑 | grin at 对…咧嘴笑<br>grin from ear to ear 笑得合不拢嘴<br>wide grin 灿烂的笑 | He **grinned** with delight. （他高兴得咧嘴笑了。）<br><br>🔍 **近义**：smile（微笑）/ beam（满面笑容）· **易混**：grin vs grim（阴森的）vs grin ≠ grin（≠ grin vs skin 皮肤）|
 | | telegraph | /ˈtelɪɡræf/ | n. 电报<br>v. 用电报发送；流露 | telegraph office 电报局<br>telegraph pole 电线杆<br>telegraphic adj. 电报的 | News was sent by **telegraph**. （消息通过电报发送。）<br><br>🔍 **近义**：cable（电报）/ wire（电报）· **易混**：telegraph vs telegram（电报，名词）vs telephone（电话）|
-
 | | repression | /rɪˈpreʃn/ | n. 压制，镇压；压抑 | political repression 政治镇压<br>repress v. 压制 | The regime's **repression** sparked protests. （政权的镇压引发了抗议。）<br><br>🔍 **近义**：suppression/oppression · **易混**：repression vs depression（抑郁）|
 | | razor | /ˈreɪzər/ | n. 剃刀 | razor blade 刀片<br>razor-sharp 锋利的 | He cut himself with a **razor**. （他被剃刀割伤了。）<br><br>🔍 **易混**：razor vs raze（夷平，同音）|
 | | priest | /priːst/ | n. 神父，牧师 | parish priest 教区牧师<br>high priest 大祭司 | The **priest** led the prayers. （神父带领了祷告。）|
@@ -740,7 +738,6 @@
 | | module | /ˈmɑːdʒuːl/ | n. 模块；单元 | training module 培训模块<br>lunar module 登月舱 | The course is divided into six **modules**. （课程分为六个模块。）|
 | | pistol | /ˈpɪstl/ | n. 手枪 | automatic pistol 自动手枪<br>pistol grip 手枪握把 | He drew his **pistol** and fired. （他拔出手枪射击。）<br><br>🔍 **易混**：pistol vs piston（活塞）|
 | | depict | /dɪˈpɪkt/ | v. 描绘，描述 | depict...as 把…描绘成<br>depiction n. 描绘 | The novel **depicts** life in 19th-century London. （小说描绘了19世纪伦敦的生活。）<br><br>🔍 **近义**：portray/describe · **易混**：depict vs depict ≠ predict（预测）|
-
 | | hay | /heɪ/ | n. 干草 | make hay while the sun shines 趁热打铁<br>hay fever 花粉症 | The farmer stacked bales of **hay**. （农民堆起干草捆。）|
 | | definite | /ˈdefɪnət/ | adj. 明确的，肯定的 | definite answer 明确答复<br>definitely adv. 肯定地 | We need a **definite** plan. （我们需要一个明确的计划。）|
 | | congress | /ˈkɑːŋɡrəs/ | n. 国会；大会 | Congress 美国国会<br>congressional adj. 国会的 | The bill was passed by **Congress**. （法案由国会通过。）|
@@ -768,7 +765,6 @@
 | | portray | /pɔːrˈtreɪ/ | v. 描绘；扮演 | portray as 把…描绘成<br>portrayal n. 描绘 | The film **portrays** the life of a scientist. （电影描绘了一位科学家的生活。）|
 | | transistor | /trænˈzɪstər/ | n. 晶体管 | transistor radio 晶体管收音机 | The **transistor** revolutionized electronics. （晶体管革新了电子行业。）|
 | | relish | /ˈrelɪʃ/ | v. 享受，喜爱<br>n. 享受；调味酱 | relish the challenge 喜欢挑战<br>relish the thought 喜欢这个想法 | She **relished** the opportunity to travel. （她很喜欢旅行机会。）<br><br>🔍 **易混**：relish vs relish ≠ relish（≠ relish vs release 释放）|
-
 | | eminent | /ˈemɪnənt/ | adj. 杰出的，卓越的 | eminent scientist 杰出科学家<br>eminence n. 卓越 | She is an **eminent** scholar in this field. （她是该领域杰出学者。）<br><br>🔍 **易混**：eminent vs imminent（迫在眉睫的，已在⚡）vs immanent（内在的）|
 | | straw | /strɔː/ | n. 稻草；吸管 | the last straw 最后一根稻草<br>drinking straw 吸管 | That's the **last straw** — I quit. （忍无可忍——我辞职。）|
 | | warrant | /ˈwɔːrənt/ | n. 授权令；正当理由<br>v. 使有必要 | search warrant 搜查令<br>be warranted 有理由 | The situation **warrants** immediate action. （形势需要立即行动。）|
@@ -787,7 +783,6 @@
 | | pathetic | /pəˈθetɪk/ | adj. 可怜的，可悲的 | pathetic excuse 蹩脚的借口<br>pathetically adv. 可怜地 | It's **pathetic** that he still blames others. （他还在怪别人，真可悲。）|
 | | ozone | /ˈoʊzoʊn/ | n. 臭氧 | ozone layer 臭氧层<br>ozone depletion 臭氧损耗 | The **ozone** layer protects us from UV rays. （臭氧层保护我们免受紫外线。）|
 | | gigantic | /dʒaɪˈɡæntɪk/ | adj. 巨大的，庞大的 | a gigantic amount of 巨量的<br>gigantic statue 巨大雕像 | The project cost a **gigantic** amount of money. （项目花费了巨额资金。）|
-
 | | mutter | /ˈmʌtər/ | v. 嘀咕，喃喃自语 | mutter to oneself 自言自语 | He **muttered** under his breath. （他低声嘀咕。）|
 | | swell | /swel/ | v. 肿胀；膨胀；增大 | swell up 肿起来 | His ankle **swelled** after the fall. （摔后脚踝肿了。）|
 | | crude | /kruːd/ | adj. 粗糙的；原油的；粗鲁的 | crude oil 原油 | His **crude** remarks offended many. （他粗鲁言论冒犯了很多人。）|
@@ -850,7 +845,6 @@
 | | pilgrim | /ˈpɪlɡrɪm/ | n. 朝圣者，香客 | pilgrimage n. 朝圣<br>pilgrim route 朝圣路线 | Thousands of **pilgrims** visit the shrine. （成千上万的朝圣者参拜圣地。）|
 | | pneumonia | /nuːˈmoʊniə/ | n. 肺炎 | catch pneumonia 得肺炎<br>pneumonia vaccine 肺炎疫苗 | He was hospitalized with **pneumonia**. （他因肺炎住院。）|
 | | proficiency | /prəˈfɪʃnsi/ | n. 熟练，精通 | proficiency in 精通于…<br>proficient adj. 熟练的 | She has a high **proficiency** in English. （她英语非常熟练。）|
-
 | | indispensable | /ˌɪndɪˈspensəbl/ | adj. 不可或缺的 | indispensable to/for 对…不可或缺 | Water is **indispensable** to life. （水对生命不可或缺。）|
 | | chimney | /ˈtʃɪmni/ | n. 烟囱 | chimney sweep 扫烟囱 | Smoke rose from the **chimney**. （烟从烟囱升起。）|
 | | curb | /kɜːrb/ | v./n. 抑制；路缘 | curb inflation 抑制通胀 | Measures were taken to **curb** spending. （采取措施抑制开支。）|
@@ -901,7 +895,6 @@
 | | starve | /stɑːrv/ | v. 挨饿，饿死 | starve to death 饿死<br>starvation n. 饥饿 | Thousands are **starving** due to drought. （数千人因干旱挨饿。）|
 | | continual | /kənˈtɪnjuəl/ | adj. 持续的，频繁的 | continual improvement 持续改进<br>continually adv. 不断地 | The **continual** noise was annoying. （持续噪音很烦人。）|
 | | appraisal | /əˈpreɪzl/ | n. 评价，评估 | performance appraisal 绩效评估<br>appraise v. 评估 | She had her annual **appraisal** today. （她今天做了年度评估。）|
-
 | | wreck | /rek/ | n. 残骸；v. 毁掉 | ship wreck 沉船<br>nervous wreck 精神崩溃 | The storm **wrecked** several boats. （暴风雨毁了几艘船。）|
 | | competent | /ˈkɑːmpɪtənt/ | adj. 有能力的，胜任的 | be competent at 胜任 | She is a **competent** manager. （她是一位能干的经理。）|
 | | resolute | /ˈrezəluːt/ | adj. 坚定的 | resolute determination 坚定决心 | She was **resolute** in her decision. （她决心坚定。）|
@@ -943,3 +936,56 @@
 | | enlighten | /ɪnˈlaɪtn/ | v. 启发，启迪 | enlighten sb about 启迪某人<br>enlightenment n. 启蒙 | Can you **enlighten** me on this topic? （你能给我讲讲这个话题吗？）|
 | | quota | /ˈkwoʊtə/ | n. 配额，限额 | import quota 进口配额<br>quota system 配额制 | Each country has an immigration **quota**. （每个国家有移民配额。）|
 | | monotonous | /məˈnɑːtənəs/ | adj. 单调的，乏味的 | monotonous work 单调工作<br>monotony n. 单调 | The job is repetitive and **monotonous**. （工作重复单调。）|
+| 2026-06-25 | savage | /ˈsævɪdʒ/ | adj. 凶猛的；野蛮的<br>v. 猛烈攻击 | savage attack 猛烈攻击<br>savage beast 猛兽 | The lion is a **savage** predator. （狮子是凶猛的捕食者。）<br>The critics **savaged** his new novel. （评论家猛烈抨击了他的新小说。） <br><br>🔍 **近义**：fierce（凶猛的）· **反义**：civilized（文明的）· **易混**：savage vs salvage（打捞/挽救）|
+| | decay | /dɪˈkeɪ/ | n./v. 腐烂；衰败；衰减 | tooth decay 蛀牙<br>urban decay 城市衰败<br>radioactive decay 放射性衰变 | The old wooden house fell into **decay**. （那座老木屋破败了。）<br>Sugar causes tooth **decay**. （糖会导致蛀牙。） <br><br>🔍 **近义**：rot（腐烂）/ decline（衰退）· **反义**：flourish（繁荣）· **易混**：decay vs delay（延迟）|
+| | mayor | /ˈmeɪər/ | n. 市长 | deputy mayor 副市长<br>mayoral election 市长选举 | The **mayor** announced a new public transport plan. （市长宣布了新的公共交通计划。） <br><br>🔍 **易混**：mayor vs major（主要的/少校）|
+| | clumsy | /ˈklʌmzi/ | adj. 笨拙的，不灵活的 | clumsy attempt 拙劣的尝试<br>clumsy with 不擅长 | He is **clumsy** with chopsticks. （他用筷子很笨拙。）<br>It was a **clumsy** attempt to hide the truth. （那是掩盖真相的拙劣尝试。） <br><br>🔍 **近义**：awkward（笨拙的）|
+| | violet | /ˈvaɪələt/ | n. 紫罗兰<br>adj. 紫色的 | violet flower 紫罗兰花<br>ultraviolet 紫外线的 | She wore a **violet** dress to the party. （她穿了一条紫色裙子去派对。） <br><br>🔍 **易混**：violet vs violent（暴力的，拼写极像！）|
+| | cassette | /kəˈset/ | n. 盒式磁带；暗盒 | video cassette 录像带<br>cassette tape 盒式磁带 | He found an old **cassette** of his favorite band. （他找到了最喜欢乐队的旧磁带。）|
+| | comet | /ˈkɑːmɪt/ | n. 彗星 | Halley's comet 哈雷彗星<br>comet tail 彗尾 | The **comet** was visible to the naked eye. （那颗彗星肉眼可见。） <br><br>🔍 **易混**：comet vs comedy（喜剧）|
+| | mobilize | /ˈmoʊbəlaɪz/ | v. 动员，调动；组织 | mobilize resources 调动资源<br>mobilize support 动员支持 | The government **mobilized** troops to the disaster area. （政府调动军队前往灾区。）<br>We need to **mobilize** public support. （我们需要动员公众支持。） <br><br>🔍 **近义**：rally（召集）/ organize（组织）· **易混**：mobilize vs mobile（移动的）vs immobilize（使不动）|
+| | invasion | /ɪnˈveɪʒn/ | n. 入侵，侵略；涌入 | military invasion 军事入侵<br>privacy invasion 侵犯隐私 | The country faced an **invasion** from its neighbor. （该国面临邻国的入侵。） <br><br>🔍 **近义**：attack（攻击）/ intrusion（闯入）· **易混**：invasion vs evasion（逃避）|
+| | fracture | /ˈfræktʃər/ | n./v. 骨折；断裂 | skull fracture 颅骨骨折<br>fracture a bone 骨折 | He suffered a hairline **fracture** in his wrist. （他手腕骨裂。） <br><br>🔍 **近义**：break（折断）/ crack（裂缝）· **易混**：fracture vs fraction（分数/部分）|
+| | inn | /ɪn/ | n. 小旅馆，客栈 | country inn 乡村客栈<br>holiday inn 假日酒店 | We stayed at a cozy **inn** in the countryside. （我们住在乡下一家舒适的小客栈。） <br><br>🔍 **易混**：inn vs in（里面，同音！）|
+| | staircase | /ˈsterkeɪs/ | n. 楼梯（连续的） | spiral staircase 螺旋楼梯 | The old **staircase** creaked with every step. （旧楼梯每走一步都嘎吱作响。） <br><br>🔍 **近义**：stairs（楼梯）· **易混**：staircase vs stairwell（楼梯井）|
+| | fellowship | /ˈfeloʊʃɪp/ | n. 友谊，伙伴关系；奖学金 | research fellowship 研究奖学金<br>sense of fellowship 同伴情谊 | He was awarded a **fellowship** at Harvard. （他获得了哈佛的奖学金。） <br><br>🔍 **近义**：companionship（陪伴）/ scholarship（奖学金）|
+| | jargon | /ˈdʒɑːrɡən/ | n. 行话，专业术语 | legal jargon 法律术语<br>technical jargon 技术术语 | The report is full of technical **jargon**. （报告全是专业术语。） <br><br>🔍 **近义**：terminology（术语）/ slang（俚语）|
+| | deduce | /dɪˈduːs/ | v. 推断，演绎 | deduce from 从…推断 | We can **deduce** from the evidence that he was at the scene. （我们从证据推断他在现场。） <br><br>🔍 **近义**：infer（推理）/ conclude（得出结论）· **反义**：induce（归纳）· **易混**：deduce vs reduce（减少）|
+| | remnant | /ˈremnənt/ | n. 残余，剩余；零头 | remnant of the past 过去遗迹<br>remnant fabric 零头布 | Only a **remnant** of the ancient wall remains. （只剩下一段古城墙的残迹。） <br><br>🔍 **近义**：remainder（剩余）/ residue（残留物）|
+| | graze | /ɡreɪz/ | v. 放牧；擦伤；擦过 | cattle graze 放牛<br>graze one's knee 擦伤膝盖 | Sheep were **grazing** on the hillside. （羊在山坡上吃草。）<br>The bullet **grazed** his shoulder. （子弹擦伤了他的肩膀。） <br><br>🔍 **近义**：pasture（放牧）/ scrape（擦伤）· **易混**：graze vs gaze（凝视）vs grace（优雅）|
+| | clip | /klɪp/ | n. 夹子；片段<br>v. 夹住；修剪 | paper clip 回形针<br>video clip 视频片段<br>clip one's nails 剪指甲 | She attached the papers with a **clip**. （她用夹子把文件夹在一起。）<br>I saw a funny **clip** on social media. （我看到一个搞笑片段。） <br><br>🔍 **易混**：clip vs clap（鼓掌）|
+| | sanction | /ˈsæŋkʃn/ | n. 制裁；批准<br>v. 制裁；批准 | economic sanctions 经济制裁<br>impose sanctions 实施制裁 | The UN imposed **sanctions** on the regime. （联合国对该政权实施制裁。）<br>The plan needs the board's **sanction**. （该计划需要董事会批准。） <br><br>🔍 **一词两义**：制裁（常用复数）vs 批准|
+| | sketch | /sketʃ/ | n. 素描；概述<br>v. 画素描；简述 | sketch map 示意图<br>sketch out 简述 | She drew a quick **sketch** of the landscape. （她快速画了一幅风景素描。）<br>Let me **sketch** out the plan. （我简单说一下计划。） <br><br>🔍 **近义**：drawing（绘画）/ outline（概述）· **易混**：sketch vs stretch（伸展）|
+| | intermittent | /ˌɪntərˈmɪtənt/ | adj. 间歇的，断断续续的 | intermittent rain 阵雨<br>intermittent signal 间歇信号 | The **intermittent** rain ruined the picnic. （断断续续的雨毁了野餐。） <br><br>🔍 **近义**：sporadic（零星的）· **反义**：continuous（连续的）· **易混**：intermittent vs intermediate（中间的）|
+| | violate | /ˈvaɪəleɪt/ | v. 违反，侵犯 | violate the law 违法<br>violate privacy 侵犯隐私 | His actions **violated** the terms of the contract. （他的行为违反了合同条款。） <br><br>🔍 **近义**：break（打破）/ infringe（侵犯）· **反义**：obey（遵守）· **易混**：violate vs violent（暴力的）|
+| | constitutional | /ˌkɑːnstɪˈtuːʃənl/ | adj. 宪法的；体质上的 | constitutional right 宪法权利<br>constitutional monarchy 君主立宪制 | The court ruled the law **unconstitutional**. （法院裁定该法律违宪。） <br><br>🔍 **反义**：unconstitutional（违宪的）|
+| | skyscraper | /ˈskaɪskreɪpər/ | n. 摩天大楼 | towering skyscraper 高耸的摩天大楼 | The city is famous for its **skyscrapers**. （这座城市以摩天大楼闻名。） <br><br>🔍 词源：sky + scraper|
+| | allege | /əˈledʒ/ | v. 声称，指控（未经证实） | be alleged to have done 被指控做了 | He **alleges** that the company misled investors. （他声称公司误导了投资者。） <br><br>🔍 **近义**：claim（声称）/ assert（断言）· **易混**：allege vs allergy（过敏）|
+| | robe | /roʊb/ | n. 长袍；浴袍 | bath robe 浴袍<br>judge's robe 法官袍 | She put on her **robe** after the shower. （洗完澡她穿上了浴袍。） <br><br>🔍 **近义**：gown（礼服）· **易混**：robe vs rob（抢劫）|
+| | fasten | /ˈfæsn/ | v. 系紧，扣紧；固定 | fasten the seatbelt 系安全带 | **Fasten** your seatbelt before takeoff. （起飞前系好安全带。） <br><br>🔍 **近义**：secure（固定）/ tie（绑）· **反义**：unfasten（解开）|
+| | condemn | /kənˈdem/ | v. 谴责；判刑 | condemn violence 谴责暴力<br>be condemned to death 被判死刑 | The UN **condemned** the attack. （联合国谴责了这次袭击。） <br><br>🔍 **近义**：denounce（谴责）/ sentence（判刑）· **反义**：praise（赞扬）|
+| | spouse | /spaʊs/ | n. 配偶 | surviving spouse 在世配偶<br>spousal support 配偶赡养费 | Employees can bring their **spouses** to the dinner. （员工可以带配偶参加晚宴。） <br><br>🔍 **近义**：partner（伴侣）· **易混**：spouse vs sponsor（赞助者）|
+| | acute | /əˈkjuːt/ | adj. 急性的；敏锐的；严重的 | acute pain 剧痛<br>acute shortage 严重短缺 | She felt an **acute** pain in her abdomen. （她感到腹部剧痛。）<br>He has an **acute** sense of hearing. （他有敏锐的听觉。） <br><br>🔍 **近义**：severe（严重的）/ sharp（尖锐的）· **反义**：chronic（慢性的）/ dull（迟钝的）· **易混**：acute vs cute（可爱的）|
+| | sociable | /ˈsoʊʃəbl/ | adj. 好交际的，友善的 | sociable person 善于交际的人 | She's a very **sociable** person who makes friends easily. （她非常善交际，很容易交到朋友。） <br><br>🔍 **近义**：outgoing（外向的）/ friendly（友好的）· **反义**：antisocial（反社交的）· **易混**：sociable vs social（社会的）|
+| | doze (复现) | /doʊz/ | v. 打瞌睡 | doze off 打瞌睡 | I **dozed** off during the meeting. （开会时我打起了瞌睡。） <br><br>🔍 **近义**：nap/snooze · **易混**：doze vs dose（剂量）|
+| | module (复现) | /ˈmɑːdʒuːl/ | n. 模块 | training module 培训模块 | The course is divided into six **modules**. （课程分为六个模块。）|
+| | emit (复现) | /iˈmɪt/ | v. 发出，排放 | emit light 发光<br>emit gas 排气 | The factory **emits** toxic fumes. （工厂排放有毒气体。） <br><br>🔍 **易混**：emit vs omit（省略）|
+| | garage (复现) | /ɡəˈrɑːʒ/ | n. 车库 | parking garage 停车场 | She parked the car in the **garage**. （她把车停在车库里。）|
+| | shutter (复现) | /ˈʃʌtər/ | n. 百叶窗；快门 | window shutter 百叶窗<br>camera shutter 快门 | She opened the **shutters** to let in the light. （她打开百叶窗让光线进来。） <br><br>🔍 **易混**：shutter vs shuttle（穿梭）|
+| | fiscal (复现) | /ˈfɪskl/ | adj. 财政的 | fiscal policy 财政政策<br>fiscal year 财政年度 | The government announced new **fiscal** measures. （政府宣布了新的财政措施。）|
+| | imperative (复现) | /ɪmˈperətɪv/ | adj. 迫切的；命令式的 | it is imperative that 必须 | It is **imperative** to act now. （必须立刻行动。） <br><br>🔍 **易混**：imperative vs imperial（帝国的）|
+| | attorney (复现) | /əˈtɜːrni/ | n. 律师 | district attorney 地方检察官 | The **attorney** presented the evidence in court. （律师在法庭上出示了证据。）|
+| | cabin (复现) | /ˈkæbɪn/ | n. 小屋；船舱 | log cabin 小木屋<br>cabin crew 机组人员 | They stayed in a cozy **cabin** in the woods. （他们住在林中舒适的木屋里。）|
+| | likelihood (复现) | /ˈlaɪklihʊd/ | n. 可能性 | in all likelihood 十有八九 | In all **likelihood**, the meeting will be postponed. （会议十有八九会推迟。）|
+| | ribbon (复现) | /ˈrɪbən/ | n. 丝带，缎带 | red ribbon 红丝带<br>cut the ribbon 剪彩 | She tied a **ribbon** around the gift box. （她在礼物盒上系了一条丝带。）|
+| | wax (复现) | /wæks/ | n. 蜡<br>v. 给…上蜡 | ear wax 耳垢<br>wax the floor 给地板打蜡 | The candle is made of **wax**. （蜡烛是蜡做的。）|
+| | differentiate (复现) | /ˌdɪfəˈrenʃieɪt/ | v. 区分，辨别 | differentiate between 区分 | It's important to **differentiate** between facts and opinions. （区分事实和观点很重要。）|
+| | hospitality (复现) | /ˌhɑːspɪˈtæləti/ | n. 款待；热情好客 | warm hospitality 盛情款待 | Thank you for your warm **hospitality**. （谢谢你的盛情款待。）|
+| | quota (复现) | /ˈkwoʊtə/ | n. 配额，定额 | import quota 进口配额<br>meet a quota 完成定额 | The company failed to meet its sales **quota**. （公司没有完成销售定额。）|
+| | reservoir (复现) | /ˈrezərvwɑːr/ | n. 水库；储备 | water reservoir 水库 | The **reservoir** supplies water to the city. （水库向城市供水。）|
+| | heir (复现) | /er/ | n. 继承人 | heir to the throne 王位继承人 | He is the **heir** to a large fortune. （他是一大笔财产的继承人。）|
+| | catalog (复现) | /ˈkætəlɔːɡ/ | n. 目录<br>v. 编目 | product catalog 产品目录 | She browsed through the **catalog** for new clothes. （她翻阅目录找新衣服。）|
+| | discrete (复现) | /dɪˈskriːt/ | adj. 离散的，分开的 | discrete steps 离散步骤 | The process can be broken down into several **discrete** stages. （过程可以分成几个离散阶段。） <br><br>🔍 **易混**：discrete vs discreet（谨慎的，同音！）|
+| | pottery (复现) | /ˈpɑːtəri/ | n. 陶器 | pottery class 陶艺课 | She collects handmade **pottery**. （她收藏手工陶器。）|
+| | auction (复现) | /ˈɔːkʃn/ | n./v. 拍卖 | auction house 拍卖行<br>put up for auction 拿出来拍卖 | The painting sold for $1M at **auction**. （画作在拍卖会上以100万美元卖出。）|
+| | throne (复现) | /θroʊn/ | n. 王位 | heir to the throne 王位继承人<br>take the throne 登基 | The prince ascended the **throne** after his father's death. （王子在父亲去世后继承了王位。）|
