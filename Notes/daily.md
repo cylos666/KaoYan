@@ -132,3 +132,27 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 ~40 个（wreck, competent, resolute, appraisal, wardrobe, sleeve, dual, horn, litter, artery, retention, peninsula, divine, extravagant, discretion, plagiarism, preside, republican, proficiency, wary, prose, refute, exclaim, levy, signify, attorney, discriminate, maneuver, wax, parliament, statistics, simultaneous, refrain, decree, diploma, rectangle, barber, omit, enlighten, quota, monotonous） | `Words.md` |
+
+---
+
+## 2026-06-25
+
+### 🔁 复习
+
+- 复习题自测：英语 13/18 + 数学 4/7（薄弱点：refrain≠refute, sleeve≠shove, continual vs continuous, 零点定理辅助函数构造, Jensen 完整证明）
+- 单词抽测：plagiarism/wary/discretion 等 ✅；refrain(否认❌→克制), shove(推❌→袖子sleeve), devine(拼写❌→divine)
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 数学 | 对数乘积极限：$\frac{\ln(1+x)\ln(1-x)-\ln(1-x^2)}{x^4} = \frac{1}{12}$（展到 $x^4$） | `calculus_limit.md` |
+| 数学 | $(1+t)^{1/t}$ 展开技巧卡片：$e^x$ 复合 $\frac{\ln(1+x)}{x}$ 两层分开展 | `calculus_limit.md` |
+| 数学 | 等价无穷小边界条件卡片：互消型 + 误差放大型 | `calculus_limit.md` |
+| 数学 | 反求参数：$\frac{(1+ax+bx^2)\sqrt{1+x}-c}{\sin x\ln(1+x^2)}$，$a=-\frac12,b=\frac38,c=1$ | `calculus_limit.md` |
+| 数学 | 根式有理化：$\frac{\sqrt{1+\tan x}-\sqrt{1+\sin x}}{x\ln(1+x)-x^2} = -\frac12$ | `calculus_limit.md` |
+| 数学 | 修复中值定理决策树 + 琴生不等式 mermaid 图 | `calculus_derivative.md` `calculus_inequality.md` |
+| 英语 | 新词 34 个（savage, decay, mayor, clumsy, violet, cassette, comet, mobilize, invasion, fracture, inn, staircase, fellowship, jargon, deduce, remnant, graze, clip, sanction, sketch, intermittent, violate, constitutional, skyscraper, allege, robe, fasten, condemn, spouse, acute, sociable...）+ 复现 19 个 | `Words.md` |
+| 英语 | 修复 Words.md 表格空行导致的 Docsify 渲染断裂 | `Words.md` |
+| 系统 | 新建 `Notes/Review/` 每日复习专区 + 首份复习题 `2026-06-25.md` | `Review/` |
+| 系统 | `review-plan` skill 升级：新增复习题文件生成 + 批改模式 | `.github/skills/` |
