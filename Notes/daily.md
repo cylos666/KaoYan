@@ -156,3 +156,17 @@
 | 英语 | 修复 Words.md 表格空行导致的 Docsify 渲染断裂 | `Words.md` |
 | 系统 | 新建 `Notes/Review/` 每日复习专区 + 首份复习题 `2026-06-25.md` | `Review/` |
 | 系统 | `review-plan` skill 升级：新增复习题文件生成 + 批改模式 | `.github/skills/` |
+
+---
+
+## 2026-06-27
+
+### 🔁 复习
+
+- 单词：6/25 批次快速回顾（savage, decay, mobilize, violate, condemn, acute 等）
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 21 个（rope, regarding, accountant, interim, antique, queer, boycott, pillar, futile, tumble, bulb, lawn, appoint, conspiracy, execute, studio, hitherto, trolley, speciality, puppet, advent）+ 复现 24 个 | `Words.md` |
