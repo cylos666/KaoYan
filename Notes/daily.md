@@ -170,3 +170,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 21 个（rope, regarding, accountant, interim, antique, queer, boycott, pillar, futile, tumble, bulb, lawn, appoint, conspiracy, execute, studio, hitherto, trolley, speciality, puppet, advent）+ 复现 24 个 | `Words.md` |
+
+---
+
+## 2026-06-28
+
+### 🔁 复习
+
+- 单词：6/27 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 26 个（boot, abolish, veto, latent, insult, accuse, owing to, deteriorate, intercourse, rotten, innumerable, blunt, deplore, siren, agitate, mob, retort, clutch, lofty, sentiment, prophet, magistrate, stab, spiral, tan, poultry）+ 复现 25 个 | `Words.md` |
