@@ -184,3 +184,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 26 个（boot, abolish, veto, latent, insult, accuse, owing to, deteriorate, intercourse, rotten, innumerable, blunt, deplore, siren, agitate, mob, retort, clutch, lofty, sentiment, prophet, magistrate, stab, spiral, tan, poultry）+ 复现 25 个 | `Words.md` |
+
+---
+
+## 2026-06-29
+
+### 🔁 复习
+
+- 单词：6/28 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 16 个（arrogant, hemisphere, eject, outskirts, tape, fringe, lobby, premise, rim, tentative, oak, robust, resent, empirical, dean, aggravate）+ 复现 30 个 | `Words.md` |
