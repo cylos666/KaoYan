@@ -198,3 +198,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 16 个（arrogant, hemisphere, eject, outskirts, tape, fringe, lobby, premise, rim, tentative, oak, robust, resent, empirical, dean, aggravate）+ 复现 30 个 | `Words.md` |
+
+---
+
+## 2026-06-30
+
+### 🔁 复习
+
+- 单词：6/29 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 23 个（qualify, advocate, detach, vaccine, compute, homogeneous, gracious, coil, handbook, tile, exploit, saucer, obsolete, ounce, statute, conspicuous, worship, democracy, numerical, bulk, glitter, bait, allocate）+ 复现 9 个 | `Words.md` |
