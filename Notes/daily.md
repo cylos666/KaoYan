@@ -212,3 +212,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 23 个（qualify, advocate, detach, vaccine, compute, homogeneous, gracious, coil, handbook, tile, exploit, saucer, obsolete, ounce, statute, conspicuous, worship, democracy, numerical, bulk, glitter, bait, allocate）+ 复现 9 个 | `Words.md` |
+
+---
+
+## 2026-07-01
+
+### 🔁 复习
+
+- 单词：6/30 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 7 个（voyage, forge, resilient, stationary, gulf, circulate, attendant）+ 复现 22 个 | `Words.md` |
