@@ -240,3 +240,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 6 个（cope, intensity, slope, imitation, static, proclaim）+ 复现 27 个 | `Words.md` |
+
+---
+
+## 2026-07-03
+
+### 🔁 复习
+
+- 单词：7/2 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 7 个（trail, intricate, slogan, tiresome, plight, irrigate, fruitful）+ 复现 19 个 | `Words.md` |
