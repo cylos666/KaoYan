@@ -254,3 +254,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 7 个（trail, intricate, slogan, tiresome, plight, irrigate, fruitful）+ 复现 19 个 | `Words.md` |
+
+---
+
+## 2026-07-04
+
+### 🔁 复习
+
+- 单词：7/3 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 7 个（duration, realm, diminish, expertise, canal, verify, correspondent）+ 复现 9 个 | `Words.md` |
