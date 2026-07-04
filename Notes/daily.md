@@ -268,3 +268,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 7 个（duration, realm, diminish, expertise, canal, verify, correspondent）+ 复现 9 个 | `Words.md` |
+
+---
+
+## 2026-07-05
+
+### 🔁 复习
+
+- 单词：7/4 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 8 个（collective, fleet, immediate, fragrant, marvelous, saw, daunting, cling）+ 复现 20 个 | `Words.md` |
