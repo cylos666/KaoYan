@@ -282,3 +282,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 8 个（collective, fleet, immediate, fragrant, marvelous, saw, daunting, cling）+ 复现 20 个 | `Words.md` |
+
+---
+
+## 2026-07-06
+
+### 🔁 复习
+
+- 单词：7/5 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 18 个（arbitrary, exclusive, fright, overwhelm, speculate, sovereign, pope, radical, anecdote, redeem, oblige, storey, precedent, immense, safeguard, steward, rear, denote）+ 复现 24 个 | `Words.md` |
