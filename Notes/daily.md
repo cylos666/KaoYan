@@ -296,3 +296,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 18 个（arbitrary, exclusive, fright, overwhelm, speculate, sovereign, pope, radical, anecdote, redeem, oblige, storey, precedent, immense, safeguard, steward, rear, denote）+ 复现 24 个 | `Words.md` |
+
+---
+
+## 2026-07-07
+
+### 🔁 复习
+
+- 单词：7/6 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 20 个（cater, chop, grind, tide, blur, kin, nostalgic, scrape, overlap, concession, despatch, prestige, analogy, exotic, extinguish, avert, maiden, ecology, sack, devise）+ 复现 26 个 | `Words.md` |
