@@ -310,3 +310,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 20 个（cater, chop, grind, tide, blur, kin, nostalgic, scrape, overlap, concession, despatch, prestige, analogy, exotic, extinguish, avert, maiden, ecology, sack, devise）+ 复现 26 个 | `Words.md` |
+
+---
+
+## 2026-07-08
+
+### 🔁 复习
+
+- 单词：7/7 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 11 个（commission, imply, pile, render, yield, immerse, sensation, endeavor, prone, detector, slum）+ 复现 13 个 | `Words.md` |
