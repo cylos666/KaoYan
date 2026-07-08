@@ -324,3 +324,4 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 11 个（commission, imply, pile, render, yield, immerse, sensation, endeavor, prone, detector, slum）+ 复现 13 个 | `Words.md` |
+| 英语 | 新词 24 个（accumulate, topic, extinct, eccentric, lottery, credential, assault, lest, flee, synthesis, appall, chamber, convict, warehouse, salvation, assert, intrinsic, glamour, lubricate, exempt, layoff, grave, tariff, shatter）+ 复现 27 个 | `Words.md` |
