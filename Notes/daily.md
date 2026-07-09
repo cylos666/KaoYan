@@ -325,3 +325,17 @@
 |:---|:---|:---|
 | 英语 | 新词 11 个（commission, imply, pile, render, yield, immerse, sensation, endeavor, prone, detector, slum）+ 复现 13 个 | `Words.md` |
 | 英语 | 新词 24 个（accumulate, topic, extinct, eccentric, lottery, credential, assault, lest, flee, synthesis, appall, chamber, convict, warehouse, salvation, assert, intrinsic, glamour, lubricate, exempt, layoff, grave, tariff, shatter）+ 复现 27 个 | `Words.md` |
+
+---
+
+## 2026-07-10
+
+### 🔁 复习
+
+- 单词：7/8 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 20 个（executive, faculty, headline, native, whirl, antenna, inverse, hypothesis, vacuum, trifle, cripple, crawl, asset, integrity, orthodox, premier, defect, decisive, conception, inward）+ 复现 25 个 | `Words.md` |
