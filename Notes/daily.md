@@ -339,3 +339,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 20 个（executive, faculty, headline, native, whirl, antenna, inverse, hypothesis, vacuum, trifle, cripple, crawl, asset, integrity, orthodox, premier, defect, decisive, conception, inward）+ 复现 25 个 | `Words.md` |
+
+---
+
+## 2026-07-11
+
+### 🔁 复习
+
+- 单词：7/10 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 23 个（intent, trophy, conscious, dissolve, outlook, simulate, concede, momentum, capital, avail, comply, semester, reasonable, mug, deceive, bowel, outset, stroll, ripe, vulnerable, breach, degenerate, pendulum）+ 复现 21 个 | `Words.md` |
