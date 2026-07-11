@@ -353,3 +353,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 23 个（intent, trophy, conscious, dissolve, outlook, simulate, concede, momentum, capital, avail, comply, semester, reasonable, mug, deceive, bowel, outset, stroll, ripe, vulnerable, breach, degenerate, pendulum）+ 复现 21 个 | `Words.md` |
+
+---
+
+## 2026-07-12
+
+### 🔁 复习
+
+- 单词：7/11 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 23 个（bail, recede, amiable, sprout, snobbish, royalty, transcend, subsidy, ponder, deter, malignant, nationality, decent, predominant, acquaintance, admission, rhetoric, lodge, constituent, deviate, symmetry, plough, lure）+ 复现 16 个 | `Words.md` |
