@@ -367,3 +367,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 23 个（bail, recede, amiable, sprout, snobbish, royalty, transcend, subsidy, ponder, deter, malignant, nationality, decent, predominant, acquaintance, admission, rhetoric, lodge, constituent, deviate, symmetry, plough, lure）+ 复现 16 个 | `Words.md` |
+
+---
+
+## 2026-07-13
+
+### 🔁 复习
+
+- 单词：7/12 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 4 个（rigorous, disposal, instinct, prevail）+ 复现 15 个 | `Words.md` |
