@@ -381,3 +381,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 4 个（rigorous, disposal, instinct, prevail）+ 复现 15 个 | `Words.md` |
+
+---
+
+## 2026-07-14
+
+### 🔁 复习
+
+- 单词：7/13 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 22 个（attach, hail, thread, hop, relay, stool, snatch, detain, turbine, rein, discharge, abound, odor, reptile, ward, freight, cliff, petition, clasp, derive, flock, refugee）+ 复现 18 个 | `Words.md` |
