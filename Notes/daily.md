@@ -395,3 +395,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 22 个（attach, hail, thread, hop, relay, stool, snatch, detain, turbine, rein, discharge, abound, odor, reptile, ward, freight, cliff, petition, clasp, derive, flock, refugee）+ 复现 18 个 | `Words.md` |
+
+---
+
+## 2026-07-15
+
+### 🔁 复习
+
+- 单词：7/14 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 13 个（continent, scarcely, underestimate, inspect, foul, jaw, custody, fuse, saddle, rectify, tenant, orchard, esteem）+ 复现 18 个 | `Words.md` |
