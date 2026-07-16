@@ -409,3 +409,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 13 个（continent, scarcely, underestimate, inspect, foul, jaw, custody, fuse, saddle, rectify, tenant, orchard, esteem）+ 复现 18 个 | `Words.md` |
+
+---
+
+## 2026-07-17
+
+### 🔁 复习
+
+- 单词：7/15 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 5 个（permeate, alliance, acclaim, implication, headquarters）+ 复现 11 个 | `Words.md` |
