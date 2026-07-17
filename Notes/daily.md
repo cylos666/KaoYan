@@ -423,3 +423,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 5 个（permeate, alliance, acclaim, implication, headquarters）+ 复现 11 个 | `Words.md` |
+
+---
+
+## 2026-07-18
+
+### 🔁 复习
+
+- 单词：7/17 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 7 个（vanish, negligible, seal, obscure, irony, sneak, variance）+ 复现 5 个 | `Words.md` |
