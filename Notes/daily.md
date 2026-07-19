@@ -451,3 +451,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 5 个（velocity, compartment, affirm, coarse, prosecute）+ 复现 14 个 | `Words.md` |
+
+---
+
+## 2026-07-20
+
+### 🔁 复习
+
+- 单词：7/19 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 4 个（sort, provision, protest, underlie）+ 复现 5 个 | `Words.md` |
