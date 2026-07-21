@@ -479,3 +479,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 7 个（constant, flourish, span, bleak, fertile, embed, monopoly）+ 复现 14 个 | `Words.md` |
+
+---
+
+## 2026-07-22
+
+### 🔁 复习
+
+- 单词：7/21 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 7 个（flesh, friction, meditation, protocol, gratitude, indifferent, contempt）+ 复现 11 个 | `Words.md` |
