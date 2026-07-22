@@ -493,3 +493,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 7 个（flesh, friction, meditation, protocol, gratitude, indifferent, contempt）+ 复现 11 个 | `Words.md` |
+
+---
+
+## 2026-07-23
+
+### 🔁 复习
+
+- 单词：7/22 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 9 个（bend, veteran, vice, revenue, venue, lose, coalition, paddle, endorse）+ 复现 7 个 | `Words.md` |
