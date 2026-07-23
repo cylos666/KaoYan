@@ -507,3 +507,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 9 个（bend, veteran, vice, revenue, venue, lose, coalition, paddle, endorse）+ 复现 7 个 | `Words.md` |
+
+---
+
+## 2026-07-24
+
+### 🔁 复习
+
+- 单词：7/23 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 5 个（soak, substitute, bruise, transaction, brawl）+ 复现 15 个（slope, decree, omit, wreck, obsolete, courtesy, agony, overhaul, preclude, bulletin, pasture, monotonous, dismay, screw, weary） | `Words.md` |
