@@ -468,6 +468,20 @@
 
 ---
 
+## 2026-07-24
+
+### 🔁 复习
+
+- 单词：7/23 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 13 个（repertoire, tackle, obstruction, elastic, hardship, breed, hijack, scheme, germ, manifest, breast, ridge, composite）+ 复现 16 个 | `Words.md` |
+
+---
+
 ## 2026-07-21
 
 ### 🔁 复习
