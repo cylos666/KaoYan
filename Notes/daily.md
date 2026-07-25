@@ -468,20 +468,6 @@
 
 ---
 
-## 2026-07-24
-
-### 🔁 复习
-
-- 单词：7/23 批次快速回顾
-
-### 🆕 新学
-
-| 学科 | 内容 | 文件 |
-|:---|:---|:---|
-| 英语 | 新词 13 个（repertoire, tackle, obstruction, elastic, hardship, breed, hijack, scheme, germ, manifest, breast, ridge, composite）+ 复现 16 个 | `Words.md` |
-
----
-
 ## 2026-07-21
 
 ### 🔁 复习
@@ -534,4 +520,18 @@
 
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
-| 英语 | 新词 5 个（soak, substitute, bruise, transaction, brawl）+ 复现 15 个（slope, decree, omit, wreck, obsolete, courtesy, agony, overhaul, preclude, bulletin, pasture, monotonous, dismay, screw, weary） | `Words.md` |
+| 英语 | 新词 5 个（soak, substitute, bruise, transaction, brawl、repertoire, tackle, obstruction, elastic, hardship, breed, hijack, scheme, germ, manifest, breast, ridge, composite）+ 复现 15 个（slope, decree, omit, wreck, obsolete, courtesy, agony, overhaul, preclude, bulletin, pasture, monotonous, dismay, screw, weary） | `Words.md` |
+
+---
+
+## 2026-07-26
+
+### 🔁 复习
+
+- 单词：7/24 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 17 个（pitch, horror, culprit, principal, edible, colonel, scandal, humble, supervise, favor, empire, despise, successive, diligent, doom, volcano, congress）+ 复现 12 个 | `Words.md` |
