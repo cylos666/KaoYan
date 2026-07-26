@@ -524,7 +524,7 @@
 
 ---
 
-## 2026-07-26
+## 2026-07-25
 
 ### 🔁 复习
 
@@ -535,3 +535,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 17 个（pitch, horror, culprit, principal, edible, colonel, scandal, humble, supervise, favor, empire, despise, successive, diligent, doom, volcano, congress）+ 复现 12 个 | `Words.md` |
+
+---
+
+## 2026-07-27
+
+### 🔁 复习
+
+- 单词：7/25 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 10 个（exert, fixture, reclaim, smuggle, implicit, zoom, disgust, longitude, recur, flush）+ 复现 16 个 | `Words.md` |
