@@ -538,7 +538,7 @@
 
 ---
 
-## 2026-07-27
+## 2026-07-26
 
 ### 🔁 复习
 
@@ -549,3 +549,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 10 个（exert, fixture, reclaim, smuggle, implicit, zoom, disgust, longitude, recur, flush）+ 复现 16 个 | `Words.md` |
+
+---
+
+## 2026-07-27
+
+### 🔁 复习
+
+- 单词：7/26 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 9 个（insight, assign, determine, process, hamper, deplete, slippery, bucket, boast）+ 复现 22 个 | `Words.md` |
