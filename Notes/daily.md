@@ -563,3 +563,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 9 个（insight, assign, determine, process, hamper, deplete, slippery, bucket, boast）+ 复现 22 个 | `Words.md` |
+
+---
+
+## 2026-07-28
+
+### 🔁 复习
+
+- 单词：7/27 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 7 个（mutual, anticipate, extent, instance, thrive, troop, probe）+ 复现 19 个 | `Words.md` |
