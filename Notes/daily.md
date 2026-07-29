@@ -577,3 +577,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 7 个（mutual, anticipate, extent, instance, thrive, troop, probe）+ 复现 19 个 | `Words.md` |
+
+---
+
+## 2026-07-29
+
+### 🔁 复习
+
+- 单词：7/28 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 24 个（exemplify, comprise, perspective, complement, norm, overt, erase, flavor, suspend, authentic, subscribe, contemporary, flaw, scarce, gut, shaft, compassion, signature, steer, profound, fatigue, alt, sway, designate）+ 复现 14 个（repertoire, empirical, fleet, violate, vibrate, fright, barren, thrift, blunder, deceive, magistrate, deplore, deficit, discrete） | `Words.md` |
