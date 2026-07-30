@@ -591,3 +591,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 24 个（exemplify, comprise, perspective, complement, norm, overt, erase, flavor, suspend, authentic, subscribe, contemporary, flaw, scarce, gut, shaft, compassion, signature, steer, profound, fatigue, alt, sway, designate）+ 复现 14 个（repertoire, empirical, fleet, violate, vibrate, fright, barren, thrift, blunder, deceive, magistrate, deplore, deficit, discrete） | `Words.md` |
+
+---
+
+## 2026-07-30
+
+### 🔁 复习
+
+- 单词：7/29 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 15 个（likely, occasion, eloquent, humiliate, intimidate, scrutiny, erect, stiff, hostile, postage, episode, amplify, resort, plateau, compatible）+ 复现 14 个（cope, thrive, contagious, considerable, constitution, pact, dread, forum, tribute, amiable, grind, wrist, subsidy, rhetoric） | `Words.md` |
