@@ -605,3 +605,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 15 个（likely, occasion, eloquent, humiliate, intimidate, scrutiny, erect, stiff, hostile, postage, episode, amplify, resort, plateau, compatible）+ 复现 14 个（cope, thrive, contagious, considerable, constitution, pact, dread, forum, tribute, amiable, grind, wrist, subsidy, rhetoric） | `Words.md` |
+
+---
+
+## 2026-07-31
+
+### 🔁 复习
+
+- 单词：7/30 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 10 个（comprehensive, dynamic, perceive, embark, intuition, hatred, triumph, cosmic, ore, tilt）+ 复现 11 个（crude, rake, irrespective, superfluous, allege, insult, tape, glitter, instinct, meditation, gut） | `Words.md` |
