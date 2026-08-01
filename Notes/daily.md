@@ -619,3 +619,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 10 个（comprehensive, dynamic, perceive, embark, intuition, hatred, triumph, cosmic, ore, tilt）+ 复现 11 个（crude, rake, irrespective, superfluous, allege, insult, tape, glitter, instinct, meditation, gut） | `Words.md` |
+
+---
+
+## 2026-08-01
+
+### 🔁 复习
+
+- 单词：7/31 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 17 个（compound, grim, articulate, explicit, infrared, timid, abide, velvet, puff, discourage, punctual, plot, lucrative, dissipate, consolidate, beverage, summon）+ 复现 13 个（portrait, shuttle, gloomy, dispute, plunge, booth, hoist, doze, vest, transistor, eccentric, credential, detain） | `Words.md` |
