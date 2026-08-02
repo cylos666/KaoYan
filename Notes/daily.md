@@ -633,3 +633,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 17 个（compound, grim, articulate, explicit, infrared, timid, abide, velvet, puff, discourage, punctual, plot, lucrative, dissipate, consolidate, beverage, summon）+ 复现 13 个（portrait, shuttle, gloomy, dispute, plunge, booth, hoist, doze, vest, transistor, eccentric, credential, detain） | `Words.md` |
+
+---
+
+## 2026-08-02
+
+### 🔁 复习
+
+- 单词：8/1 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 14 个（intense, submerge, solitary, deem, scarf, delegate, suite, rehearse, wholesome, oath, adverse, stalk, reap, frustrate）+ 复现 10 个（vague, nuisance, manuscript, sow, attorney, boycott, immerse, defect, sprout, disposal） | `Words.md` |
