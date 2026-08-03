@@ -647,3 +647,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 14 个（intense, submerge, solitary, deem, scarf, delegate, suite, rehearse, wholesome, oath, adverse, stalk, reap, frustrate）+ 复现 10 个（vague, nuisance, manuscript, sow, attorney, boycott, immerse, defect, sprout, disposal） | `Words.md` |
+
+---
+
+## 2026-08-03
+
+### 🔁 复习
+
+- 单词：8/2 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 6 个（craft, immune, bewilder, confer, compensate, resemble）+ 复现 18 个（expire, scorn, inflict, undo, cease, curb, decay, futile, lofty, plight, conscious, odor, reptile, ward, petition, underlie, venue, substitute） | `Words.md` |
