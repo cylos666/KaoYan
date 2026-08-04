@@ -2132,3 +2132,36 @@
 | | confer | /kənˈfɜːr/ | v. 授予，赋予；<br>商讨，协商 | confer sth on/upon sb 授予某人某物<br>confer a degree 授予学位<br>confer with sb 与某人商议 | The university **conferred** an honorary degree on her. （大学授予她荣誉学位。）<br>The manager **conferred** with his team before deciding. （经理在决定前与团队商议。）<br><br>🔍 **近义**：grant（授予）/ award（颁发）/ consult（商议）· **易混**：confer vs prefer（更喜欢）vs refer（参考）· 词根：con-共同 + fer-带 → 带来一起→商议；授予 |
 | | compensate | /ˈkɑːmpenseɪt/ | v. 补偿，赔偿；弥补 | compensate for 弥补<br>compensate sb for sth 赔偿某人<br>compensation n. 补偿金<br>compensatory adj. 补偿的 | The company **compensated** the workers for their injuries. （公司赔偿了受伤的工人。）<br>Hard work cannot **compensate for** lack of talent. （勤奋无法弥补天赋的不足。）<br><br>🔍 **近义**：make up for（弥补）/ repay（赔偿）/ offset（抵消）· **易混**：compensate vs compete（竞争）vs compensate ≠ compensate（≠ compensate vs complement 补充）· 词根：com-共同 + pens-支付 + -ate → 支付→赔偿 |
 | | resemble | /rɪˈzembl/ | v. 像，与…相似 | resemble sb/sth 与…相似<br>closely resemble 非常相似<br>resemblance n. 相似<br>resemble in appearance 在外表上相似 | She **resembles** her mother in many ways. （她在很多方面像她母亲。）<br>The new building **resembles** a giant bird. （这座新建筑像一只巨鸟。）<br><br>🔍 **近义**：look like（看起来像）/ be similar to（相似）· **反义**：differ from（不同于）· **易混**：resemble vs assemble（组装/聚集）vs ensemble（整体）· 词根：re-再 + semble（相像，如 semblable）→ 相像 |
+| 2026-08-04 | blunder (复现) | /ˈblʌndər/ | n. 愚蠢的错误，大错<br>v. 犯大错 | make a blunder 犯大错<br>blunder into 误入 | He made a terrible **blunder**. |
+| | tackle (复现) | /ˈtækl/ | v. 处理，应对；抢断<br>n. 用具，装备 | tackle a problem 处理问题<br>fishing tackle 钓具 | The government must **tackle** unemployment. |
+| | denounce (复现) | /dɪˈnaʊns/ | v. 谴责，指责；告发 | denounce sb/sth as 指责…为<br>denounce corruption 谴责腐败 | He **denounced** the proposal as immoral. |
+| | tenant (复现) | /ˈtenənt/ | n. 租客，房客 | landlord and tenant 房东与租客 | The **tenant** pays rent every month. |
+| | haste (复现) | /heɪst/ | n. 匆忙，急忙 | in haste 匆忙地<br>haste makes waste 欲速则不达 | More **haste**, less speed. |
+| | oval (复现) | /ˈoʊvl/ | adj./n. 椭圆形的 | oval shape 椭圆形<br>the Oval Office 总统办公室 | The table has an **oval** shape. |
+| | revenge (复现) | /rɪˈvendʒ/ | n. 复仇，报复<br>v. 为…报仇 | take revenge on sb 向某人复仇<br>in revenge for 为报复… | He wanted to take **revenge** on them. |
+| | comrade (复现) | /ˈkɑːmræd/ | n. 同志；同伴，战友 | comrade in arms 战友 | The soldiers supported their wounded **comrade**. |
+| | militant (复现) | /ˈmɪlɪtənt/ | adj. 激进的，好斗的<br>n. 激进分子 | militant group 激进组织 | The **militant** group claimed responsibility. |
+| | charter (复现) | /ˈtʃɑːrtər/ | n. 宪章；特许状<br>v. 包租 | UN Charter 联合国宪章<br>charter flight 包机 | The **Charter** guarantees human rights. |
+| | commence (复现) | /kəˈmens/ | v. 开始，着手 | commence with 以…开始 | The meeting **commenced** at 9 a.m. |
+| | loop (复现) | /luːp/ | n. 圈，环；循环<br>v. 使成环 | closed loop 闭环<br>keep sb in the loop 让某人知情 | The road **loops** around the mountain. |
+| | trifle (复现) | /ˈtraɪfl/ | n. 琐事，小事<br>v. 轻视 | a trifle 有点儿<br>trifle with 轻视 | Don't waste time on **trifles**. |
+| | lateral (复现) | /ˈlætərəl/ | adj. 侧面的，横向的 | lateral thinking 横向思维 | The building has a **lateral** extension. |
+| | lapse (复现) | /læps/ | n. 失误；时间间隔<br>v. 失效；衰退 | lapse of concentration 走神<br>time lapse 时间流逝 | A momentary **lapse** of concentration caused the error. |
+| | continent (复现) | /ˈkɑːntɪnənt/ | n. 大陆；洲 | the African continent 非洲大陆 | Australia is both a country and a **continent**. |
+| | discern (复现) | /dɪˈsɜːrn/ | v. 辨别，识别；觉察出 | discern A from B 区分A与B<br>barely discernible 几乎无法辨认 | It is difficult to **discern** the truth. |
+| | advent (复现) | /ˈædvent/ | n. 来临，到来，出现 | the advent of …的到来<br>with the advent of 随着…的到来 | The **advent** of the internet changed everything. |
+| | acclaim (复现) | /əˈkleɪm/ | n./v. 称赞，欢呼；推崇 | critical acclaim 好评<br>be acclaimed as 被赞为… | The movie received critical **acclaim**. |
+| | robust (复现) | /roʊˈbʌst/ | adj. 强健的；结实的；强有力的 | robust health 强健的体魄<br>robust economy 强劲经济 | He has a **robust** physique. |
+| | confidential (复现) | /ˌkɑːnfɪˈdenʃl/ | adj. 机密的，保密的 | confidential document 机密文件<br>strictly confidential 绝密 | All **confidential** documents must be locked. |
+| | profile (复现) | /ˈproʊfaɪl/ | n. 侧面；轮廓；简介<br>v. 概述 | high profile 高调<br>low profile 低调<br>company profile 公司简介 | He keeps a low **profile**. |
+| | liability (复现) | /ˌlaɪəˈbɪləti/ | n. 责任，义务；累赘；债务 | legal liability 法律责任<br>assets and liabilities 资产与负债 | The company accepts full **liability**. |
+| | esteem (复现) | /ɪˈstiːm/ | n./v. 尊敬，敬重 | hold sb in high esteem 高度敬重<br>self-esteem 自尊 | She is held in high **esteem**. |
+| | fabricate (复现) | /ˈfæbrɪkeɪt/ | v. 制造；捏造，编造 | fabricate evidence 捏造证据<br>fabricate a story 编造故事 | He was accused of **fabricating** evidence. |
+| | vanity (复现) | /ˈvænəti/ | n. 虚荣，自负；梳妆台 | vanity fair 名利场<br>out of vanity 出于虚荣 | He bought the sports car out of **vanity**. |
+| | custody (复现) | /ˈkʌstədi/ | n. 监护权；拘押 | in custody 被拘留<br>child custody 监护权 | The suspect was taken into **custody**. |
+| | garage (复现) | /ɡəˈrɑːʒ/ | n. 车库；修车厂 | parking garage 停车场<br>garage sale 旧货出售 | She parked the car in the **garage**. |
+| | capture | /ˈkæptʃər/ | v. 捕获，俘获；<br>夺得；吸引<br>n. 捕获，战利品 | capture an animal 捕获动物<br>capture one's attention 吸引注意力<br>capture a market 占领市场<br>captive n. 俘虏 | The soldiers **captured** the enemy fort. （士兵们攻占了敌人的堡垒。）<br>The new product **captured** a large share of the market. （新产品占领了很大市场份额。）<br><br>🔍 **近义**：seize（抓住）/ catch（捕获）/ grab（夺取）· **反义**：release（释放）/ free（解放）· **易混**：capture vs captor（俘获者）vs captive（被俘的）· 词根：capt-抓 + -ure |
+| | corporate | /ˈkɔːrpərət/ | adj. 公司的，法人的；<br>团体的，共同的 | corporate culture 企业文化<br>corporate profits 企业利润<br>corporate governance 公司治理<br>corporation n. 公司 | **Corporate** culture plays a key role in employee satisfaction. （企业文化对员工满意度起关键作用。）<br>The **corporate** world is highly competitive. （企业界竞争非常激烈。）<br><br>🔍 **近义**：company（公司，名词）/ business（企业）/ joint（共同的）· **易混**：corporate vs incorporate（合并/包含）vs corporation（公司，名词）· 词根：corp-身体 + -orate → 组成整体→公司的 |
+| | inventory | /ˈɪnvəntɔːri/ | n. 存货，库存；<br>清单<br>v. 盘点，编制清单 | inventory management 库存管理<br>take inventory 盘点存货<br>inventory turnover 库存周转率<br>make an inventory of 编制…清单 | The store keeps a large **inventory** of goods. （这家商店保有大量商品库存。）<br>We need to take **inventory** before the end of the month. （月底前我们需要盘点存货。）<br><br>🔍 **近义**：stock（库存）/ supply（供应品）/ list（清单）· **易混**：inventory vs invent（发明）vs invention（发明，名词）· 注意重音在第一个音节 |
+| | guild | /ɡɪld/ | n. 行会，同业公会；<br>协会 | trade guild 商业行会<br>guild member 行会成员<br>craftsmen's guild 工匠行会 | In medieval times, craftsmen formed **guilds** to protect their interests. （中世纪时，工匠们组成行会来保护自身利益。）<br>He joined the writers' **guild**. （他加入了作家协会。）<br><br>🔍 **近义**：association（协会）/ union（工会）/ league（联盟）· **易混**：guild vs guilt（内疚/罪行）vs build（建造，少一个l）· 拼写易错：guild 含 ui，guilt 含 ui 但意思完全不同 |
+| | brevity | /ˈbrevəti/ | n. 简洁，简短；<br>短暂 | brevity is the soul of wit 言贵简洁<br>for brevity 为简洁起见<br>in the interests of brevity 为简短起见<br>brief adj. 简短的 | **Brevity** is the soul of wit. （言贵简洁。）<br>For **brevity**, I'll skip the details. （为简洁起见，我略过细节。）<br><br>🔍 **近义**：conciseness（简明）/ shortness（简短）· **反义**：verbosity（冗长）/ length（冗长）· **易混**：brevity vs brief（简短的，形容词）vs brevity ≠ brevity（≠ brevity vs gravity 重力）· 词根：brev-短（如 brief/abbreviate）|
