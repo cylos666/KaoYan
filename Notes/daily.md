@@ -675,3 +675,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 5 个（capture, corporate, inventory, guild, brevity）+ 复现 28 个（blunder, tackle, denounce, tenant, haste, oval, revenge, comrade, militant, charter, commence, loop, trifle, lateral, lapse, continent, discern, advent, acclaim, robust, confidential, profile, liability, esteem, fabricate, vanity, custody, garage） | `Words.md` |
+
+---
+
+## 2026-08-05
+
+### 🔁 复习
+
+- 单词：8/4 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 3 个（substance, domain, specialist）+ 复现 15 个（repel, consent, elicit, proximate, inhibit, lump, contrive, prudent, proposition, precede, shutter, democratic, incident, wary, retort） | `Words.md` |
