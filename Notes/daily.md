@@ -689,3 +689,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 3 个（substance, domain, specialist）+ 复现 15 个（repel, consent, elicit, proximate, inhibit, lump, contrive, prudent, proposition, precede, shutter, democratic, incident, wary, retort） | `Words.md` |
+
+---
+
+## 2026-08-06
+
+### 🔁 复习
+
+- 单词：8/5 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 6 个（incentive, generate, van, slack, briefcase, genre）+ 复现 23 个（notion, shear, controversial, sophomore, elapse, recession, juvenile, scold, turnover, grope, sponge, propaganda, inferior, inertia, conscience, warrant, disclose, contaminate, prose, overwhelm, pope, tide, compatible） | `Words.md` |
