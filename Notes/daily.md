@@ -703,3 +703,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 6 个（incentive, generate, van, slack, briefcase, genre）+ 复现 23 个（notion, shear, controversial, sophomore, elapse, recession, juvenile, scold, turnover, grope, sponge, propaganda, inferior, inertia, conscience, warrant, disclose, contaminate, prose, overwhelm, pope, tide, compatible） | `Words.md` |
+
+---
+
+## 2026-08-07
+
+### 🔁 复习
+
+- 单词：8/6 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 15 个（recognition, distinction, intention, raw, eliminate, rape, garment, disguise, adequate, tractor, torrent, offset, eternal, convention, induce）+ 复现 20 个（chamber, contend, symmetry, decree, fierce, prone, reciprocal, grip, rigorous, subtract, drawback, strife, wreck, prejudice, preclude, cunning, obsolete, conspicuous, protest, kidnap） | `Words.md` |
