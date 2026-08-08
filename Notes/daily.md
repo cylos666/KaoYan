@@ -717,3 +717,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 15 个（recognition, distinction, intention, raw, eliminate, rape, garment, disguise, adequate, tractor, torrent, offset, eternal, convention, induce）+ 复现 20 个（chamber, contend, symmetry, decree, fierce, prone, reciprocal, grip, rigorous, subtract, drawback, strife, wreck, prejudice, preclude, cunning, obsolete, conspicuous, protest, kidnap） | `Words.md` |
+
+---
+
+## 2026-08-08
+
+### 🔁 复习
+
+- 单词：8/7 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 8 个（collaborate, hint, cardinal, deficiency, sibling, ceiling, compel, refund）+ 复现 16 个（executive, grind, expedition, strain, snatch, monarch, clasp, daunting, ascertain, dean, foul, rouse, underestimate, taboo, defer, derive） | `Words.md` |
