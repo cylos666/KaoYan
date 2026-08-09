@@ -2271,3 +2271,39 @@
 | | ceiling | /ˈsiːlɪŋ/ | n. 天花板；<br>上限，最高限额 | price ceiling 价格上限<br>glass ceiling 玻璃天花板（晋升障碍）<br>hit the ceiling 勃然大怒<br>ceiling fan 吊扇 | They put a **ceiling** on government spending. （他们对政府支出设了上限。）<br>Women often face a **glass ceiling** in their careers. （女性在职业中常面临玻璃天花板。）<br><br>🔍 **近义**：roof（屋顶）/ cap（上限）/ limit（限额）· **反义**：floor（地板；下限）· **易混**：ceiling vs seal（印章/密封，同音 /siːl/）vs ceiling ≠ ceiling（≠ ceiling vs ceiling）· 词根：ceil-天花板 |
 | | compel | /kəmˈpel/ | v. 强迫，迫使；<br>使不得不 | compel sb to do 强迫某人做<br>be compelled to do 被迫做<br>compelling adj. 令人信服的；引人入胜的<br>compulsion n. 强迫 | The law **compels** companies to disclose their data. （法律强制公司公开数据。）<br>I felt **compelled** to speak out. （我感到不得不说出来。）<br><br>🔍 **近义**：force（强迫）/ oblige（迫使）/ drive（驱使）· **易混**：compel vs expel（开除/驱逐）vs repel（击退）vs propel（推进）· 词根：com-加强 + pel-推 → 用力推→强迫 |
 | | refund | /ˈriːfʌnd/ n.<br>/rɪˈfʌnd/ v. | n. 退款，偿还<br>v. 退款，退还 | full refund 全额退款<br>claim a refund 申请退款<br>refund the money 退钱<br>no refund 概不退款 | The store gave me a full **refund**. （商店给我全额退款了。）<br>They **refunded** my money after I returned the item. （退货后他们把钱退给了我。）<br><br>🔍 **近义**：reimburse（报销，偿还）/ repay（偿还）· **易混**：refund vs refuse（拒绝）vs refound（重新建立）· re-回 + fund（资金）→ 资金退回 |
+| 2026-08-09 | hail (复现) | /heɪl/ | n. 冰雹<br>v. 欢呼；招呼；下冰雹 | hail a taxi 招呼出租车<br>be hailed as 被赞为<br>hail from 来自 | She was **hailed** as a hero. |
+| | intensity (复现) | /ɪnˈtensəti/ | n. 强度；强烈，剧烈 | light intensity 光强度<br>intense adj. 强烈的 | The earthquake had an **intensity** of 7.0. |
+| | slope (复现) | /sloʊp/ | n. 斜坡，斜面；坡度<br>v. 倾斜 | steep slope 陡坡<br>slippery slope 滑坡效应 | The house is built on a steep **slope**. |
+| | cellar (复现) | /ˈselər/ | n. 地窖，地下室；酒窖 | wine cellar 酒窖 | The wine is stored in the **cellar**. |
+| | trolley (复现) | /ˈtrɑːli/ | n. 手推车；有轨电车 | shopping trolley 购物车<br>trolley bus 无轨电车 | She pushed the **trolley** down the aisle. |
+| | inaugurate (复现) | /ɪˈnɔːɡjəreɪt/ | v. 举行就职典礼；开创 | inaugurate a president 总统就职<br>inauguration n. 就职典礼 | The new president was **inaugurated**. |
+| | bait (复现) | /beɪt/ | n. 鱼饵；诱饵<br>v. 装饵；引诱 | take the bait 上钩<br>bait sb into doing 引诱某人做 | Don't **take the bait** — he's provoking you. |
+| | omit (复现) | /əˈmɪt/ | v. 省略，遗漏 | omit to do 忘记做<br>omission n. 遗漏 | Don't **omit** any details. |
+| | overhaul (复现) | /ˈoʊvərhɔːl/ | n./v. 彻底检修，全面改革 | major overhaul 大修 | The tax system needs a complete **overhaul**. |
+| | endorse (复现) | /ɪnˈdɔːrs/ | v. 支持，认可；代言；背书 | endorse a candidate 支持候选人<br>endorse a product 代言产品 | The union **endorsed** the new policy. |
+| | eminent (复现) | /ˈemɪnənt/ | adj. 杰出的，卓越的 | eminent scholar 杰出学者<br>eminent domain 征用权 | He is an **eminent** scientist. |
+| | swarm (复现) | /swɔːrm/ | n. 一群（昆虫/人）<br>v. 蜂拥，聚集 | a swarm of 一群<br>swarm with 挤满 | The beach was **swarming** with tourists. |
+| | perish (复现) | /ˈperɪʃ/ | v. 死亡，暴死；消亡 | perish in a fire 火灾中丧生<br>perishable 易腐烂的 | Many soldiers **perished** in the battle. |
+| | testimony (复现) | /ˈtestɪmoʊni/ | n. 证词，证明；证据 | bear testimony to 证明<br>eyewitness testimony 目击证词 | Her **testimony** was crucial. |
+| | weary (复现) | /ˈwɪri/ | adj. 疲倦的；厌倦的<br>v. 使厌倦 | weary of 厌倦 | She was **weary** of the long journey. |
+| | agony (复现) | /ˈæɡəni/ | n. 极度痛苦，折磨 | in agony 痛苦中 | He was **in agony** after the surgery. |
+| | feeble (复现) | /ˈfiːbl/ | adj. 虚弱的，无力的；站不住脚的 | feeble attempt 无力尝试<br>feeble excuse 站不住脚的借口 | She made a **feeble** attempt. |
+| | diploma (复现) | /dɪˈploʊmə/ | n. 文凭，毕业证书 | college diploma 大学文凭 | She received her **diploma**. |
+| | premise (复现) | /ˈpremɪs/ | n. 前提；经营场所（pl.） | on the premise that 以…为前提<br>false premise 错误前提 | His argument is based on a false **premise**. |
+| | bulletin (复现) | /ˈbʊlətɪn/ | n. 公告，公报；新闻简报 | news bulletin 新闻简报<br>bulletin board 公告板 | The hospital issues a daily **bulletin**. |
+| | jargon (复现) | /ˈdʒɑːrɡən/ | n. 行话，专业术语 | legal jargon 法律术语<br>technical jargon 技术术语 | The report is full of technical **jargon**. |
+| | fuss (复现) | /fʌs/ | n./v. 大惊小怪 | make a fuss 大惊小怪<br>fuss over 为…操心<br>fussy adj. 挑剔的 | Don't make a **fuss** about it. |
+| | cordial (复现) | /ˈkɔːrdʒəl/ | adj. 热情友好的，热诚的 | cordial welcome 热情欢迎<br>cordial relations 友好关系 | We received a **cordial** welcome. |
+| | embed (复现) | /ɪmˈbed/ | v. 嵌入；使扎根 | be embedded in 嵌入；扎根于 | The bullet was deeply **embedded** in the wall. |
+| | deduct (复现) | /dɪˈdʌkt/ | v. 扣除，减去 | deduct from 从…中扣除<br>deduct tax 扣除税款 | Tax is **deducted** from your salary. |
+| | execute (复现) | /ˈeksɪkjuːt/ | v. 处决；执行，实施 | execute a plan 执行计划 | The plan was **executed** perfectly. |
+| | abound (复现) | /əˈbaʊnd/ | v. 丰富，大量存在 | abound in/with 充满 | The region **abounds** with resources. |
+| | bruise (复现) | /bruːz/ | n. 淤青，伤痕<br>v. 使受淤伤 | bruise easily 容易淤青<br>cuts and bruises 割伤和淤青 | He had a nasty **bruise** on his arm. |
+| | dismay (复现) | /dɪsˈmeɪ/ | n./v. 沮丧，惊愕，失望 | to one's dismay 令某人沮丧的是 | To his **dismay**, he failed the exam. |
+| | tow (复现) | /toʊ/ | v./n. 拖，拉，牵引 | tow away 拖走<br>tow truck 拖车<br>in tow 紧随在后 | The car was **towed** away. |
+| | pasture (复现) | /ˈpæstʃər/ | n. 牧场<br>v. 放牧 | green pastures 绿草牧场 | Sheep were grazing in the **pasture**. |
+| | stipulate (复现) | /ˈstɪpjuleɪt/ | v. 规定，明确要求 | stipulate that 规定<br>as stipulated in 按照…规定 | The contract **stipulates** payment within 30 days. |
+| | clutch (复现) | /klʌtʃ/ | v. 紧抓，紧握<br>n. 离合器；掌控 | clutch at 抓住<br>in the clutches of 在…掌控中 | She **clutched** her bag tightly. |
+| | quarantine (复现) | /ˈkwɔːrəntiːn/ | n. 隔离期，检疫<br>v. 隔离 | in quarantine 在隔离中<br>quarantine period 隔离期 | The passengers were **quarantined**. |
+| | deposit | /dɪˈpɑːzɪt/ | n. 存款；押金；沉积物<br>v. 存放；存入；沉积 | bank deposit 银行存款<br>make a deposit 存钱；付押金<br>deposit account 存款账户<br>deposit a check 存入支票 | She made a **deposit** of $500 into her account. （她往账户里存了500美元。）<br>You need to leave a **deposit** for the apartment. （租公寓需要付押金。）<br><br>🔍 **近义**：savings（存款）/ down payment（首付）/ layer（沉积层）· **反义**：withdraw（取款）· **易混**：deposit vs deposition（证词/沉积作用）vs depot（仓库）· 词根：de-下 + posit-放 → 放下→存放 |
+| | boost | /buːst/ | v. 促进，推动；<br>增强，提高<br>n. 推动，激励 | boost the economy 促进经济<br>boost morale 鼓舞士气<br>boost confidence 增强信心<br>give sb a boost 给某人激励 | The new policy will **boost** economic growth. （新政策将促进经济增长。）<br>Winning the match gave the team a big **boost**. （赢得比赛给了球队很大鼓舞。）<br><br>🔍 **近义**：promote（促进）/ enhance（增强）/ increase（提高）· **反义**：reduce（减少）/ undermine（削弱）· **易混**：boost vs boot（靴子）vs boost ≠ boost（≠ boost vs boast 吹嘘）· 一词多义：促进 / 推动力 |

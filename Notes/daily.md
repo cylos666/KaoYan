@@ -731,3 +731,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 8 个（collaborate, hint, cardinal, deficiency, sibling, ceiling, compel, refund）+ 复现 16 个（executive, grind, expedition, strain, snatch, monarch, clasp, daunting, ascertain, dean, foul, rouse, underestimate, taboo, defer, derive） | `Words.md` |
+
+---
+
+## 2026-08-09
+
+### 🔁 复习
+
+- 单词：8/8 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 2 个（deposit, boost）+ 复现 34 个（hail, intensity, slope, cellar, trolley, inaugurate, bait, omit, overhaul, endorse, eminent, swarm, perish, testimony, weary, agony, feeble, diploma, premise, bulletin, jargon, fuss, cordial, embed, deduct, execute, abound, bruise, dismay, tow, pasture, stipulate, clutch, quarantine） | `Words.md` |
