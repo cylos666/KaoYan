@@ -745,3 +745,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 2 个（deposit, boost）+ 复现 34 个（hail, intensity, slope, cellar, trolley, inaugurate, bait, omit, overhaul, endorse, eminent, swarm, perish, testimony, weary, agony, feeble, diploma, premise, bulletin, jargon, fuss, cordial, embed, deduct, execute, abound, bruise, dismay, tow, pasture, stipulate, clutch, quarantine） | `Words.md` |
+
+---
+
+## 2026-08-10
+
+### 🔁 复习
+
+- 单词：8/9 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 12 个（excessive, steep, criterion, strive, mischief, persuasion, hurl, diverse, impose, durable, contrast, surge）+ 复现 12 个（reconcile, ample, soar, stumble, graze, radical, sack, implication, contempt, coalition, articulate, deem） | `Words.md` |
