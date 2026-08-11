@@ -759,3 +759,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 12 个（excessive, steep, criterion, strive, mischief, persuasion, hurl, diverse, impose, durable, contrast, surge）+ 复现 12 个（reconcile, ample, soar, stumble, graze, radical, sack, implication, contempt, coalition, articulate, deem） | `Words.md` |
+
+---
+
+## 2026-08-11
+
+### 🔁 复习
+
+- 单词：8/10 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 6 个（outcome, quantity, tax, opt, celebrity, ignorant）+ 复现 15 个（fatigue, span, thermometer, snap, blaze, relay, breast, utter, gracious, beware, gauge, ridge, levy, nostalgic, allegiance） | `Words.md` |
