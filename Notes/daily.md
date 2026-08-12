@@ -773,3 +773,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 6 个（outcome, quantity, tax, opt, celebrity, ignorant）+ 复现 15 个（fatigue, span, thermometer, snap, blaze, relay, breast, utter, gracious, beware, gauge, ridge, levy, nostalgic, allegiance） | `Words.md` |
+
+---
+
+## 2026-08-12
+
+### 🔁 复习
+
+- 单词：8/11 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 6 个（trench, liberty, assess, embryo, missionary, descent）+ 复现 15 个（daunting, bucket, lucrative, beverage, forge, wedge, excursion, pit, redeem, inherent, artery, invasion, decimal, shatter, bearing） | `Words.md` |
