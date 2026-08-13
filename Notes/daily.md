@@ -787,3 +787,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 6 个（trench, liberty, assess, embryo, missionary, descent）+ 复现 15 个（daunting, bucket, lucrative, beverage, forge, wedge, excursion, pit, redeem, inherent, artery, invasion, decimal, shatter, bearing） | `Words.md` |
+
+---
+
+## 2026-08-13
+
+### 🔁 复习
+
+- 单词：8/12 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 6 个（captain, bald, lag, regime, hum, representative）+ 复现 12 个（drift, soar, congress, augment, deplore, violate, reasonable, ponder, despise, doom, edible, principal） | `Words.md` |
