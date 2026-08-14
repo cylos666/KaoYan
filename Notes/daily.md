@@ -801,3 +801,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 6 个（captain, bald, lag, regime, hum, representative）+ 复现 12 个（drift, soar, congress, augment, deplore, violate, reasonable, ponder, despise, doom, edible, principal） | `Words.md` |
+
+---
+
+## 2026-08-14
+
+### 🔁 复习
+
+- 单词：8/13 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 8 个（chronic, genuine, cognitive, envy, trivial, propagate, fossil, colonial）+ 复现 17 个（mutual, vague, cosmic, anecdote, authentic, huddle, vigorous, rotten, chancellor, exert, unanimous, intermittent, assert, dread, applicable, wagon, apparatus） | `Words.md` |
