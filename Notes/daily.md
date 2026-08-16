@@ -829,3 +829,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 7 个（blanket, description, subtle, anonymous, funeral, split, dispatch）+ 复现 19 个（rigorous, anticipate, disposal, defer, vulnerable, deficit, thrift, extinguish, prophet, glitter, empirical, imminent, revolt, descendant, vulgar, discrete, spiral, allege, census） | `Words.md` |
+
+---
+
+## 2026-08-16
+
+### 🔁 复习
+
+- 单词：8/15 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 6 个（upright, amateur, premium, moist, budget, drone）+ 复现 19 个（pitch, consent, executive, revenue, racket, menace, scarcely, abolish, bypass, constitution, furnish, stroll, reverse, rhetoric, aural, smuggle, discourse, hoist, sorrow） | `Words.md` |
