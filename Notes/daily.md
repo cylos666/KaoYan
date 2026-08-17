@@ -843,3 +843,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 6 个（upright, amateur, premium, moist, budget, drone）+ 复现 19 个（pitch, consent, executive, revenue, racket, menace, scarcely, abolish, bypass, constitution, furnish, stroll, reverse, rhetoric, aural, smuggle, discourse, hoist, sorrow） | `Words.md` |
+
+---
+
+## 2026-08-17
+
+### 🔁 复习
+
+- 单词：8/16 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 6 个（rid, sprinkle, veil, refuge, specification, barrier）+ 复现 11 个（swarm, jargon, profile, perplex, crude, alleviate, vibrate, obsession, superfluous, marital, summit） | `Words.md` |
