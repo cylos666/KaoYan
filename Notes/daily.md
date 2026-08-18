@@ -857,3 +857,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 6 个（rid, sprinkle, veil, refuge, specification, barrier）+ 复现 11 个（swarm, jargon, profile, perplex, crude, alleviate, vibrate, obsession, superfluous, marital, summit） | `Words.md` |
+
+---
+
+## 2026-08-18
+
+### 🔁 复习
+
+- 单词：8/17 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 6 个（trait, fraction, optical, overlook, recruit, infant）+ 复现 18 个（competent, grip, perceive, disposition, appall, amiable, probe, illiterate, booth, recite, relish, contagious, compartment, futile, hypothesis, exotic, cargo, haul） | `Words.md` |
