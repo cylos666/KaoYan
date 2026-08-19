@@ -871,3 +871,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 6 个（trait, fraction, optical, overlook, recruit, infant）+ 复现 18 个（competent, grip, perceive, disposition, appall, amiable, probe, illiterate, booth, recite, relish, contagious, compartment, futile, hypothesis, exotic, cargo, haul） | `Words.md` |
+
+---
+
+## 2026-08-19
+
+### 🔁 复习
+
+- 单词：8/18 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 4 个（glow, cab, commit, legacy）+ 复现 13 个（outset, pneumonia, rake, sow, embark, bribe, deplete, insult, tug, signature, boycott, tiresome, stall） | `Words.md` |
