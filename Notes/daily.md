@@ -885,3 +885,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 4 个（glow, cab, commit, legacy）+ 复现 13 个（outset, pneumonia, rake, sow, embark, bribe, deplete, insult, tug, signature, boycott, tiresome, stall） | `Words.md` |
+
+---
+
+## 2026-08-20
+
+### 🔁 复习
+
+- 单词：8/19 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 3 个（anguish, automobile, perpetual）+ 复现 20 个（hail, extent, headline, obsession, meditation, dispute, snobbish, preceding, grave, hay, reproach, shuttle, deter, resort, concession, detain, scrutiny, contemporary, lofty, curb） | `Words.md` |

@@ -2525,3 +2525,26 @@
 | | cab | /kæb/ | n. 出租车；<br>驾驶室；<br>（旧）出租马车 | take a cab 打车<br>cab driver 出租车司机<br>call a cab 叫出租车<br>cab fare 出租车费 | I took a **cab** to the airport. （我打车去了机场。）<br>He sat in the **cab** of the truck. （他坐在卡车的驾驶室里。）<br><br>🔍 **近义**：taxi（出租车）/ hack（出租马车，旧）· **易混**：cab vs cab ≠ cab（≠ cab vs cap 帽子）vs cabin 小木屋 |
 | | commit | /kəˈmɪt/ | v. 犯（错误/罪行）；<br>承诺，投入 | commit a crime 犯罪<br>commit suicide 自杀<br>commit to 承诺，投入<br>be committed to 致力于 | He **committed** a serious crime. （他犯了严重罪行。）<br>She is fully **committed to** the project. （她全身心投入这个项目。）<br><br>🔍 **近义**：perform（执行）/ pledge（承诺）/ devote（投入）· **易混**：commit vs committee（委员会）vs commit ≠ commit（≠ commit vs submit 提交）· 一词多义：犯罪 / 承诺 / 投入 |
 | | legacy | /ˈleɡəsi/ | n. 遗产；遗赠；<br>遗留问题 | cultural legacy 文化遗产<br>leave a legacy 留下遗产<br>legacy of …的遗产/遗留<br>lasting legacy 持久的影响 | The old system left a **legacy** of problems. （旧制度留下了一堆遗留问题。）<br>His music is a lasting **legacy**. （他的音乐是永恒的遗产。）<br><br>🔍 **近义**：inheritance（遗产）/ heritage（文化遗产）/ bequest（遗赠）· **易混**：legacy vs legal（合法的）vs legacy ≠ legacy（≠ legacy vs league 联盟）· 词根：leg-法律/派遣 → 留下的东西 |
+| 2026-08-20 | hail (复现) | /heɪl/ | n. 冰雹<br>v. 欢呼；招呼 | hail a taxi 招呼出租车<br>be hailed as 被赞为 | She was **hailed** as a hero. |
+| | extent (复现) | /ɪkˈstent/ | n. 程度；范围，广度 | to some extent 在某种程度上<br>to a large extent 在很大程度上 | To some **extent**, his views are justified. |
+| | headline (复现) | /ˈhedlaɪn/ | n. 大字标题；新闻头条 | make headlines 上头条<br>headline news 头条新闻 | The scandal made **headlines**. |
+| | obsession (复现) | /əbˈseʃn/ | n. 痴迷，困扰 | obsession with 对…的痴迷 | His **obsession** with perfection is unhealthy. |
+| | meditation (复现) | /ˌmedɪˈteɪʃn/ | n. 冥想，沉思 | practice meditation 练习冥想 | She practices **meditation** every morning. |
+| | dispute (复现) | /dɪˈspjuːt/ | n. 争端，争论<br>v. 争论；质疑 | in dispute 有争议的<br>territory dispute 领土争端 | The two countries are **in dispute**. |
+| | snobbish (复现) | /ˈsnɑːbɪʃ/ | adj. 势利的，自命不凡的 | snobbish attitude 势利态度<br>snob n. 势利眼 | She is too **snobbish** to mix with ordinary people. |
+| | preceding (复现) | /prɪˈsiːdɪŋ/ | adj. 前面的，在先的 | the preceding chapter 前一章<br>in the preceding year 上一年 | The **preceding** chapter discussed the causes. |
+| | grave (复现) | /ɡreɪv/ | n. 坟墓<br>adj. 严重的，严肃的 | dig one's own grave 自掘坟墓<br>grave danger 严重危险 | The situation is **grave**. |
+| | hay (复现) | /heɪ/ | n. 干草 | make hay while the sun shines 趁热打铁<br>hay fever 花粉症 | The farmer stacked **hay**. |
+| | reproach (复现) | /rɪˈproʊtʃ/ | v./n. 责备，指责 | beyond reproach 无可指责 | He **reproached** her for being late. |
+| | shuttle (复现) | /ˈʃʌtl/ | n. 穿梭班车；梭子<br>v. 穿梭往返 | space shuttle 航天飞机<br>shuttle bus 穿梭巴士 | A free **shuttle** bus runs to the hotel. |
+| | deter (复现) | /dɪˈtɜːr/ | v. 阻止，威慑 | deter sb from doing 阻止某人做<br>deterrent n. 威慑因素 | Fear should not **deter** you from trying. |
+| | resort (复现) | /rɪˈzɔːrt/ | n. 度假地；v. 求助 | resort to 诉诸<br>as a last resort 作为最后手段 | **As a last resort**, we called the police. |
+| | concession (复现) | /kənˈseʃn/ | n. 让步；特许权；优惠 | make a concession 让步<br>tax concession 税收优惠 | Both sides made **concessions**. |
+| | detain (复现) | /dɪˈteɪn/ | v. 拘留，扣押；耽搁 | be detained by police 被拘留 | He was **detained** by the police. |
+| | scrutiny (复现) | /ˈskruːtəni/ | n. 详细审查，仔细检查 | under scrutiny 受到审查<br>public scrutiny 公众监督 | The policy came under **scrutiny**. |
+| | contemporary (复现) | /kənˈtempəreri/ | adj. 当代的，现代的；同时代的<br>n. 同代人 | contemporary art 当代艺术 | She is one of the finest **contemporary** artists. |
+| | lofty (复现) | /ˈlɔːfti/ | adj. 崇高的；高耸的；傲慢的 | lofty ideals 崇高理想 | She has **lofty** ideals. |
+| | curb (复现) | /kɜːrb/ | v./n. 抑制，控制；路缘 | curb inflation 抑制通胀<br>curb one's temper 控制脾气 | The government moved to **curb** inflation. |
+| | anguish | /ˈæŋɡwɪʃ/ | n. 极度痛苦，苦恼<br>v. 使极度痛苦 | in anguish 极度痛苦中<br>mental anguish 精神痛苦<br>anguished adj. 痛苦的 | She cried out **in anguish** at the news. （听到消息她痛苦地哭喊出来。）<br>The loss caused him deep **anguish**. （这一损失使他深感痛苦。）<br><br>🔍 **近义**：agony（极度痛苦）/ torment（折磨）/ suffering（苦难）· **反义**：joy（快乐）/ delight（欣喜）· **易混**：anguish vs language（语言）vs anguish ≠ anguish（≠ anguish vs anxious 焦虑的） |
+| | automobile | /ˈɔːtəməbiːl/ | n. 汽车（正式） | automobile industry 汽车工业<br>automobile accident 车祸<br>automaker 汽车制造商<br>automotive adj. 汽车的 | The **automobile** industry is a pillar of the economy. （汽车工业是经济支柱。）<br>He works for a major **automobile** manufacturer. （他在一家大型汽车制造商工作。）<br><br>🔍 **近义**：car（汽车，口语）/ vehicle（车辆）/ motorcar（汽车，英式旧）· **易混**：automobile vs automatic（自动的）vs automobile ≠ automobile（≠ automobile vs automotive 汽车的）· 词根：auto-自己 + mobile-移动 → 自己移动的交通工具 |
+| | perpetual | /pərˈpetʃuəl/ | adj. 永久的，永恒的；<br>无休止的 | perpetual motion 永动<br>perpetual contract 永久合同<br>perpetual fear 无休止的恐惧<br>perpetually adv. 永久地 | The two countries were in a **perpetual** state of conflict. （两国处于无休止的冲突状态。）<br>She lives in **perpetual** fear of failure. （她生活在永久的失败恐惧中。）<br><br>🔍 **近义**：eternal（永恒的）/ everlasting（永久的）/ endless（无尽的）· **反义**：temporary（暂时的）/ transient（短暂的）· **易混**：perpetual vs perpetual ≠ perpetual（≠ perpetual vs personal 个人的）· 词根：per-贯穿 + pet-追求 + -ual → 一直追求→永久的 |
