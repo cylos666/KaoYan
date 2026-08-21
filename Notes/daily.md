@@ -899,3 +899,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 3 个（anguish, automobile, perpetual）+ 复现 20 个（hail, extent, headline, obsession, meditation, dispute, snobbish, preceding, grave, hay, reproach, shuttle, deter, resort, concession, detain, scrutiny, contemporary, lofty, curb） | `Words.md` |
+
+---
+
+## 2026-08-21
+
+### 🔁 复习
+
+- 单词：8/20 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 5 个（mature, loan, investment, lumber, banner）+ 复现 16 个（reclaim, complement, refrain, orthodox, versatile, discharge, erect, nuisance, cripple, layoff, controversy, lodge, hound, acquaintance, stiff, verdict） | `Words.md` |
