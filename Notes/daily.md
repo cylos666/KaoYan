@@ -913,3 +913,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 5 个（mature, loan, investment, lumber, banner）+ 复现 16 个（reclaim, complement, refrain, orthodox, versatile, discharge, erect, nuisance, cripple, layoff, controversy, lodge, hound, acquaintance, stiff, verdict） | `Words.md` |
+
+---
+
+## 2026-08-22
+
+### 🔁 复习
+
+- 单词：8/21 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 2 个（demonstrate, substantial）+ 复现 17 个（assign, deplete, hitherto, triumph, persevere, dissipate, gloomy, scorn, paralyze, veto, eloquent, retort, lure, contrive, prevail, undo, hamper） | `Words.md` |

@@ -2569,3 +2569,21 @@
 | | investment | /ɪnˈvestmənt/ | n. 投资；投资额；<br>投入 | make an investment 进行投资<br>return on investment 投资回报<br>foreign investment 外国投资<br>invest v. 投资 | The project requires a large **investment** of time and money. （这个项目需要大量时间和金钱的投入。）<br>Education is a wise **investment** in the future. （教育是对未来的明智投资。）<br><br>🔍 **近义**：funding（资金）/ stake（股份）/ outlay（支出）· **易混**：investment vs invest（投资，动词）vs investigation（调查）· 词根：in-进入 + vest-衣 + -ment → 投入 |
 | | lumber | /ˈlʌmbər/ | n. 木材，木料<br>v. 笨重地移动；<br>伐木 | lumber industry 木材业<br>lumberjack 伐木工人<br>lumber along 笨重地前进 | The room was filled with **lumber** for construction. （房间里堆满了建筑木材。）<br>The bear **lumbered** through the forest. （熊笨重地穿过森林。）<br><br>🔍 **近义**：timber（木材）/ wood（木头）/ plod（沉重地走）· **易混**：lumber vs number（数字）vs lumber ≠ lumber（≠ lumber vs limber 柔软的）· 一词多义：木材 / 笨重地移动 |
 | | banner | /ˈbænər/ | n. 横幅，旗帜；<br>标语<br>adj. 极好的，出色的 | banner year 极好的一年<br>banner headline 通栏大标题<br>under the banner of 以…的名义/旗帜下<br>banner ad 横幅广告 | The protesters carried **banners** with slogans. （抗议者举着写有口号的横幅。）<br>Last year was a **banner** year for the company. （去年是公司的丰收年。）<br><br>🔍 **近义**：flag（旗帜）/ streamer（横幅）/ poster（海报）· **易混**：banner vs ban（禁止）vs banner ≠ banner（≠ banner vs manner 方式）· 一词多义：横幅 / 极好的 |
+| 2026-08-22 | assign (复现) | /əˈsaɪn/ | v. 分配，分派；指定，委派 | assign sb to do 分派某人做<br>assign tasks 分配任务 | Each student was **assigned** a different topic. |
+| | deplete (复现) | /dɪˈpliːt/ | v. 耗尽，大量减少 | deplete resources 耗尽资源<br>depletion n. 耗竭 | The drought **depleted** the water supply. |
+| | hitherto (复现) | /ˌhɪðərˈtuː/ | adv. 迄今，至今（正式） | hitherto unknown 此前未知的 | The discovery revealed a **hitherto** unknown species. |
+| | triumph (复现) | /ˈtraɪʌmf/ | n. 胜利，成功<br>v. 获胜 | triumph over 战胜<br>in triumph 得意洋洋地 | Justice **triumphed** over evil. |
+| | persevere (复现) | /ˌpɜːrsəˈvɪr/ | v. 坚持不懈，锲而不舍 | persevere with/in 坚持做 | She **persevered** with her studies. |
+| | dissipate (复现) | /ˈdɪsɪpeɪt/ | v. 消散，驱散；挥霍 | dissipate the fog 驱散雾气 | The fog quickly **dissipated**. |
+| | gloomy (复现) | /ˈɡluːmi/ | adj. 阴暗的；沮丧的，悲观的 | gloomy outlook 悲观前景 | He felt **gloomy** about his prospects. |
+| | scorn (复现) | /skɔːrn/ | n./v. 鄙视，轻蔑 | pour scorn on 嗤之以鼻<br>scorn to do 不屑做 | She poured **scorn** on his proposal. |
+| | paralyze (复现) | /ˈpærəlaɪz/ | v. 使瘫痪，使麻痹 | be paralyzed with fear 吓呆了 | The strike **paralyzed** the city. |
+| | veto (复现) | /ˈviːtoʊ/ | n./v. 否决；否决权 | exercise the veto 行使否决权<br>veto a bill 否决法案 | The president **vetoed** the bill. |
+| | eloquent (复现) | /ˈeləkwənt/ | adj. 雄辩的，有口才的 | eloquent speech 雄辩的演讲<br>eloquence n. 口才 | She delivered an **eloquent** speech. |
+| | retort (复现) | /rɪˈtɔːrt/ | v./n. 反驳，回嘴 | retort that 反驳说<br>quick retort 迅速回击 | "None of your business," she **retorted**. |
+| | lure (复现) | /lʊr/ | n. 诱惑，吸引力<br>v. 引诱，吸引 | the lure of …的诱惑<br>lure sb into doing 引诱某人做 | He was **lured** into a trap. |
+| | contrive (复现) | /kənˈtraɪv/ | v. 设法做到；策划 | contrive to do 设法做<br>contrived 做作的 | He **contrived** to escape. |
+| | prevail (复现) | /prɪˈveɪl/ | v. 盛行；获胜，占优势 | prevail over 战胜<br>prevailing adj. 盛行的 | Justice will eventually **prevail**. |
+| | undo (复现) | /ʌnˈduː/ | v. 解开；撤销；毁掉 | undo a button 解扣子<br>undo the damage 挽回损失 | The scandal **undid** years of work. |
+| | demonstrate | /ˈdemənstreɪt/ | v. 证明，论证；<br>演示，示范；示威 | demonstrate that 证明…<br>demonstrate a technique 演示技术<br>demonstrate against 游行反对<br>demonstration n. 证明；示威 | The results **demonstrate** the effectiveness of the drug. （结果证明了这种药的有效性。）<br>She **demonstrated** how to use the machine. （她演示了如何使用这台机器。）<br><br>🔍 **近义**：prove（证明）/ show（展示）/ display（演示）· **易混**：demonstrate vs demonstrable（可证明的）vs demonstrate ≠ demonstrate（≠ demonstrate vs remonstrate 抗议）· 词根：de-完全 + monstr-展示 + -ate → 完全展示→证明 |
+| | substantial | /səbˈstænʃl/ | adj. 大量的，可观的；<br>实质的，重大的；坚固的 | substantial amount 大量<br>substantial progress 重大进展<br>substantial evidence 确凿证据<br>substantial meal 丰盛的一餐 | They made a **substantial** investment in the project. （他们对项目进行了大量投资。）<br>There is **substantial** evidence to support the theory. （有确凿证据支持这一理论。）<br><br>🔍 **近义**：significant（重大的）/ considerable（可观的）/ sizable（相当大的）· **反义**：insubstantial（不实质的）/ trivial（微不足道的）· **易混**：substantial vs substance（物质，名词）vs substantiate（证实）· 词根：sub-下 + stant-站立 + -ial → 站得住的→实质的 |
