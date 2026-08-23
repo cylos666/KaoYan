@@ -2587,3 +2587,28 @@
 | | undo (复现) | /ʌnˈduː/ | v. 解开；撤销；毁掉 | undo a button 解扣子<br>undo the damage 挽回损失 | The scandal **undid** years of work. |
 | | demonstrate | /ˈdemənstreɪt/ | v. 证明，论证；<br>演示，示范；示威 | demonstrate that 证明…<br>demonstrate a technique 演示技术<br>demonstrate against 游行反对<br>demonstration n. 证明；示威 | The results **demonstrate** the effectiveness of the drug. （结果证明了这种药的有效性。）<br>She **demonstrated** how to use the machine. （她演示了如何使用这台机器。）<br><br>🔍 **近义**：prove（证明）/ show（展示）/ display（演示）· **易混**：demonstrate vs demonstrable（可证明的）vs demonstrate ≠ demonstrate（≠ demonstrate vs remonstrate 抗议）· 词根：de-完全 + monstr-展示 + -ate → 完全展示→证明 |
 | | substantial | /səbˈstænʃl/ | adj. 大量的，可观的；<br>实质的，重大的；坚固的 | substantial amount 大量<br>substantial progress 重大进展<br>substantial evidence 确凿证据<br>substantial meal 丰盛的一餐 | They made a **substantial** investment in the project. （他们对项目进行了大量投资。）<br>There is **substantial** evidence to support the theory. （有确凿证据支持这一理论。）<br><br>🔍 **近义**：significant（重大的）/ considerable（可观的）/ sizable（相当大的）· **反义**：insubstantial（不实质的）/ trivial（微不足道的）· **易混**：substantial vs substance（物质，名词）vs substantiate（证实）· 词根：sub-下 + stant-站立 + -ial → 站得住的→实质的 |
+| 2026-08-23 | genuine (复现) | /ˈdʒenjuɪn/ | adj. 真正的，真实的；真诚的 | genuine leather 真皮<br>genuine interest 真正的兴趣 | The handbag is made of **genuine** leather. |
+| | outlook (复现) | /ˈaʊtlʊk/ | n. 前景，展望；观点 | economic outlook 经济前景<br>outlook on life 人生观 | The economic **outlook** is promising. |
+| | pile (复现) | /paɪl/ | n. 一堆，一摞；大量<br>v. 堆积 | a pile of 一堆<br>pile up 堆积 | There is a **pile** of laundry. |
+| | tide (复现) | /taɪd/ | n. 潮汐；潮流，趋势 | high/low tide 涨/退潮<br>turn the tide 扭转局势 | The **tide** is coming in. |
+| | bleak (复现) | /bliːk/ | adj. 阴冷的；黯淡的 | bleak future 黯淡前景<br>bleak outlook 悲观前景 | The future looks **bleak**. |
+| | expertise (复现) | /ˌekspɜːrˈtiːz/ | n. 专长，专门知识 | technical expertise 技术专长<br>expert n. 专家 | She has **expertise** in law. |
+| | obsolete (复现) | /ˌɑːbsəˈliːt/ | adj. 淘汰的，过时的 | become obsolete 过时<br>render sth obsolete 使…淘汰 | CDs have become **obsolete**. |
+| | expire (复现) | /ɪkˈspaɪər/ | v. 到期，失效；逝世 | expire date 到期日<br>contract expires 合同到期 | My passport will **expire** next month. |
+| | coordinate (复现) | /koʊˈɔːrdɪneɪt/ | v. 协调，配合<br>n. 坐标 | coordinate with 与…协调<br>GPS coordinates 坐标 | We need to **coordinate** our schedules. |
+| | strenuous (复现) | /ˈstrenjuəs/ | adj. 费力的，艰苦的；奋力的 | strenuous exercise 剧烈运动 | Avoid **strenuous** exercise after meals. |
+| | ethic (复现) | /ˈeθɪk/ | n. 伦理，道德准则 | work ethic 职业道德 | She has a strong work **ethic**. |
+| | static (复现) | /ˈstætɪk/ | adj. 静态的，不变的<br>n. 静电 | static electricity 静电<br>remain static 保持不变 | The economy is not **static**. |
+| | mortal (复现) | /ˈmɔːrtl/ | adj. 终有一死的；致命的<br>n. 凡人 | mortal danger 致命危险<br>mortal enemy 死敌 | All human beings are **mortal**. |
+| | odds (复现) | /ɑːdz/ | n. 可能性，几率；逆境 | against all odds 克服万难<br>at odds with 与…不一致 | **Odds** are that it will rain. |
+| | explicit (复现) | /ɪkˈsplɪsɪt/ | adj. 明确的，清楚的；露骨的 | explicit instructions 明确指示 | The teacher gave **explicit** instructions. |
+| | conspicuous (复现) | /kənˈspɪkjuəs/ | adj. 显眼的，引人注目的 | conspicuous absence 显眼缺席 | Her red coat was highly **conspicuous**. |
+| | stalk (复现) | /stɔːk/ | n. 茎，秆<br>v. 跟踪，潜行 | plant stalk 植物茎<br>stalk a victim 跟踪受害者 | The hunter **stalked** the deer. |
+| | liable (复现) | /ˈlaɪəbl/ | adj. 有责任的；易于…的 | liable for 对…负责<br>liable to do 易于做 | The company is **liable** for the damage. |
+| | preclude (复现) | /prɪˈkluːd/ | v. 阻止，排除；使不可能 | preclude sb from doing 阻止某人做 | His injury **precluded** him from playing. |
+| | delegate (复现) | /ˈdelɪɡət/ n.<br>/ˈdelɪɡeɪt/ v. | n. 代表<br>v. 委派，授权 | delegate tasks 委派任务<br>delegate authority 下放权力 | Good managers **delegate** tasks. |
+| | cohesive (复现) | /koʊˈhiːsɪv/ | adj. 有凝聚力的；连贯的 | cohesive group 有凝聚力团体<br>cohesive force 凝聚力 | The team needs to be more **cohesive**. |
+| | refine | /rɪˈfaɪn/ | v. 精炼，提纯；<br>改进，完善 | refine oil 炼油<br>refine a theory 完善理论<br>refined adj. 精炼的；文雅的<br>refinement n. 改进 | The company **refines** crude oil. （这家公司提炼原油。）<br>They **refined** the design after testing. （测试后他们完善了设计。）<br><br>🔍 **近义**：purify（提纯）/ improve（改进）/ polish（打磨）· **易混**：refine vs define（定义）vs confine（限制）· 词根：re-再 + fine-精细 → 使其更精细→精炼 |
+| | acquaint | /əˈkweɪnt/ | v. 使熟悉，使了解 | acquaint oneself with 使自己熟悉<br>be acquainted with 与…相识；熟悉<br>acquaintance n. 熟人；认识 | You need to **acquaint** yourself with the rules. （你需要熟悉这些规则。）<br>I'm not **acquainted with** the details. （我对细节不太熟悉。）<br><br>🔍 **近义**：familiarize（使熟悉）/ inform（告知）/ introduce（介绍）· **易混**：acquaint vs acquaintance（熟人，名词）vs acquainted（熟悉的）· 词根：ac-向 + quaint-知道 → 使知道→使熟悉 |
+| | resemblance | /rɪˈzembləns/ | n. 相似，相似之处 | bear a resemblance to 与…相似<br>striking resemblance 惊人的相似<br>family resemblance 家族相似性<br>resemble v. 像 | She bears a strong **resemblance** to her mother. （她和她母亲长得很像。）<br>There is a striking **resemblance** between the twins. （这对双胞胎惊人地相似。）<br><br>🔍 **近义**：similarity（相似性）/ likeness（相似）/ similarity（相似之处）· **反义**：difference（差异）· **易混**：resemblance vs resemblance ≠ resemblance（≠ resemblance vs assemblage 集合）· 词根：re-再 + semblance（相像） |
+| | ego | /ˈiːɡoʊ/ | n. 自我，自尊；<br>自负，自我主义 | ego trip 自我表现<br>ego boost 自尊心的提升<br>alter ego 另一个自我<br>egotistical adj. 自负的 | Winning the award boosted his **ego**. （获奖增强了他的自尊心。）<br>His large **ego** makes him hard to work with. （他的自负使他很难共事。）<br><br>🔍 **近义**：self-esteem（自尊）/ self-importance（自大）/ vanity（虚荣）· **反义**：humility（谦逊）· **易混**：ego vs eggo（华夫饼品牌）vs ego ≠ ego（≠ ego vs ago 之前）· 词根：拉丁语"我"→自我 |

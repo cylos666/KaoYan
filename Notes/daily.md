@@ -927,3 +927,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 2 个（demonstrate, substantial）+ 复现 17 个（assign, deplete, hitherto, triumph, persevere, dissipate, gloomy, scorn, paralyze, veto, eloquent, retort, lure, contrive, prevail, undo, hamper） | `Words.md` |
+
+---
+
+## 2026-08-23
+
+### 🔁 复习
+
+- 单词：8/22 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 4 个（refine, acquaint, resemblance, ego）+ 复现 21 个（genuine, outlook, pile, tide, bleak, expertise, obsolete, expire, coordinate, strenuous, ethic, static, mortal, odds, explicit, conspicuous, stalk, liable, preclude, delegate, cohesive） | `Words.md` |
