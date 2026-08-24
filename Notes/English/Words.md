@@ -2612,3 +2612,31 @@
 | | acquaint | /əˈkweɪnt/ | v. 使熟悉，使了解 | acquaint oneself with 使自己熟悉<br>be acquainted with 与…相识；熟悉<br>acquaintance n. 熟人；认识 | You need to **acquaint** yourself with the rules. （你需要熟悉这些规则。）<br>I'm not **acquainted with** the details. （我对细节不太熟悉。）<br><br>🔍 **近义**：familiarize（使熟悉）/ inform（告知）/ introduce（介绍）· **易混**：acquaint vs acquaintance（熟人，名词）vs acquainted（熟悉的）· 词根：ac-向 + quaint-知道 → 使知道→使熟悉 |
 | | resemblance | /rɪˈzembləns/ | n. 相似，相似之处 | bear a resemblance to 与…相似<br>striking resemblance 惊人的相似<br>family resemblance 家族相似性<br>resemble v. 像 | She bears a strong **resemblance** to her mother. （她和她母亲长得很像。）<br>There is a striking **resemblance** between the twins. （这对双胞胎惊人地相似。）<br><br>🔍 **近义**：similarity（相似性）/ likeness（相似）/ similarity（相似之处）· **反义**：difference（差异）· **易混**：resemblance vs resemblance ≠ resemblance（≠ resemblance vs assemblage 集合）· 词根：re-再 + semblance（相像） |
 | | ego | /ˈiːɡoʊ/ | n. 自我，自尊；<br>自负，自我主义 | ego trip 自我表现<br>ego boost 自尊心的提升<br>alter ego 另一个自我<br>egotistical adj. 自负的 | Winning the award boosted his **ego**. （获奖增强了他的自尊心。）<br>His large **ego** makes him hard to work with. （他的自负使他很难共事。）<br><br>🔍 **近义**：self-esteem（自尊）/ self-importance（自大）/ vanity（虚荣）· **反义**：humility（谦逊）· **易混**：ego vs eggo（华夫饼品牌）vs ego ≠ ego（≠ ego vs ago 之前）· 词根：拉丁语"我"→自我 |
+| 2026-08-24 | moderate (复现) | /ˈmɑːdərət/ | adj. 适度的，中等的；温和的<br>v. 缓和 | moderate exercise 适度运动<br>moderate views 温和观点 | A **moderate** amount of exercise is good. |
+| | thrive (复现) | /θraɪv/ | v. 茁壮成长，繁荣；兴旺 | thrive on 靠…繁荣<br>thriving business 兴旺的生意 | The plant **thrives** in warm conditions. |
+| | transient (复现) | /ˈtrænziənt/ | adj. 短暂的，转瞬即逝的；临时的 | transient population 流动人口 | The beauty of cherry blossoms is **transient**. |
+| | specialist (复现) | /ˈspeʃəlɪst/ | n. 专家，专科医生 | specialist in 擅长…的专家<br>eye specialist 眼科专家 | She is a **specialist** in heart disease. |
+| | toil (复现) | /tɔɪl/ | v. 辛苦工作，苦干<br>n. 苦工 | toil away 埋头苦干<br>years of toil 多年辛苦 | They **toiled** in the fields. |
+| | lump (复现) | /lʌmp/ | n. 块，肿块<br>v. 归并 | a lump of 一块<br>lump sum 一次性付款 | He found a **lump** on his neck. |
+| | inflict (复现) | /ɪnˈflɪkt/ | v. 使遭受，施加 | inflict sth on sb 使某人遭受<br>inflict damage 造成损害 | The storm **inflicted** widespread damage. |
+| | grope (复现) | /ɡroʊp/ | v. 摸索，探索 | grope for 摸索着找<br>grope in the dark 黑暗中摸索 | He **groped** for the light switch. |
+| | conscience (复现) | /ˈkɑːnʃəns/ | n. 良心，良知 | guilty conscience 内疚<br>clear conscience 问心无愧 | His **conscience** wouldn't let him lie. |
+| | trifle (复现) | /ˈtraɪfl/ | n. 琐事，小事<br>v. 轻视 | a trifle 有点儿<br>trifle with 轻视 | Don't waste time on **trifles**. |
+| | adjacent (复现) | /əˈdʒeɪsnt/ | adj. 邻近的，毗连的 | adjacent to 与…相邻 | They stayed in **adjacent** rooms. |
+| | prudent (复现) | /ˈpruːdnt/ | adj. 谨慎的，审慎的，精明的 | prudent investment 谨慎投资 | A **prudent** investor considers risks. |
+| | brisk (复现) | /brɪsk/ | adj. 轻快的；兴旺的 | brisk walk 快步走<br>brisk trade 生意兴隆 | We took a **brisk** walk. |
+| | inhibit (复现) | /ɪnˈhɪbɪt/ | v. 抑制，阻止；使拘束 | inhibit sb from doing 阻止某人做 | The drug **inhibits** the growth. |
+| | confidential (复现) | /ˌkɑːnfɪˈdenʃl/ | adj. 机密的，保密的 | confidential document 机密文件 | All **confidential** documents must be locked. |
+| | impart (复现) | /ɪmˈpɑːrt/ | v. 传授，告知；赋予 | impart knowledge 传授知识<br>impart a flavor 赋予风味 | A good teacher can **impart** knowledge. |
+| | parasite (复现) | /ˈpærəsaɪt/ | n. 寄生虫；靠他人为生者 | intestinal parasite 肠道寄生虫 | Fleas are **parasites**. |
+| | sophomore (复现) | /ˈsɑːfəmɔːr/ | n.（大学）二年级学生 | sophomore year 大二 | He is a **sophomore** at Harvard. |
+| | discern (复现) | /dɪˈsɜːrn/ | v. 辨别，识别；觉察出 | discern A from B 区分A与B | It is difficult to **discern** the truth. |
+| | allocate (复现) | /ˈæləkeɪt/ | v. 分配，拨出 | allocate resources 分配资源<br>allocate funds to 拨款给 | The government **allocated** funds. |
+| | contingent (复现) | /kənˈtɪndʒənt/ | adj. 依条件而定的<br>n. 分遣队 | be contingent on 视…而定 | Further investment is **contingent** on performance. |
+| | ward (复现) | /wɔːrd/ | n. 病房；行政区<br>v. 防止，避开 | maternity ward 产科病房<br>ward off 防止，避开 | Vitamin C helps **ward off** colds. |
+| | fabricate (复现) | /ˈfæbrɪkeɪt/ | v. 制造；捏造，编造 | fabricate evidence 捏造证据 | He was accused of **fabricating** evidence. |
+| | guild (复现) | /ɡɪld/ | n. 行会，同业公会；协会 | trade guild 商业行会 | Craftsmen formed **guilds**. |
+| | readily | /ˈredɪli/ | adv. 乐意地，欣然地；<br>容易地；迅速地 | readily available 随时可得<br>readily agree 欣然同意<br>readily admit 爽快承认 | The information is **readily** available online. （这些信息很容易在网上找到。）<br>She **readily** agreed to help. （她欣然同意帮忙。）<br><br>🔍 **近义**：willingly（乐意地）/ easily（容易地）/ promptly（迅速地）· **反义**：reluctantly（不情愿地）· **易混**：readily vs ready（准备好的，形容词）vs readily ≠ readily（≠ readily vs really 真正地）· 词根：ready + -ly → 准备好地→乐意地 |
+| | contradict | /ˌkɑːntrəˈdɪkt/ | v. 反驳，驳斥；<br>与…矛盾 | contradict sb 反驳某人<br>contradict the evidence 与证据矛盾<br>contradict oneself 自相矛盾<br>contradiction n. 矛盾 | The two reports **contradict** each other. （这两份报告互相矛盾。）<br>He **contradicted** his earlier statement. （他反驳了自己早先的说法。）<br><br>🔍 **近义**：deny（否认）/ refute（驳斥）/ oppose（反对）· **反义**：confirm（证实）/ support（支持）· **易混**：contradict vs contrary（相反的）vs contract（合同）· 词根：contra-相反 + dict-说 → 说相反的话→反驳 |
+| | carve | /kɑːrv/ | v. 雕刻，刻；<br>切（肉）；开辟 | carve a statue 雕刻雕像<br>carve out 开辟，开创<br>carve up 瓜分，分割<br>carving n. 雕刻品 | He **carved** a wooden bird. （他雕刻了一只木鸟。）<br>She **carved** out a successful career. （她开创了成功的事业。）<br><br>🔍 **近义**：engrave（雕刻）/ sculpt（雕塑）/ cut（切割）· **易混**：carve vs curve（曲线）vs carve ≠ carve（≠ carve vs car 汽车）· 一词多义：雕刻 / 切肉 / 开辟 |
+| | concurrent | /kənˈkɜːrənt/ | adj. 同时发生的，并存的；<br>一致的 | concurrent events 同时发生的事件<br>concurrent sentences（法律）合并刑期<br>concurrently adv. 同时地<br>concur v. 同意；同时发生 | The two programs ran **concurrently**. （两个程序同时运行。）<br>He received **concurrent** prison sentences. （他被判合并执行的刑期。）<br><br>🔍 **近义**：simultaneous（同时的）/ parallel（并行的）/ coinciding（同时发生的）· **反义**：sequential（顺序的）/ successive（连续的）· **易混**：concurrent vs current（当前的）vs concurrent ≠ concurrent（≠ concurrent vs opponent 对手）· 词根：con-共同 + curr-跑 + -ent → 一起跑→同时发生 |
