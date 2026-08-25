@@ -955,3 +955,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 4 个（readily, contradict, carve, concurrent）+ 复现 24 个（moderate, thrive, transient, specialist, toil, lump, inflict, grope, conscience, trifle, adjacent, prudent, brisk, inhibit, confidential, impart, parasite, sophomore, discern, allocate, contingent, ward, fabricate, guild） | `Words.md` |
+
+---
+
+## 2026-08-25
+
+### 🔁 复习
+
+- 单词：8/24 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 1 个（precision）+ 复现 12 个（intrinsic, dynamic, grief, democratic, sketch, fierce, appraisal, drawback, emit, dual, enlighten, stipulate） | `Words.md` |

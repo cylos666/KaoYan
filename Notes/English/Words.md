@@ -2640,3 +2640,16 @@
 | | contradict | /ˌkɑːntrəˈdɪkt/ | v. 反驳，驳斥；<br>与…矛盾 | contradict sb 反驳某人<br>contradict the evidence 与证据矛盾<br>contradict oneself 自相矛盾<br>contradiction n. 矛盾 | The two reports **contradict** each other. （这两份报告互相矛盾。）<br>He **contradicted** his earlier statement. （他反驳了自己早先的说法。）<br><br>🔍 **近义**：deny（否认）/ refute（驳斥）/ oppose（反对）· **反义**：confirm（证实）/ support（支持）· **易混**：contradict vs contrary（相反的）vs contract（合同）· 词根：contra-相反 + dict-说 → 说相反的话→反驳 |
 | | carve | /kɑːrv/ | v. 雕刻，刻；<br>切（肉）；开辟 | carve a statue 雕刻雕像<br>carve out 开辟，开创<br>carve up 瓜分，分割<br>carving n. 雕刻品 | He **carved** a wooden bird. （他雕刻了一只木鸟。）<br>She **carved** out a successful career. （她开创了成功的事业。）<br><br>🔍 **近义**：engrave（雕刻）/ sculpt（雕塑）/ cut（切割）· **易混**：carve vs curve（曲线）vs carve ≠ carve（≠ carve vs car 汽车）· 一词多义：雕刻 / 切肉 / 开辟 |
 | | concurrent | /kənˈkɜːrənt/ | adj. 同时发生的，并存的；<br>一致的 | concurrent events 同时发生的事件<br>concurrent sentences（法律）合并刑期<br>concurrently adv. 同时地<br>concur v. 同意；同时发生 | The two programs ran **concurrently**. （两个程序同时运行。）<br>He received **concurrent** prison sentences. （他被判合并执行的刑期。）<br><br>🔍 **近义**：simultaneous（同时的）/ parallel（并行的）/ coinciding（同时发生的）· **反义**：sequential（顺序的）/ successive（连续的）· **易混**：concurrent vs current（当前的）vs concurrent ≠ concurrent（≠ concurrent vs opponent 对手）· 词根：con-共同 + curr-跑 + -ent → 一起跑→同时发生 |
+| 2026-08-25 | intrinsic (复现) | /ɪnˈtrɪnsɪk/ | adj. 固有的，内在的，本质的 | intrinsic value 内在价值<br>intrinsic to …所固有的 | Honesty is an **intrinsic** part of his character. |
+| | dynamic (复现) | /daɪˈnæmɪk/ | adj. 动态的；充满活力的<br>n. 动力 | dynamic economy 充满活力的经济 | The company has a **dynamic** young team. |
+| | grief (复现) | /ɡriːf/ | n. 悲伤，悲痛 | come to grief 失败<br>good grief 天哪 | She was overcome with **grief**. |
+| | democratic (复现) | /ˌdeməˈkrætɪk/ | adj. 民主的 | democratic election 民主选举 | Free speech is a **democratic** right. |
+| | sketch (复现) | /sketʃ/ | n. 素描；概述<br>v. 画素描；简述 | sketch map 示意图<br>sketch out 简述 | She drew a quick **sketch**. |
+| | fierce (复现) | /fɪrs/ | adj. 激烈的，凶猛的；强烈的 | fierce competition 激烈竞争 | There is **fierce** competition. |
+| | appraisal (复现) | /əˈpreɪzl/ | n. 评价，评估 | performance appraisal 绩效评估 | She had her annual **appraisal**. |
+| | drawback (复现) | /ˈdrɔːbæk/ | n. 缺点，弊端；不利条件 | major drawback 主要缺点 | The only **drawback** is the cost. |
+| | emit (复现) | /iˈmɪt/ | v. 发出，排放，散发 | emit light/gas 发光/排气<br>emission n. 排放 | The factory **emits** toxic fumes. |
+| | dual (复现) | /ˈduːəl/ | adj. 双重的，两部分的 | dual purpose 双重目的<br>dual citizenship 双重国籍 | She holds **dual** citizenship. |
+| | enlighten (复现) | /ɪnˈlaɪtn/ | v. 启发，启迪 | enlighten sb about 启迪某人<br>enlightenment n. 启蒙 | Can you **enlighten** me on this topic? |
+| | stipulate (复现) | /ˈstɪpjuleɪt/ | v. 规定，明确要求 | stipulate that 规定<br>as stipulated in 按照…规定 | The contract **stipulates** payment within 30 days. |
+| | precision | /prɪˈsɪʒn/ | n. 精确，精确度；<br>精密 | precision instrument 精密仪器<br>with precision 精确地<br>precision work 精细的工作<br>precise adj. 精确的 | The work requires great **precision**. （这项工作需要极高的精确度。）<br>He aimed the arrow **with precision**. （他精确地瞄准了箭。）<br><br>🔍 **近义**：accuracy（准确性）/ exactness（精确）/ sharpness（敏锐）· **反义**：imprecision（不精确）/ vagueness（模糊）· **易混**：precision vs precise（精确的，形容词）vs decision（决定）· 词根：pre-前 + cis-切 + -ion → 切得精准→精确 |
