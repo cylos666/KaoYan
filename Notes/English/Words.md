@@ -2653,3 +2653,30 @@
 | | enlighten (复现) | /ɪnˈlaɪtn/ | v. 启发，启迪 | enlighten sb about 启迪某人<br>enlightenment n. 启蒙 | Can you **enlighten** me on this topic? |
 | | stipulate (复现) | /ˈstɪpjuleɪt/ | v. 规定，明确要求 | stipulate that 规定<br>as stipulated in 按照…规定 | The contract **stipulates** payment within 30 days. |
 | | precision | /prɪˈsɪʒn/ | n. 精确，精确度；<br>精密 | precision instrument 精密仪器<br>with precision 精确地<br>precision work 精细的工作<br>precise adj. 精确的 | The work requires great **precision**. （这项工作需要极高的精确度。）<br>He aimed the arrow **with precision**. （他精确地瞄准了箭。）<br><br>🔍 **近义**：accuracy（准确性）/ exactness（精确）/ sharpness（敏锐）· **反义**：imprecision（不精确）/ vagueness（模糊）· **易混**：precision vs precise（精确的，形容词）vs decision（决定）· 词根：pre-前 + cis-切 + -ion → 切得精准→精确 |
+| 2026-08-26 | paddle (复现) | /ˈpædl/ | n. 桨，短桨<br>v. 划桨；涉水 | paddle a canoe 划独木舟<br>paddle in the water 涉水 | They **paddled** the canoe down the river. |
+| | instance (复现) | /ˈɪnstəns/ | n. 例子，实例；情况 | for instance 例如<br>in this instance 在这种情况下 | **For instance**, the smartphone has changed communication. |
+| | turnover (复现) | /ˈtɜːrnoʊvər/ | n. 营业额；人员流动率 | high turnover 高流动率<br>staff turnover 员工流失率 | The company reported a **turnover** of $10 million. |
+| | omit (复现) | /əˈmɪt/ | v. 省略，遗漏 | omit to do 忘记做<br>omission n. 遗漏 | Don't **omit** any details. |
+| | chamber (复现) | /ˈtʃeɪmbər/ | n. 房间；议院；腔 | chamber of commerce 商会<br>heart chamber 心腔 | The bill was approved by the lower **chamber**. |
+| | bait (复现) | /beɪt/ | n. 鱼饵；诱饵<br>v. 装饵；引诱 | take the bait 上钩<br>bait sb into doing 引诱某人做 | Don't **take the bait** — he's provoking you. |
+| | graze (复现) | /ɡreɪz/ | v. 放牧；擦伤；擦过 | cattle graze 放牛<br>graze one's knee 擦伤膝盖 | Sheep were **grazing** on the hillside. |
+| | corrupt (复现) | /kəˈrʌpt/ | adj. 腐败的<br>v. 使腐败 | corrupt official 腐败官员<br>corruption n. 腐败 | The **corrupt** official was jailed. |
+| | eminent (复现) | /ˈemɪnənt/ | adj. 杰出的，卓越的 | eminent scholar 杰出学者<br>eminent domain 征用权 | He is an **eminent** scientist. |
+| | dividend (复现) | /ˈdɪvɪdend/ | n. 股息，红利；收益 | pay dividends 分红；带来回报 | Hard work will pay **dividends**. |
+| | bulletin (复现) | /ˈbʊlətɪn/ | n. 公告，公报；新闻简报 | news bulletin 新闻简报<br>bulletin board 公告板 | The hospital issues a daily **bulletin**. |
+| | kidnap (复现) | /ˈkɪdnæp/ | v. 绑架，劫持 | kidnap sb for ransom 绑票勒索 | The businessman was **kidnapped**. |
+| | ascertain (复现) | /ˌæsərˈteɪn/ | v. 查明，确定，弄清 | ascertain the facts 查明事实 | The police are trying to **ascertain** the cause. |
+| | bulk (复现) | /bʌlk/ | n. 大量；大部分；大块 | the bulk of 大部分<br>buy in bulk 大量购买 | The **bulk** of the work was done by volunteers. |
+| | resolute (复现) | /ˈrezəluːt/ | adj. 坚决的，坚定的 | resolute determination 坚定决心 | She remained **resolute** in her decision. |
+| | ribbon (复现) | /ˈrɪbən/ | n. 丝带，缎带 | ribbon cutting 剪彩 | She tied a red **ribbon** on the gift. |
+| | startle (复现) | /ˈstɑːrtl/ | v. 使吃惊，使吓一跳 | be startled by 被…吓一跳 | A sudden noise **startled** her. |
+| | handicap (复现) | /ˈhændikæp/ | n. 障碍，不利条件<br>v. 妨碍 | mental/physical handicap 身心障碍 | Lack of funding is a serious **handicap**. |
+| | diploma (复现) | /dɪˈploʊmə/ | n. 文凭，毕业证书 | college diploma 大学文凭 | She received her **diploma**. |
+| | wool (复现) | /wʊl/ | n. 羊毛；毛线 | wool sweater 羊毛衫 | This scarf is made of pure **wool**. |
+| | dismay (复现) | /dɪsˈmeɪ/ | n./v. 沮丧，惊愕，失望 | to one's dismay 令某人沮丧的是 | To his **dismay**, he failed the exam. |
+| | pasture (复现) | /ˈpæstʃər/ | n. 牧场<br>v. 放牧 | green pastures 绿草牧场 | Sheep were grazing in the **pasture**. |
+| | source | /sɔːrs/ | n. 来源，出处；<br>源头，根源<br>v. 从…获得 | source of income 收入来源<br>source of energy 能量来源<br>reliable source 可靠来源<br>at the source 在源头 | The river has its **source** in the mountains. （这条河的源头在山区。）<br>They used a reliable **source** of information. （他们使用了可靠的信息来源。）<br><br>🔍 **近义**：origin（起源）/ origin（来源）/ cause（原因）· **易混**：source vs sauce（酱汁）vs resource（资源）· 一词多义：来源 / 源头 / 出处 |
+| | layman | /ˈleɪmən/ | n. 外行，门外汉；<br>俗人（非神职人员） | in layman's terms 用通俗的话说<br>layman's view 外行的看法<br>lay person 外行（同义） | **In layman's terms**, the machine converts heat to electricity. （用通俗的话说，这台机器把热转化为电。）<br>As a **layman**, he couldn't understand the technical jargon. （作为外行，他看不懂这些技术术语。）<br><br>🔍 **近义**：non-expert（非专家）/ amateur（业余者）/ outsider（局外人）· **反义**：expert（专家）/ specialist（专家）· **易混**：layman vs layoff（裁员）vs layman ≠ layman（≠ layman vs salesman 推销员）· 词根：lay（世俗的）+ man → 俗人→外行 |
+| | invade | /ɪnˈveɪd/ | v. 入侵，侵略；<br>涌入；侵犯 | invade a country 入侵某国<br>invade one's privacy 侵犯隐私<br>invade the market 涌入市场<br>invasion n. 入侵 | The army **invaded** the neighboring country. （军队入侵了邻国。）<br>Tourists **invaded** the small town in summer. （夏天游客涌入这个小镇。）<br><br>🔍 **近义**：attack（攻击）/ intrude（闯入）/ overrun（侵占）· **反义**：withdraw（撤退）/ retreat（撤退）· **易混**：invade vs invasion（入侵，名词）vs evade（逃避）· 词根：in-入 + vad-走 → 走进来→入侵 |
+| | zeal | /ziːl/ | n. 热情，热忱；<br>狂热 | zeal for 对…的热忱<br>religious zeal 宗教狂热<br>revolutionary zeal 革命热情<br>zealous adj. 热情的，狂热的 | She showed great **zeal** for her work. （她对工作表现出极大的热情。）<br>They worked with religious **zeal**. （他们以宗教般的狂热工作。）<br><br>🔍 **近义**：enthusiasm（热情）/ passion（激情）/ fervor（热忱）· **反义**：apathy（冷漠）/ indifference（冷漠）· **易混**：zeal vs seal（印章/海豹）vs zeal ≠ zeal（≠ zeal vs real 真实的）· 词根：zelos-热情 |
+| | orphan | /ˈɔːrfn/ | n. 孤儿<br>v. 使成为孤儿 | war orphan 战争孤儿<br>orphanage n. 孤儿院<br>be orphaned at 在…岁时成为孤儿 | The war left many children **orphans**. （战争使许多孩子成为孤儿。）<br>He was **orphaned** at the age of five. （他五岁时成为孤儿。）<br><br>🔍 **近义**：parentless child（无父母的孩子）· **易混**：orphan vs orphan ≠ orphan（≠ orphan vs organ 器官）· 注意发音 /ˈɔːrfn/，词中 h 不发音 |

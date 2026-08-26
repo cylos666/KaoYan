@@ -969,3 +969,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 1 个（precision）+ 复现 12 个（intrinsic, dynamic, grief, democratic, sketch, fierce, appraisal, drawback, emit, dual, enlighten, stipulate） | `Words.md` |
+
+---
+
+## 2026-08-26
+
+### 🔁 复习
+
+- 单词：8/25 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 5 个（source, layman, invade, zeal, orphan）+ 复现 22 个（paddle, instance, turnover, omit, chamber, bait, graze, corrupt, eminent, dividend, bulletin, kidnap, ascertain, bulk, resolute, ribbon, startle, handicap, diploma, wool, dismay, pasture） | `Words.md` |
