@@ -2680,3 +2680,22 @@
 | | invade | /ɪnˈveɪd/ | v. 入侵，侵略；<br>涌入；侵犯 | invade a country 入侵某国<br>invade one's privacy 侵犯隐私<br>invade the market 涌入市场<br>invasion n. 入侵 | The army **invaded** the neighboring country. （军队入侵了邻国。）<br>Tourists **invaded** the small town in summer. （夏天游客涌入这个小镇。）<br><br>🔍 **近义**：attack（攻击）/ intrude（闯入）/ overrun（侵占）· **反义**：withdraw（撤退）/ retreat（撤退）· **易混**：invade vs invasion（入侵，名词）vs evade（逃避）· 词根：in-入 + vad-走 → 走进来→入侵 |
 | | zeal | /ziːl/ | n. 热情，热忱；<br>狂热 | zeal for 对…的热忱<br>religious zeal 宗教狂热<br>revolutionary zeal 革命热情<br>zealous adj. 热情的，狂热的 | She showed great **zeal** for her work. （她对工作表现出极大的热情。）<br>They worked with religious **zeal**. （他们以宗教般的狂热工作。）<br><br>🔍 **近义**：enthusiasm（热情）/ passion（激情）/ fervor（热忱）· **反义**：apathy（冷漠）/ indifference（冷漠）· **易混**：zeal vs seal（印章/海豹）vs zeal ≠ zeal（≠ zeal vs real 真实的）· 词根：zelos-热情 |
 | | orphan | /ˈɔːrfn/ | n. 孤儿<br>v. 使成为孤儿 | war orphan 战争孤儿<br>orphanage n. 孤儿院<br>be orphaned at 在…岁时成为孤儿 | The war left many children **orphans**. （战争使许多孩子成为孤儿。）<br>He was **orphaned** at the age of five. （他五岁时成为孤儿。）<br><br>🔍 **近义**：parentless child（无父母的孩子）· **易混**：orphan vs orphan ≠ orphan（≠ orphan vs organ 器官）· 注意发音 /ˈɔːrfn/，词中 h 不发音 |
+| 2026-08-27 | amplify (复现) | /ˈæmplɪfaɪ/ | v. 放大，增强；详述 | amplify sound 放大声音<br>amplifier n. 放大器 | The microphone **amplifies** the voice. |
+| | consent (复现) | /kənˈsent/ | n. 同意，许可<br>v. 同意，允许 | give consent 给予同意<br>without consent 未经许可 | You cannot use the data without **consent**. |
+| | executive (复现) | /ɪɡˈzekjətɪv/ | n. 主管，高管<br>adj. 行政的，执行的 | chief executive 首席执行官<br>executive power 行政权 | She was promoted to a senior **executive**. |
+| | garment (复现) | /ˈɡɑːrmənt/ | n. 衣服，服装（正式） | garment industry 服装业 | The **garment** industry employs millions. |
+| | fleet (复现) | /fliːt/ | n. 舰队，船队；车队<br>adj. 快速的 | a fleet of 一队<br>naval fleet 海军舰队 | The navy sent a **fleet** of ships. |
+| | monarch (复现) | /ˈmɑːnərk/ | n. 君主，国王 | absolute monarch 专制君主<br>monarchy n. 君主制 | The **monarch** ruled for 50 years. |
+| | detach (复现) | /dɪˈtætʃ/ | v. 拆卸，使分离；派遣 | detach from 从…分离<br>detached adj. 客观的 | You can **detach** the hood from the jacket. |
+| | grim (复现) | /ɡrɪm/ | adj. 严峻的，冷酷的；阴沉的 | grim reality 严酷现实<br>grim news 坏消息 | The economic outlook is **grim**. |
+| | undermine (复现) | /ˌʌndərˈmaɪn/ | v. 削弱，逐渐损害 | undermine authority 削弱权威 | Criticism can **undermine** a child's confidence. |
+| | abdomen (复现) | /ˈæbdəmən/ | n. 腹部，腹腔 | abdominal pain 腹痛<br>abdominal adj. 腹部的 | He felt a sharp pain in his **abdomen**. |
+| | dean (复现) | /diːn/ | n.（大学）院长，系主任 | dean of students 学生事务主任 | She was appointed **dean** of the law school. |
+| | freight (复现) | /freɪt/ | n. 货运；货物<br>v. 运送 | freight train 货运列车<br>air freight 空运 | The goods were shipped by **freight**. |
+| | chimney (复现) | /ˈtʃɪmni/ | n. 烟囱，烟道 | chimney sweep 扫烟囱的人 | Smoke rose from the factory **chimneys**. |
+| | adequate (复现) | /ˈædɪkwət/ | adj. 足够的，适当的；胜任的 | adequate for 足以<br>adequate supply 充足供应 | The room has **adequate** lighting. |
+| | sarcastic (复现) | /sɑːrˈkæstɪk/ | adj. 讽刺的，挖苦的 | sarcastic remark 讽刺的话<br>sarcasm n. 讽刺 | She made a **sarcastic** comment. |
+| | insure (复现) | /ɪnˈʃʊr/ | v. 给…投保，为…保险；确保 | insure sth against 投保…险 | You should **insure** your house. |
+| | tempo | /ˈtempoʊ/ | n. 速度，节奏；<br>（音乐的）速度 | fast tempo 快节奏<br>the tempo of life 生活节奏<br>at a brisk tempo 以轻快的速度<br>tempo of change 变化的速度 | The **tempo** of city life is fast. （城市生活的节奏很快。）<br>The music's slow **tempo** created a calm mood. （音乐缓慢的节奏营造出平静的氛围。）<br><br>🔍 **近义**：pace（步调）/ speed（速度）/ rhythm（节奏）· **易混**：tempo vs temper（脾气）vs tempo ≠ tempo（≠ tempo vs temple 寺庙）· 意大利语来源，音乐术语 |
+| | withhold | /wɪðˈhoʊld/ | v. 拒绝给予，扣留；<br>隐瞒，不透露 | withhold information 隐瞒信息<br>withhold payment 扣留款项<br>withhold consent 不予同意<br>withholding tax 预扣税 | The company **withheld** the payment. （公司扣留了款项。）<br>He **withheld** the truth from his parents. （他对父母隐瞒了真相。）<br><br>🔍 **近义**：hold back（扣留）/ retain（保留）/ keep back（隐瞒）· **反义**：grant（给予）/ reveal（透露）· **易混**：withhold vs withdraw（撤回）vs withhold ≠ withhold（≠ withhold vs withstand 承受）· 词根：with-向后 + hold-持有 → 向后拿着→扣留 |
+| | jolly | /ˈdʒɑːli/ | adj. 快乐的，高兴的；<br>愉快的<br>adv.（英）非常，很 | a jolly good fellow 快活的好伙伴<br>jolly mood 愉快的心情<br>jolly holiday 快乐的假期<br>jolly well 的确，确实 | We had a **jolly** time at the party. （我们在聚会上玩得很开心。）<br>He is a **jolly** old man. （他是个乐呵呵的老人。）<br><br>🔍 **近义**：cheerful（快乐的）/ merry（愉快的）/ happy（高兴的）· **反义**：gloomy（阴郁的）/ miserable（痛苦的）· **易混**：jolly vs jelly（果冻）vs jolly ≠ jolly（≠ jolly vs daily 每日的）· 口语常用，英式也作副词"非常" |
