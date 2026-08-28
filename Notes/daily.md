@@ -997,3 +997,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 3 个（tempo, withhold, jolly）+ 复现 16 个（amplify, consent, executive, garment, fleet, monarch, detach, grim, undermine, abdomen, dean, freight, chimney, adequate, sarcastic, insure） | `Words.md` |
+
+---
+
+## 2026-08-28
+
+### 🔁 复习
+
+- 单词：8/27 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 10 个（justify, uphold, excel, prey, rot, endurance, charity, stagger, lad, confine）+ 复现 13 个（compel, competent, perceive, sneak, cunning, induce, elapse, latent, fuss, sanction, snatch, faculty, fuse） | `Words.md` |
