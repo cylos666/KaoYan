@@ -2722,3 +2722,26 @@
 | | stagger | /ˈstæɡər/ | v. 蹒跚，踉跄；<br>使震惊；错开 | stagger along 蹒跚前行<br>be staggered by 被…震惊<br>stagger the work 错开工作时间<br>staggering adj. 令人震惊的 | He **staggered** out of the bar. （他踉踉跄跄地走出酒吧。）<br>The cost is **staggering**. （费用高得惊人。）<br><br>🔍 **近义**：stumble（绊倒）/ totter（蹒跚）/ shock（震惊）· **易混**：stagger vs stagger ≠ stagger（≠ stagger vs stager 有经验者）· 一词多义：蹒跚 / 震惊 / 错开 |
 | | lad | /læd/ | n. 男孩，小伙子，<br>少年（口语） | a young lad 小伙子<br>a lad of ten 十岁的男孩<br>the lads 兄弟们，小伙子们（英式口语） | He's a bright **lad**. （他是个聪明的小伙子。）<br>The **lads** are going to the match. （小伙子们要去看比赛。）<br><br>🔍 **近义**：boy（男孩）/ youth（青年）/ guy（家伙，口语）· **反义**：lass（少女，苏格兰/英式）· **易混**：lad vs lad ≠ lad（≠ lad vs lid 盖子）· 英式口语常用，对应女性为 lass |
 | | confine | /kənˈfaɪn/ | v. 限制，局限于；<br>禁闭，监禁<br>n. 界限（pl.） | confine to 局限于<br>be confined to bed 卧床不起<br>confine oneself to 仅限于<br>within the confines of 在…范围内 | The fire was **confined** to the kitchen. （火势被控制在厨房内。）<br>He was **confined** to bed for a week. （他卧床一周。）<br><br>🔍 **近义**：restrict（限制）/ limit（限制）/ imprison（监禁）· **反义**：free（释放）/ release（释放）· **易混**：confine vs confine ≠ confine（≠ confine vs refine 精炼）· 词根：con-共同 + fin-界限 + -e → 划出界限→限制 |
+| 2026-08-29 | chop (复现) | /tʃɑːp/ | v. 砍，劈，剁<br>n. 排骨 | chop down 砍倒<br>chop up 剁碎<br>pork chop 猪排 | He **chopped** the vegetables. |
+| | grind (复现) | /ɡraɪnd/ | v. 磨碎；苦干<br>n. 苦差事 | daily grind 日常苦差事<br>grind to a halt 慢慢停下 | She **grinds** fresh coffee. |
+| | immense (复现) | /ɪˈmens/ | adj. 巨大的，极大的 | immense importance 极大重要性<br>immensely adv. 极其 | The project requires **immense** effort. |
+| | jaw (复现) | /dʒɔː/ | n. 下巴，颌骨 | upper/lower jaw 上/下颌<br>jaw-dropping 令人目瞪口呆的 | He broke his **jaw** in the accident. |
+| | reptile (复现) | /ˈreptaɪl/ | n. 爬行动物 | reptile species 爬行动物物种 | Snakes and lizards are **reptiles**. |
+| | paradigm (复现) | /ˈpærədaɪm/ | n. 范例，典范；范式 | paradigm shift 范式转变 | The internet brought a **paradigm** shift. |
+| | equator (复现) | /ɪˈkweɪtər/ | n. 赤道 | on the equator 在赤道上 | The climate near the **equator** is hot. |
+| | flesh (复现) | /fleʃ/ | n. 肉，肌肉；果肉；肉体 | flesh and blood 血肉之躯<br>in the flesh 亲自 | The bullet tore through **flesh**. |
+| | voyage (复现) | /ˈvɔɪɪdʒ/ | n./v. 航行，旅行 | maiden voyage 首航<br>bon voyage 一路平安 | The **voyage** took three weeks. |
+| | obscure (复现) | /əbˈskjʊr/ | adj. 模糊的；鲜为人知的<br>v. 使模糊，遮蔽 | obscure figure 无名小人物<br>obscure the truth 掩盖真相 | The origins remain **obscure**. |
+| | deviate (复现) | /ˈdiːvieɪt/ | v. 偏离，背离 | deviate from 偏离，背离 | Don't **deviate** from the plan. |
+| | tangle (复现) | /ˈtæŋɡl/ | v. 使缠绕，纠结<br>n. 乱团 | tangle with 与…发生纠纷 | The fishing lines got **tangled**. |
+| | blunder (复现) | /ˈblʌndər/ | n. 愚蠢的错误，大错<br>v. 犯大错 | make a blunder 犯大错 | He made a terrible **blunder**. |
+| | refund (复现) | /ˈriːfʌnd/ n.<br>/rɪˈfʌnd/ v. | n. 退款，偿还<br>v. 退款 | full refund 全额退款<br>claim a refund 申请退款 | The store gave me a full **refund**. |
+| | proficiency (复现) | /prəˈfɪʃnsi/ | n. 熟练，精通 | proficiency in 精通于 | She has high **proficiency** in English. |
+| | venue (复现) | /ˈvenjuː/ | n. 场地，场所；审判地 | concert venue 音乐会场地<br>sports venue 体育场馆 | The concert was moved to a larger **venue**. |
+| | culprit (复现) | /ˈkʌlprɪt/ | n. 罪犯，犯人；原因 | main culprit 罪魁祸首 | Stress is the main **culprit**. |
+| | vanity (复现) | /ˈvænəti/ | n. 虚荣，自负；梳妆台 | vanity fair 名利场<br>out of vanity 出于虚荣 | He bought the sports car out of **vanity**. |
+| | endure | /ɪnˈdʊr/ | v. 忍受，忍耐；<br>持续，持久 | endure pain 忍受痛苦<br>cannot endure 无法忍受<br>enduring adj. 持久的<br>endurance n. 耐力 | She **endured** great hardship. （她忍受了巨大的苦难。）<br>The pain was hard to **endure**. （疼痛难以忍受。）<br><br>🔍 **近义**：bear（忍受）/ tolerate（容忍）/ last（持续）· **易混**：endure vs endurance（耐力，名词）vs endurable（可忍受的）· 词根：en-使 + dur-持续 → 使其持续→忍耐 |
+| | nourish | /ˈnɜːrɪʃ/ | v. 滋养，给营养；<br>怀有（希望等）；培养 | nourish the body 滋养身体<br>nourishing food 有营养的食物<br>nourish a hope 怀有希望<br>nourishment n. 营养 | The soup **nourishes** the body. （这汤滋养身体。）<br>She **nourished** a deep hope for the future. （她对未来怀有深深的希望。）<br><br>🔍 **近义**：nurture（培育）/ feed（喂养）/ sustain（维持）· **易混**：nourish vs nourishment（营养，名词）vs nourish ≠ nourish（≠ nourish vs flourish 繁荣）· 词根：nour-营养 |
+| | quarrel | /ˈkwɔːrəl/ | n. 争吵，吵架<br>v. 争吵，吵架；抱怨 | quarrel with sb about/over sth 与某人争吵某事<br>pick a quarrel 寻衅<br>quarrelsome adj. 爱争吵的 | They had a **quarrel** over money. （他们为钱吵了一架。）<br>She **quarrelled** with her brother. （她和哥哥吵了一架。）<br><br>🔍 **近义**：argument（争论）/ dispute（争端）/ row（争吵，英式）· **反义**：reconcile（和解）· **易混**：quarrel vs quarrel ≠ quarrel（≠ quarrel vs squirrel 松鼠）· 英式过去式 quarrelled，美式 quarreled |
+| | overflow | /ˌoʊvərˈfloʊ/ | v. 溢出，泛滥；<br>充满，挤满<br>n. 溢出；溢流 | overflow with 充满，洋溢<br>overflow the banks 溢出堤岸<br>overflowing adj. 溢出的；充满的 | The river **overflowed** its banks. （河水漫过了堤岸。）<br>Her heart **overflowed with** joy. （她心中洋溢着喜悦。）<br><br>🔍 **近义**：spill（溢出）/ flood（泛滥）/ brim over（满溢）· **易混**：overflow vs over+flow（over 在上 + flow 流 = 流出来）· 词根：over-超过 + flow-流 → 流得超过→溢出 |
+| | reluctant | /rɪˈlʌktənt/ | adj. 不情愿的，勉强的 | be reluctant to do 不情愿做<br>reluctant agreement 勉强同意<br>reluctance n. 不情愿<br>reluctantly adv. 勉强地 | She was **reluctant** to accept the offer. （她不情愿接受这个提议。）<br>He gave a **reluctant** smile. （他勉强笑了笑。）<br><br>🔍 **近义**：unwilling（不愿意的）/ hesitant（犹豫的）/ grudging（勉强的）· **反义**：willing（愿意的）/ eager（渴望的）· **易混**：reluctant vs reluctant ≠ reluctant（≠ reluctant vs relevant 相关的）· 词根：re-反 + luct-斗争 + -ant → 内心反抗的→不情愿 |

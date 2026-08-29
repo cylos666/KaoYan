@@ -1011,3 +1011,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 10 个（justify, uphold, excel, prey, rot, endurance, charity, stagger, lad, confine）+ 复现 13 个（compel, competent, perceive, sneak, cunning, induce, elapse, latent, fuss, sanction, snatch, faculty, fuse） | `Words.md` |
+
+---
+
+## 2026-08-29
+
+### 🔁 复习
+
+- 单词：8/28 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 5 个（endure, nourish, quarrel, overflow, reluctant）+ 复现 18 个（chop, grind, immense, jaw, reptile, paradigm, equator, flesh, voyage, obscure, deviate, tangle, blunder, refund, proficiency, venue, culprit, vanity） | `Words.md` |
