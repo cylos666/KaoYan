@@ -1025,3 +1025,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 5 个（endure, nourish, quarrel, overflow, reluctant）+ 复现 18 个（chop, grind, immense, jaw, reptile, paradigm, equator, flesh, voyage, obscure, deviate, tangle, blunder, refund, proficiency, venue, culprit, vanity） | `Words.md` |
+
+---
+
+## 2026-08-30
+
+### 🔁 复习
+
+- 单词：8/29 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 10 个（casualty, parade, commemorate, noble, glide, distress, evident, temptation, indulge, rag）+ 复现 22 个（endeavor, deck, wrinkle, deplore, vice, lawn, deficiency, utter, blaze, ample, genre, concise, torrent, violate, endorse, disclose, eradicate, foul, quarantine, furnace, heir, levy） | `Words.md` |
