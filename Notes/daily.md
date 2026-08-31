@@ -1039,3 +1039,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 10 个（casualty, parade, commemorate, noble, glide, distress, evident, temptation, indulge, rag）+ 复现 22 个（endeavor, deck, wrinkle, deplore, vice, lawn, deficiency, utter, blaze, ample, genre, concise, torrent, violate, endorse, disclose, eradicate, foul, quarantine, furnace, heir, levy） | `Words.md` |
+
+---
+
+## 2026-08-31
+
+### 🔁 复习
+
+- 单词：8/30 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 8 个（emerge, log, scenario, surveillance, pension, underline, cumulative, harsh）+ 复现 23 个（shave, summon, transaction, corporate, stitch, pit, notion, perish, parliament, municipal, redeem, lane, fatigue, affirm, garage, hoist, ruthless, compress, swell, slack, shatter, incentive, contend） | `Words.md` |
