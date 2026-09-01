@@ -2808,3 +2808,30 @@
 | | underline | /ˌʌndərˈlaɪn/ | v. 在…下画线；<br>强调，突出 | underline the importance 强调重要性<br>underline a word 在单词下画线<br>underline the fact 强调事实 | The report **underlines** the need for reform. （报告强调了改革的必要性。）<br>Please **underline** the key points. （请在要点下画线。）<br><br>🔍 **近义**：emphasize（强调）/ stress（强调）/ highlight（突出）· **易混**：underline vs underlie（构成基础）vs underline ≠ underline（≠ underline vs under+line）· 一词两义：画下划线 / 强调 |
 | | cumulative | /ˈkjuːmjələtɪv/ | adj. 累积的，渐增的 | cumulative effect 累积效应<br>cumulative total 累计总数<br>cumulative knowledge 累积的知识<br>accumulate v. 积累 | The **cumulative** effect of stress is harmful. （压力的累积效应是有害的。）<br>The **cumulative** total reached one million. （累计总数达到一百万。）<br><br>🔍 **近义**：accumulative（累积的）/ growing（增长的）· **反义**：single（单一的）/ one-off（一次性的）· **易混**：cumulative vs accumulate（积累，动词）vs cumulative ≠ cumulative（≠ cumulative vs communicative 交流的）· 词根：cumul-堆积 + -ative |
 | | harsh | /hɑːrʃ/ | adj. 严厉的，苛刻的；<br>刺耳的；恶劣的 | harsh punishment 严厉的惩罚<br>harsh conditions 恶劣的条件<br>harsh criticism 严厉的批评<br>harsh reality 残酷的现实 | The **harsh** winter killed many animals. （严酷的冬天杀死了许多动物。）<br>She received **harsh** criticism for her work. （她的工作受到了严厉批评。）<br><br>🔍 **近义**：severe（严厉的）/ stern（严厉的）/ cruel（残酷的）· **反义**：gentle（温和的）/ mild（温和的）· **易混**：harsh vs hash（剁碎/哈希）vs harsh ≠ harsh（≠ harsh vs marsh 沼泽）· 一词多义：严厉 / 刺耳 / 恶劣 |
+| 2026-09-01 | fleet (复现) | /fliːt/ | n. 舰队，船队；车队<br>adj. 快速的 | a fleet of 一队<br>naval fleet 海军舰队 | The navy sent a **fleet** of ships. |
+| | plot (复现) | /plɑːt/ | n. 情节；阴谋；小块土地<br>v. 密谋；绘制 | plot against 密谋反对<br>plot a graph 绘制图表 | They **plotted** to overthrow the government. |
+| | compatible (复现) | /kəmˈpætəbl/ | adj. 兼容的，相容的；合得来的 | be compatible with 与…兼容 | The software is **compatible** with Windows. |
+| | stagger (复现) | /ˈstæɡər/ | v. 蹒跚，踉跄；使震惊；错开 | stagger along 蹒跚前行<br>be staggered by 被…震惊 | He **staggered** out of the bar. |
+| | rein (复现) | /reɪn/ | n. 缰绳<br>v. 控制，约束 | keep a tight rein on 严格控制<br>give free rein to 放任 | The government must **rein** in spending. |
+| | apparatus (复现) | /ˌæpəˈrætəs/ | n. 仪器，设备；机构 | medical apparatus 医疗设备<br>state apparatus 国家机器 | The lab has state-of-the-art **apparatus**. |
+| | trench (复现) | /trentʃ/ | n. 沟渠，壕沟；战壕<br>v. 挖沟 | trench warfare 堑壕战 | The soldiers dug **trenches**. |
+| | conscientious (复现) | /ˌkɑːnʃiˈenʃəs/ | adj. 认真的，尽责的 | conscientious student 认真的学生 | She is a **conscientious** student. |
+| | chancellor (复现) | /ˈtʃænsələr/ | n. 大臣；总理；校长 | vice chancellor 副校长 | The **Chancellor** announced a new budget. |
+| | fare (复现) | /fer/ | n. 车费，票价；饮食<br>v. 进展 | bus fare 车费<br>fare well 表现好 | The bus **fare** has gone up. |
+| | advent (复现) | /ˈædvent/ | n. 来临，到来，出现 | the advent of …的到来 | The **advent** of the internet changed everything. |
+| | troop (复现) | /truːp/ | n. 军队，部队；一群 | ground troops 地面部队<br>a troop of 一群 | The president ordered **troops** to the region. |
+| | empirical (复现) | /ɪmˈpɪrɪkl/ | adj. 经验主义的；实证的 | empirical evidence 实证 | The theory needs **empirical** evidence. |
+| | blush (复现) | /blʌʃ/ | v./n. 脸红 | blush with embarrassment 窘迫脸红<br>at first blush 乍一看 | She **blushed** when he complimented her. |
+| | derive (复现) | /dɪˈraɪv/ | v. 源自，获得；派生 | derive from 源自于 | Many words **derive** from Latin. |
+| | resilient (复现) | /rɪˈzɪliənt/ | adj. 有弹性的；有韧性的 | resilient economy 有韧性的经济 | Children are more **resilient** than adults think. |
+| | saddle (复现) | /ˈsædl/ | n. 马鞍<br>v. 使负担 | in the saddle 掌权<br>saddle sb with 使负担 | She was **saddled** with the responsibility. |
+| | allegiance (复现) | /əˈliːdʒəns/ | n. 忠诚，效忠 | pledge allegiance to 宣誓效忠 | The soldiers pledged **allegiance**. |
+| | prophet (复现) | /ˈprɑːfɪt/ | n. 先知；预言者 | false prophet 假先知 | He is regarded as a **prophet**. |
+| | gut (复现) | /ɡʌt/ | n. 肠，内脏；直觉<br>v. 取出内脏 | gut feeling 直觉<br>have the guts to do 有勇气做 | I have a **gut** feeling something is wrong. |
+| | component (复现) | /kəmˈpoʊnənt/ | n. 组成部分，成分，部件 | key component 关键部分 | Trust is a key **component**. |
+| | thrift (复现) | /θrɪft/ | n. 节俭，节约 | thrift store 二手店<br>practice thrift 厉行节约 | **Thrift** is a virtue. |
+| | allege (复现) | /əˈledʒ/ | v. 声称，指控（未经证实） | be alleged to have done 被指控做了 | He **alleges** the company misled investors. |
+| | counter | /ˈkaʊntər/ | n. 柜台；计数器；<br>v. 反驳，对抗<br>adv. 相反地 | over the counter 非处方<br>counter-argument 反驳论点<br>counter sb's claim 反驳某人<br>run counter to 与…相违背 | The medicine is available over the **counter**. （这种药是非处方药。）<br>He **countered** with a sharp reply. （他尖锐地反驳回去。）<br><br>🔍 **近义**：oppose（反对）/ refute（反驳）/ respond（回应）· **易混**：counter vs counter ≠ counter（≠ counter vs encounter 遭遇）· 一词多义：柜台 / 反驳 / 相反的（counter-前缀） |
+| | toss | /tɔːs/ | v. 投，掷，抛；<br>（使）摇摆<br>n. 投掷；掷硬币 | toss a coin 掷硬币<br>toss and turn 辗转反侧<br>toss sth aside 把…抛到一边<br>win/lose the toss 掷硬币赢/输 | She **tossed** the ball to me. （她把球抛给我。）<br>He **tossed and turned** all night. （他整夜辗转反侧。）<br><br>🔍 **近义**：throw（扔）/ fling（猛掷）/ hurl（猛投）· **易混**：toss vs toss ≠ toss（≠ toss vs toast 烤面包）· 一词多义：投掷 / 摇荡 / 掷硬币（toss a coin 决定） |
+| | petty | /ˈpeti/ | adj. 琐碎的，不重要的；<br>小气的，心胸狭隘的 | petty crime 轻罪<br>petty details 琐碎的细节<br>petty quarrel 小争吵<br>petty cash 小额备用金 | He was arrested for **petty** theft. （他因小偷小摸被捕。）<br>Don't be so **petty** about small mistakes. （别对小事如此斤斤计较。）<br><br>🔍 **近义**：trivial（琐碎的）/ insignificant（微不足道的）/ small-minded（心胸狭隘的）· **反义**：significant（重要的）/ generous（大方的）· **易混**：petty vs pretty（漂亮的）vs petty ≠ petty（≠ petty vs party 聚会）· 词根：源自法语 petit（小） |
+| | assimilate | /əˈsɪməleɪt/ | v. 同化；<br>吸收，理解 | assimilate immigrants 同化移民<br>assimilate new information 吸收新信息<br>assimilate into 融入（社会）<br>assimilation n. 同化；吸收 | Immigrants gradually **assimilated** into the local culture. （移民逐渐融入了当地文化。）<br>The brain needs time to **assimilate** new information. （大脑需要时间吸收新信息。）<br><br>🔍 **近义**：absorb（吸收）/ integrate（融入）/ digest（消化/理解）· **反义**：reject（排斥）· **易混**：assimilate vs simulate（模拟）vs assimilate ≠ assimilate（≠ assimilate vs accumulate 积累）· 词根：as-向 + simil-相似 + -ate → 使相似→同化 |

@@ -1053,3 +1053,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 8 个（emerge, log, scenario, surveillance, pension, underline, cumulative, harsh）+ 复现 23 个（shave, summon, transaction, corporate, stitch, pit, notion, perish, parliament, municipal, redeem, lane, fatigue, affirm, garage, hoist, ruthless, compress, swell, slack, shatter, incentive, contend） | `Words.md` |
+
+---
+
+## 2026-09-01
+
+### 🔁 复习
+
+- 单词：8/31 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 4 个（counter, toss, petty, assimilate）+ 复现 23 个（fleet, plot, compatible, stagger, rein, apparatus, trench, conscientious, chancellor, fare, advent, troop, empirical, blush, derive, resilient, saddle, allegiance, prophet, gut, component, thrift, allege） | `Words.md` |
