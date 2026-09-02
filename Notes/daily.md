@@ -1067,3 +1067,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 4 个（counter, toss, petty, assimilate）+ 复现 23 个（fleet, plot, compatible, stagger, rein, apparatus, trench, conscientious, chancellor, fare, advent, troop, empirical, blush, derive, resilient, saddle, allegiance, prophet, gut, component, thrift, allege） | `Words.md` |
+
+---
+
+## 2026-09-02
+
+### 🔁 复习
+
+- 单词：9/1 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 5 个（acquire, verge, impetus, discard, prevalent）+ 复现 14 个（credential, futile, confess, steep, hypocrisy, representative, sly, booth, arbitrary, ponder, debut, embryo, assert, glare） | `Words.md` |
