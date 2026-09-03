@@ -1081,3 +1081,16 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 5 个（acquire, verge, impetus, discard, prevalent）+ 复现 14 个（credential, futile, confess, steep, hypocrisy, representative, sly, booth, arbitrary, ponder, debut, embryo, assert, glare） | `Words.md` |
+
+---
+
+## 2026-09-03
+
+### 🔁 复习
+
+- 📦 生词本归档重开：旧册（2026-06-09 ~ 2026-09-02，2856 行）已归档至 `English/archive/Words_2026-06-09_至_2026-09-02.md`，新册按原格式从本日开始 | `Words.md` |
+
+### 🧭 学习方向调整
+
+- 心态转变：暂停"被压力推着走"的备考模式，改为兴趣驱动的"玩着学/沉淀"节奏；考研暂缓但未放弃，笔记库整体保留待命
+- 高数：已完成第一、二章（极限与连续、一元微分学），后续积分学等章节暂停推进
