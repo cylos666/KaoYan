@@ -1094,3 +1094,9 @@
 
 - 心态转变：暂停"被压力推着走"的备考模式，改为兴趣驱动的"玩着学/沉淀"节奏；考研暂缓但未放弃，笔记库整体保留待命
 - 高数：已完成第一、二章（极限与连续、一元微分学），后续积分学等章节暂停推进
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新册开张首批：新词 11 个（persist, buffer, abrupt, scrap, dump, circumference, rigid, district, diagram, intrigue, contract）+ 复现 31 个（persist 等，见新册） | `Words.md` |
