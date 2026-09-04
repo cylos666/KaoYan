@@ -1100,3 +1100,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新册开张首批：新词 11 个（persist, buffer, abrupt, scrap, dump, circumference, rigid, district, diagram, intrigue, contract）+ 复现 31 个（persist 等，见新册） | `Words.md` |
+
+---
+
+## 2026-09-04
+
+### 🔁 复习
+
+- 单词：9/3 新册首批快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 3 个（consume, characteristic, vicinity）+ 复现 12 个（cricket, contagious, heap, procession, alloy, plaster, slum, mug, amiable, disposal, flavor, resemble） | `Words.md` |
