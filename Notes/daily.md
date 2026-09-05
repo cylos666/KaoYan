@@ -1114,3 +1114,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 3 个（consume, characteristic, vicinity）+ 复现 12 个（cricket, contagious, heap, procession, alloy, plaster, slum, mug, amiable, disposal, flavor, resemble） | `Words.md` |
+
+---
+
+## 2026-09-05
+
+### 🔁 复习
+
+- 单词：9/4 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 1 个（commute）+ 复现 8 个（thread, explicit, avert, consecutive, pneumonia, neutral, contrive, profile） | `Words.md` |
