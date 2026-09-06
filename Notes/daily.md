@@ -1128,3 +1128,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 1 个（commute）+ 复现 8 个（thread, explicit, avert, consecutive, pneumonia, neutral, contrive, profile） | `Words.md` |
+
+---
+
+## 2026-09-06
+
+### 🔁 复习
+
+- 单词：9/5 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 3 个（calculate, corporation, lavatory）+ 复现 15 个（cope, dedicate, lofty, hypothesis, detain, dispute, subtract, infant, considerable, forge, fright, reproach, rob, probe, humiliate） | `Words.md` |

@@ -80,3 +80,21 @@
 | | contrive (复现) | /kənˈtraɪv/ | v. 设法做到；策划 | contrive to do 设法做<br>contrived 做作的 | He **contrived** to escape. |
 | | profile (复现) | /ˈproʊfaɪl/ | n. 侧面；轮廓；简介<br>v. 概述 | high profile 高调<br>low profile 低调 | He keeps a low **profile**. |
 | | commute | /kəˈmjuːt/ | v. 通勤，上下班往返；<br>减刑；兑换<br>n. 通勤路程 | commute to work 通勤上班<br>long commute 长途通勤<br>commuter n. 通勤者<br>commute a sentence 减刑 | She **commutes** to the city every day. （她每天通勤进城上班。）<br>The **commute** takes about an hour. （通勤大约需要一个小时。）<br><br>🔍 **近义**：travel（通勤往返）/ travel back and forth（往返）· **易混**：commute vs communicate（交流）vs commute ≠ commute（≠ commute vs community 社区）· 一词多义：通勤 / 减刑 / 兑换 |
+| 2026-09-06 | cope (复现) | /koʊp/ | v. 应付，处理，对付 | cope with 应付<br>cope with stress 应对压力 | She can't **cope** with the pressure. |
+| | dedicate (复现) | /ˈdedɪkeɪt/ | v. 奉献，致力于；题献 | dedicate oneself to 献身于<br>be dedicated to 致力于 | She **dedicated** her life to education. |
+| | lofty (复现) | /ˈlɔːfti/ | adj. 高的；崇高的；高傲的 | lofty ideals 崇高的理想 | He has **lofty** ambitions. |
+| | hypothesis (复现) | /haɪˈpɑːθəsɪs/ | n. 假说，假设 | put forward a hypothesis 提出假设<br>hypothesis testing 假设检验 | The experiment supported the **hypothesis**. |
+| | detain (复现) | /dɪˈteɪn/ | v. 拘留，扣留；耽搁 | be detained by 被…耽搁<br>detain sb for questioning 拘留审讯 | The police **detained** the suspect. |
+| | dispute (复现) | /dɪˈspjuːt/ | n. 争论，争端<br>v. 争论；质疑 | in dispute 有争议的<br>beyond dispute 无可争辩 | They are in **dispute** over the contract. |
+| | subtract (复现) | /səbˈtrækt/ | v. 减去，扣除 | subtract A from B 从 B 中减去 A | **Subtract** 3 from 10 to get 7. |
+| | infant (复现) | /ˈɪnfənt/ | n. 婴儿，幼儿<br>adj. 初期的 | infant mortality 婴儿死亡率 | The **infant** is sleeping peacefully. |
+| | considerable (复现) | /kənˈsɪdərəbl/ | adj. 相当大的，可观的 | considerable effort 巨大的努力 | It took **considerable** time. |
+| | forge (复现) | /fɔːrdʒ/ | v. 锻造；伪造；稳步前进 | forge ahead 稳步前进<br>forge a signature 伪造签名 | They **forged** ahead with the plan. |
+| | fright (复现) | /fraɪt/ | n. 惊吓，恐怖 | get a fright 吓一跳<br>take fright 受惊 | She got a terrible **fright**. |
+| | reproach (复现) | /rɪˈproʊtʃ/ | n./v. 责备，指责；使丢脸 | reproach sb for 因…责备<br>beyond reproach 无可指责 | He **reproached** himself for the mistake. |
+| | rob (复现) | /rɑːb/ | v. 抢劫，抢夺；剥夺 | rob sb of sth 抢走某人某物<br>rob a bank 抢劫银行 | They **robbed** him of his wallet. |
+| | probe (复现) | /proʊb/ | v. 探查，探究；探测<br>n. 探针；调查 | probe into 探究 | Scientists **probed** the ocean depths. |
+| | humiliate (复现) | /hjuːˈmɪlieɪt/ | v. 羞辱，使丢脸 | humiliate sb in public 当众羞辱 | She felt **humiliated** by the criticism. |
+| | calculate | /ˈkælkjuleɪt/ | v. 计算；<br>估计，推测；打算 | calculate the cost 计算成本<br>calculate on 指望<br>calculated 深思熟虑的<br>calculator n. 计算器 | Please **calculate** the total cost. （请计算总费用。）<br>She **calculated** that it would take two hours. （她估计那需要两小时。）<br><br>🔍 **近义**：compute（计算）/ estimate（估算）/ reckon（估计）· **易混**：calculate vs circulate（循环）vs stimulate（刺激）· 词根：calc-石子 + -ulate（古人摆石子计数→计算） |
+| | corporation | /ˌkɔːrpəˈreɪʃn/ | n. 公司，企业；法人 | multinational corporation 跨国公司<br>corporation tax 公司税<br>corporate adj. 公司的 | She works for a multinational **corporation**. （她在一家跨国公司工作。）<br>The **corporation** reported record profits. （该公司公布了创纪录的利润。）<br><br>🔍 **近义**：company（公司）/ firm（公司）/ enterprise（企业）· **易混**：corporation vs cooperation（合作）vs incorporate（合并/吸收）· 词根：corpor-身体，团体 + -ation → 法人团体→公司 |
+| | lavatory | /ˈlævətɔːri/ | n. 盥洗室，洗手间，厕所 | public lavatory 公共厕所<br>go to the lavatory 去洗手间 | The **lavatory** is at the end of the corridor. （洗手间在走廊尽头。）<br>He asked the way to the **lavatory**. （他询问去洗手间的路。）<br><br>🔍 **近义**：toilet（厕所）/ restroom（洗手间）/ washroom（盥洗室）· **易混**：lavatory vs laboratory（实验室）vs laundry（洗衣房）· 词根：lav-冲洗 + -atory → 盥洗之处 |
