@@ -98,3 +98,18 @@
 | | calculate | /ˈkælkjuleɪt/ | v. 计算；<br>估计，推测；打算 | calculate the cost 计算成本<br>calculate on 指望<br>calculated 深思熟虑的<br>calculator n. 计算器 | Please **calculate** the total cost. （请计算总费用。）<br>She **calculated** that it would take two hours. （她估计那需要两小时。）<br><br>🔍 **近义**：compute（计算）/ estimate（估算）/ reckon（估计）· **易混**：calculate vs circulate（循环）vs stimulate（刺激）· 词根：calc-石子 + -ulate（古人摆石子计数→计算） |
 | | corporation | /ˌkɔːrpəˈreɪʃn/ | n. 公司，企业；法人 | multinational corporation 跨国公司<br>corporation tax 公司税<br>corporate adj. 公司的 | She works for a multinational **corporation**. （她在一家跨国公司工作。）<br>The **corporation** reported record profits. （该公司公布了创纪录的利润。）<br><br>🔍 **近义**：company（公司）/ firm（公司）/ enterprise（企业）· **易混**：corporation vs cooperation（合作）vs incorporate（合并/吸收）· 词根：corpor-身体，团体 + -ation → 法人团体→公司 |
 | | lavatory | /ˈlævətɔːri/ | n. 盥洗室，洗手间，厕所 | public lavatory 公共厕所<br>go to the lavatory 去洗手间 | The **lavatory** is at the end of the corridor. （洗手间在走廊尽头。）<br>He asked the way to the **lavatory**. （他询问去洗手间的路。）<br><br>🔍 **近义**：toilet（厕所）/ restroom（洗手间）/ washroom（盥洗室）· **易混**：lavatory vs laboratory（实验室）vs laundry（洗衣房）· 词根：lav-冲洗 + -atory → 盥洗之处 |
+| 2026-09-07 | fraction (复现) | /ˈfrækʃn/ | n. 小部分，碎片；分数 | a fraction of 一小部分<br>only a fraction 仅一小部分 | Only a **fraction** of the applicants were accepted. |
+| | verify (复现) | /ˈverɪfaɪ/ | v. 核实，查证；证明 | verify the facts 核实事实 | Please **verify** the data before publishing. |
+| | controversial (复现) | /ˌkɑːntrəˈvɜːrʃl/ | adj. 有争议的，引起争论的 | controversial issue 有争议的问题<br>highly controversial 争议很大 | The decision proved highly **controversial**. |
+| | pledge (复现) | /pledʒ/ | n. 誓言，承诺；抵押品<br>v. 发誓，保证 | make a pledge 作出承诺<br>pledge to do 保证做 | He **pledged** to support the plan. |
+| | refrain (复现) | /rɪˈfreɪn/ | v. 克制，忍住<br>n. 副歌；反复说的话 | refrain from doing 克制不做 | Please **refrain** from smoking in the office. |
+| | grip (复现) | /ɡrɪp/ | n./v. 紧握，抓牢；控制；理解 | lose one's grip 失去控制<br>come to grips with 认真对付 | Panic **gripped** the crowd. |
+| | vanish (复现) | /ˈvænɪʃ/ | v. 消失，突然不见 | vanish into thin air 消失得无影无踪 | The magician **vanished** in a puff of smoke. |
+| | headquarters (复现) | /ˈhedkwɔːrtərz/ | n. 总部，司令部 | company headquarters 公司总部 | The firm moved its **headquarters** to Shanghai. |
+| | obsolete (复现) | /ˌɑːbsəˈliːt/ | adj. 过时的，淘汰的 | become obsolete 过时 | This technology is now **obsolete**. |
+| | fruitful (复现) | /ˈfruːtfl/ | adj. 富有成效的；多产的 | fruitful discussion 富有成效的讨论 | We had a **fruitful** meeting. |
+| | norm (复现) | /nɔːrm/ | n. 标准，规范；常态 | social norms 社会规范<br>be the norm 是常态 | Short hair was the **norm** among soldiers. |
+| | nuisance (复现) | /ˈnuːsns/ | n. 讨厌的人/物；麻烦事 | a nuisance to 对…是麻烦<br>What a nuisance! 真讨厌！ | The noise from the factory is a **nuisance**. |
+| | stall (复现) | /stɔːl/ | n. 货摊，摊位；畜栏；停滞<br>v. 停顿；拖延；熄火 | market stall 集市摊位<br>engine stalls 发动机熄火 | The car **stalled** at the traffic lights. |
+| | property | /ˈprɑːpərti/ | n. 财产，所有物；<br>房地产；性质，特性 | private property 私有财产<br>intellectual property 知识产权<br>property market 房地产市场<br>chemical properties 化学特性 | He lost all his **property** in the fire. （他在火灾中失去了所有财产。）<br>Warmth is a **property** of this material. （保温是这种材料的一种特性。）<br><br>🔍 **近义**：possessions（财产）/ estate（房地产）/ attribute（特性）· **易混**：property vs poverty（贫困）vs prosperity（繁荣）· 一词多义：财产 / 房产 / 性质 |
+| | ritual | /ˈrɪtʃuəl/ | n. 仪式，典礼；<br>例行公事<br>adj. 仪式的；例行的 | religious ritual 宗教仪式<br>daily ritual 每日例行公事<br>ritual dance 仪式舞蹈 | Morning coffee is a **ritual** for him. （早上的咖啡是他的例行公事。）<br>The ceremony was full of ancient **rituals**. （那场典礼充满古老的仪式。）<br><br>🔍 **近义**：ceremony（典礼）/ rite（仪式）/ routine（例行公事）· **易混**：ritual vs spiritual（精神的）vs virtual（虚拟的）· 一词多义：仪式 / 例行公事 |

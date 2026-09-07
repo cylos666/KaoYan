@@ -1142,3 +1142,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 3 个（calculate, corporation, lavatory）+ 复现 15 个（cope, dedicate, lofty, hypothesis, detain, dispute, subtract, infant, considerable, forge, fright, reproach, rob, probe, humiliate） | `Words.md` |
+
+---
+
+## 2026-09-07
+
+### 🔁 复习
+
+- 单词：9/6 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 2 个（property, ritual）+ 复现 13 个（fraction, verify, controversial, pledge, refrain, grip, vanish, headquarters, obsolete, fruitful, norm, nuisance, stall） | `Words.md` |
