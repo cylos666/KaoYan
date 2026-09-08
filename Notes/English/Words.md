@@ -113,3 +113,17 @@
 | | stall (复现) | /stɔːl/ | n. 货摊，摊位；畜栏；停滞<br>v. 停顿；拖延；熄火 | market stall 集市摊位<br>engine stalls 发动机熄火 | The car **stalled** at the traffic lights. |
 | | property | /ˈprɑːpərti/ | n. 财产，所有物；<br>房地产；性质，特性 | private property 私有财产<br>intellectual property 知识产权<br>property market 房地产市场<br>chemical properties 化学特性 | He lost all his **property** in the fire. （他在火灾中失去了所有财产。）<br>Warmth is a **property** of this material. （保温是这种材料的一种特性。）<br><br>🔍 **近义**：possessions（财产）/ estate（房地产）/ attribute（特性）· **易混**：property vs poverty（贫困）vs prosperity（繁荣）· 一词多义：财产 / 房产 / 性质 |
 | | ritual | /ˈrɪtʃuəl/ | n. 仪式，典礼；<br>例行公事<br>adj. 仪式的；例行的 | religious ritual 宗教仪式<br>daily ritual 每日例行公事<br>ritual dance 仪式舞蹈 | Morning coffee is a **ritual** for him. （早上的咖啡是他的例行公事。）<br>The ceremony was full of ancient **rituals**. （那场典礼充满古老的仪式。）<br><br>🔍 **近义**：ceremony（典礼）/ rite（仪式）/ routine（例行公事）· **易混**：ritual vs spiritual（精神的）vs virtual（虚拟的）· 一词多义：仪式 / 例行公事 |
+| 2026-09-08 | lane (复现) | /leɪn/ | n. 小巷，车道；泳道；航线 | bus lane 公交专用道<br>fast lane 快车道 | The road has four **lanes** in each direction. |
+| | scarce (复现) | /skers/ | adj. 缺乏的，不足的；稀有的 | scarce resources 稀缺资源<br>make oneself scarce 躲开，溜走 | Fresh water is **scarce** in this dry region. |
+| | monument (复现) | /ˈmɑːnjumənt/ | n. 纪念碑，纪念馆；历史遗迹 | ancient monument 历史遗迹 | The **monument** honors the fallen soldiers. |
+| | preceding (复现) | /prɪˈsiːdɪŋ/ | adj. 在前的，前述的 | the preceding year 前一年<br>precede v. 先于 | See the **preceding** chapter for details. |
+| | courtesy (复现) | /ˈkɜːrtəsi/ | n. 礼貌，谦恭；好意 | by courtesy of 承蒙…允许<br>courtesy call 礼节性拜访 | He treated everyone with **courtesy**. |
+| | shuttle (复现) | /ˈʃʌtl/ | n. 穿梭巴士/列车；航天飞机；梭子<br>v. 往返运送 | space shuttle 航天飞机<br>shuttle bus 班车 | A **shuttle** runs between the hotel and the airport. |
+| | protest (复现) | /ˈproʊtest/ n.<br>/prəˈtest/ v. | n. 抗议，反对<br>v. 抗议；断言 | protest against 抗议<br>make a protest 提出抗议 | Thousands **protested** against the new law. |
+| | conscience (复现) | /ˈkɑːnʃəns/ | n. 良心，良知 | a guilty conscience 内疚<br>in all conscience 凭良心 | His **conscience** wouldn't let him rest. |
+| | contaminate (复现) | /kənˈtæmɪneɪt/ | v. 污染，弄脏 | contaminate the water 污染水源 | The river was **contaminated** by chemicals. |
+| | dissipate (复现) | /ˈdɪsɪpeɪt/ | v. 驱散，消散；挥霍 | dissipate energy 耗费精力 | The morning mist **dissipated** quickly. |
+| | shaft (复现) | /ʃæft/ | n. 轴；杆；竖井；一束（光） | elevator shaft 电梯井<br>a shaft of light 一束光 | A **shaft** of sunlight lit the room. |
+| | hay (复现) | /heɪ/ | n. 干草 | make hay 晒干草<br>make hay while the sun shines 趁热打铁 | The horses were fed on **hay**. |
+| | dim | /dɪm/ | adj. 昏暗的；模糊的；<br>迟钝的<br>v. （使）变暗，变模糊 | dim light 昏暗的光线<br>a dim memory 模糊的记忆<br>take a dim view of 不赞同 | The **dim** light made it hard to read. （昏暗的光线让人很难阅读。）<br>He took a **dim** view of my suggestion. （他对我的建议不以为然。）<br><br>🔍 **近义**：dark（黑暗的）/ faint（微弱的）/ vague（模糊的）· **反义**：bright（明亮的）/ clear（清晰的）· **易混**：dim vs deem（认为）vs dine（进餐）· 一词多义：昏暗 / 模糊 / 变暗 |
+| | command | /kəˈmænd/ | v. 命令，指挥；<br>掌握，拥有；俯瞰<br>n. 命令；指挥权；掌握 | command respect 赢得尊重<br>take command of 指挥<br>have a good command of 精通 | The general **commanded** the troops to advance. （将军命令部队前进。）<br>She has a good **command** of English. （她精通英语。）<br><br>🔍 **近义**：order（命令）/ direct（指挥）/ master（精通）· **反义**：obey（服从）· **易混**：command vs demand（要求）vs commend（称赞）· 词根：com-完全 + mand-命令 → 完全下令→命令 |

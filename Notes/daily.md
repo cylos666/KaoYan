@@ -1156,3 +1156,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 2 个（property, ritual）+ 复现 13 个（fraction, verify, controversial, pledge, refrain, grip, vanish, headquarters, obsolete, fruitful, norm, nuisance, stall） | `Words.md` |
+
+---
+
+## 2026-09-08
+
+### 🔁 复习
+
+- 单词：9/7 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 2 个（dim, command）+ 复现 12 个（lane, scarce, monument, preceding, courtesy, shuttle, protest, conscience, contaminate, dissipate, shaft, hay） | `Words.md` |
