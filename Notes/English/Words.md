@@ -127,3 +127,15 @@
 | | hay (复现) | /heɪ/ | n. 干草 | make hay 晒干草<br>make hay while the sun shines 趁热打铁 | The horses were fed on **hay**. |
 | | dim | /dɪm/ | adj. 昏暗的；模糊的；<br>迟钝的<br>v. （使）变暗，变模糊 | dim light 昏暗的光线<br>a dim memory 模糊的记忆<br>take a dim view of 不赞同 | The **dim** light made it hard to read. （昏暗的光线让人很难阅读。）<br>He took a **dim** view of my suggestion. （他对我的建议不以为然。）<br><br>🔍 **近义**：dark（黑暗的）/ faint（微弱的）/ vague（模糊的）· **反义**：bright（明亮的）/ clear（清晰的）· **易混**：dim vs deem（认为）vs dine（进餐）· 一词多义：昏暗 / 模糊 / 变暗 |
 | | command | /kəˈmænd/ | v. 命令，指挥；<br>掌握，拥有；俯瞰<br>n. 命令；指挥权；掌握 | command respect 赢得尊重<br>take command of 指挥<br>have a good command of 精通 | The general **commanded** the troops to advance. （将军命令部队前进。）<br>She has a good **command** of English. （她精通英语。）<br><br>🔍 **近义**：order（命令）/ direct（指挥）/ master（精通）· **反义**：obey（服从）· **易混**：command vs demand（要求）vs commend（称赞）· 词根：com-完全 + mand-命令 → 完全下令→命令 |
+| 2026-09-09 | grim (复现) | /ɡrɪm/ | adj. 严峻的；阴沉的；冷酷的 | grim news 坏消息<br>grim reality 严酷的现实 | The economic outlook is **grim**. |
+| | paralyze (复现) | /ˈpærəlaɪz/ | v. 使瘫痪，使麻痹；使惊呆 | be paralyzed by 因…而瘫痪/呆住 | The accident **paralyzed** his legs. |
+| | albeit (复现) | /ˌɔːlˈbiːɪt/ | conj. 虽然，尽管 | albeit reluctantly 虽不情愿 | He accepted the job, **albeit** reluctantly. |
+| | personnel (复现) | /ˌpɜːrsəˈnel/ | n. 人员，员工；人事部门 | personnel department 人事部<br>military personnel 军事人员 | All **personnel** must attend the meeting. |
+| | stalk (复现) | /stɔːk/ | v. 潜行跟踪；蔓延<br>n. 茎，秆 | stalk one's prey 悄悄逼近猎物 | A cat **stalked** its prey. |
+| | stiff (复现) | /stɪf/ | adj. 僵硬的；生硬的；艰难的 | stiff competition 激烈竞争<br>be stiff with cold 冻僵 | My neck was **stiff** after the long drive. |
+| | fling (复现) | /flɪŋ/ | v. 猛扔，抛掷<br>n. 一时的放纵 | fling the door open 猛地推开门 | She **flung** her coat onto the sofa. |
+| | stipulate (复现) | /ˈstɪpjuleɪt/ | v. 规定，明确要求 | stipulate that 明确规定 | The contract **stipulates** a 30-day notice. |
+| | strife (复现) | /straɪf/ | n. 冲突，纷争，争斗 | political strife 政治纷争<br>ethnic strife 种族冲突 | Years of **strife** devastated the region. |
+| | valid (复现) | /ˈvælɪd/ | adj. 有效的；合理的，正当的 | a valid passport 有效护照<br>valid reason 正当理由 | The ticket is **valid** for a month. |
+| | expenditure | /ɪkˈspendɪtʃər/ | n. 支出，花费；消耗 | government expenditure 政府开支<br>capital expenditure 资本支出<br>expend v. 花费<br>income and expenditure 收支 | Government **expenditure** on education has increased. （政府在教育方面的支出增加了。）<br>His **expenditure** always exceeds his income. （他的开支总是超过收入。）<br><br>🔍 **近义**：spending（支出）/ expense（费用）/ outlay（开支）· **反义**：income（收入）/ revenue（收益）· **易混**：expenditure vs expense（费用，日常）vs expedition（远征/探险）· 词根：ex-向外 + pend-支付 + -iture → 花出去的钱→支出 |
+| | clarity | /ˈklærəti/ | n. 清晰，清楚；清澈 | clarity of thought 思路清晰<br>with clarity 清晰地 | She explained the problem with great **clarity**. （她把问题解释得非常清楚。）<br>The **clarity** of the lake water amazed us. （湖水的清澈令我们惊叹。）<br><br>🔍 **近义**：clearness（清楚）/ lucidity（明晰）· **反义**：confusion（混乱）/ vagueness（模糊）· **易混**：clarity vs charity（慈善）vs clarify（澄清，动词）· 词根：clar-清楚 + -ity（clear 的名词变体） |

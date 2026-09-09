@@ -1170,3 +1170,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 2 个（dim, command）+ 复现 12 个（lane, scarce, monument, preceding, courtesy, shuttle, protest, conscience, contaminate, dissipate, shaft, hay） | `Words.md` |
+
+---
+
+## 2026-09-09
+
+### 🔁 复习
+
+- 单词：9/8 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 2 个（expenditure, clarity）+ 复现 10 个（grim, paralyze, albeit, personnel, stalk, stiff, fling, stipulate, strife, valid） | `Words.md` |
