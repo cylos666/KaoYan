@@ -1184,3 +1184,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 2 个（expenditure, clarity）+ 复现 10 个（grim, paralyze, albeit, personnel, stalk, stiff, fling, stipulate, strife, valid） | `Words.md` |
+
+---
+
+## 2026-09-10
+
+### 🔁 复习
+
+- 单词：9/9 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 复现 16 个（incentive, eliminate, thrive, deplete, precedent, strain, diminish, graze, decent, allocate, eloquent, inhibit, gloomy, plateau, resultant, undo） | `Words.md` |

@@ -139,3 +139,19 @@
 | | valid (复现) | /ˈvælɪd/ | adj. 有效的；合理的，正当的 | a valid passport 有效护照<br>valid reason 正当理由 | The ticket is **valid** for a month. |
 | | expenditure | /ɪkˈspendɪtʃər/ | n. 支出，花费；消耗 | government expenditure 政府开支<br>capital expenditure 资本支出<br>expend v. 花费<br>income and expenditure 收支 | Government **expenditure** on education has increased. （政府在教育方面的支出增加了。）<br>His **expenditure** always exceeds his income. （他的开支总是超过收入。）<br><br>🔍 **近义**：spending（支出）/ expense（费用）/ outlay（开支）· **反义**：income（收入）/ revenue（收益）· **易混**：expenditure vs expense（费用，日常）vs expedition（远征/探险）· 词根：ex-向外 + pend-支付 + -iture → 花出去的钱→支出 |
 | | clarity | /ˈklærəti/ | n. 清晰，清楚；清澈 | clarity of thought 思路清晰<br>with clarity 清晰地 | She explained the problem with great **clarity**. （她把问题解释得非常清楚。）<br>The **clarity** of the lake water amazed us. （湖水的清澈令我们惊叹。）<br><br>🔍 **近义**：clearness（清楚）/ lucidity（明晰）· **反义**：confusion（混乱）/ vagueness（模糊）· **易混**：clarity vs charity（慈善）vs clarify（澄清，动词）· 词根：clar-清楚 + -ity（clear 的名词变体） |
+| 2026-09-10 | incentive (复现) | /ɪnˈsentɪv/ | n. 激励，动机，诱因<br>adj. 激励的 | incentive to do 做…的动力<br>tax incentives 税收优惠 | The bonus is an **incentive** to work harder. |
+| | eliminate (复现) | /ɪˈlɪmɪneɪt/ | v. 排除，消除；淘汰 | eliminate the possibility 排除可能性<br>be eliminated 被淘汰 | We must **eliminate** all errors before release. |
+| | thrive (复现) | /θraɪv/ | v. 茁壮成长，繁荣，兴旺 | thrive on 靠…兴旺 | Small businesses **thrive** in this city. |
+| | deplete (复现) | /dɪˈpliːt/ | v. 耗尽，使枯竭 | deplete resources 耗尽资源 | Overfishing has **depleted** fish stocks. |
+| | precedent (复现) | /ˈpresɪdənt/ | n. 先例，范例 | set a precedent 开创先例<br>without precedent 史无前例 | The ruling set a legal **precedent**. |
+| | strain (复现) | /streɪn/ | n. 压力，紧张；拉伤<br>v. 拉紧；扭伤；竭尽全力 | strain on 对…的压力<br>under strain 处于压力之下 | The extra work put a **strain** on her health. |
+| | diminish (复现) | /dɪˈmɪnɪʃ/ | v. 减少，减弱；贬低 | diminish in 在…方面减少 | His influence has **diminished** over the years. |
+| | graze (复现) | /ɡreɪz/ | v. （动物）吃草；擦伤<br>n. 擦伤 | graze on 吃…的草<br>graze one's knee 擦伤膝盖 | Cattle were **grazing** in the field. |
+| | decent (复现) | /ˈdiːsnt/ | adj. 体面的，正派的；像样的，不错的 | a decent job 一份体面的工作<br>decent salary 不错的薪水 | He earns a **decent** salary. |
+| | allocate (复现) | /ˈæləkeɪt/ | v. 分配，拨给 | allocate resources 分配资源<br>allocate funds to 拨款给 | The government **allocated** more funds to education. |
+| | eloquent (复现) | /ˈeləkwənt/ | adj. 雄辩的，有说服力的；意味深长的 | an eloquent speech 雄辩的演讲 | She gave an **eloquent** speech at the ceremony. |
+| | inhibit (复现) | /ɪnˈhɪbɪt/ | v. 抑制，阻碍；使拘谨 | inhibit growth 抑制生长 | Fear can **inhibit** performance. |
+| | gloomy (复现) | /ˈɡluːmi/ | adj. 阴暗的；忧郁的；前景黯淡的 | gloomy weather 阴沉的天气<br>gloomy outlook 悲观的前景 | The economic future looks **gloomy**. |
+| | plateau (复现) | /plæˈtoʊ/ | n. 高原；平稳期<br>v. 达到平稳期 | reach a plateau 达到平稳期 | Sales have reached a **plateau**. |
+| | resultant (复现) | /rɪˈzʌltənt/ | adj. 因之发生的，作为结果的 | resultant effect 由此产生的影响 | The **resultant** damage was severe. |
+| | undo (复现) | /ʌnˈduː/ | v. 解开，松开；取消，撤销；毁掉 | undo the damage 消除损害<br>undo a knot 解开结 | Nothing can **undo** the past. |
