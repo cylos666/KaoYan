@@ -1198,3 +1198,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 复现 16 个（incentive, eliminate, thrive, deplete, precedent, strain, diminish, graze, decent, allocate, eloquent, inhibit, gloomy, plateau, resultant, undo） | `Words.md` |
+
+---
+
+## 2026-09-12
+
+### 🔁 复习
+
+- 单词：9/10 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 1 个（desolate）+ 复现 16 个（overlook, owe, unanimous, inflict, discern, diversion, bulletin, premier, warrant, ego, bizarre, eminent, commence, diploma, lease, trifle） | `Words.md` |

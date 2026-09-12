@@ -155,3 +155,20 @@
 | | plateau (复现) | /plæˈtoʊ/ | n. 高原；平稳期<br>v. 达到平稳期 | reach a plateau 达到平稳期 | Sales have reached a **plateau**. |
 | | resultant (复现) | /rɪˈzʌltənt/ | adj. 因之发生的，作为结果的 | resultant effect 由此产生的影响 | The **resultant** damage was severe. |
 | | undo (复现) | /ʌnˈduː/ | v. 解开，松开；取消，撤销；毁掉 | undo the damage 消除损害<br>undo a knot 解开结 | Nothing can **undo** the past. |
+| 2026-09-12 | overlook (复现) | /ˌoʊvərˈlʊk/ | v. 忽略，忽视；俯视；宽恕 | overlook a mistake 忽略错误<br>overlook the sea 俯瞰大海 | Don't **overlook** the small details. |
+| | owe (复现) | /oʊ/ | v. 欠（钱/情）；归功于 | owe sb sth 欠某人某物<br>owe to 归功于 | I **owe** you an apology. |
+| | unanimous (复现) | /juˈnænɪməs/ | adj. 一致同意的，全体一致的 | unanimous decision 一致决定 | The committee was **unanimous** in its decision. |
+| | inflict (复现) | /ɪnˈflɪkt/ | v. 使遭受（痛苦/打击）；施加 | inflict damage on 对…造成损害<br>inflict pain 施加痛苦 | The storm **inflicted** heavy damage on the coast. |
+| | discern (复现) | /dɪˈsɜːrn/ | v. 觉察出，辨明；（依稀）看出 | discern between 区分<br>discern a difference 辨别差异 | It was hard to **discern** the truth. |
+| | diversion (复现) | /daɪˈvɜːrʒn/ | n. 转移，转向；消遣；临时改道 | a traffic diversion 交通改道<br>create a diversion 声东击西 | Traffic was rerouted as a **diversion**. |
+| | bulletin (复现) | /ˈbʊlətɪn/ | n. 公告，布告；简讯，新闻简报 | news bulletin 新闻简报<br>bulletin board 公告栏 | The radio issued a news **bulletin**. |
+| | premier (复现) | /prɪˈmɪr/ | n. 总理，首相<br>adj. 首要的，最好的 | premier league 超级联赛<br>the premier event 首要活动 | She was appointed **premier** last year. |
+| | warrant (复现) | /ˈwɔːrənt/ | n. 授权令，逮捕令；正当理由<br>v. 使…有必要；保证 | search warrant 搜查令<br>warrant attention 值得关注 | The police obtained a search **warrant**. |
+| | ego (复现) | /ˈiːɡoʊ/ | n. 自我，自尊；自负 | boost one's ego 增强自尊<br>inflate one's ego 使自负 | His **ego** was badly hurt. |
+| | bizarre (复现) | /bɪˈzɑːr/ | adj. 奇异的，古怪的 | bizarre behavior 怪异行为 | He told a **bizarre** story. |
+| | eminent (复现) | /ˈemɪnənt/ | adj. 杰出的，著名的；显著的 | an eminent scientist 杰出的科学家 | She is an **eminent** scholar in her field. |
+| | commence (复现) | /kəˈmens/ | v. 开始，着手 | commence with 以…开始<br>commence work 开始工作 | The ceremony will **commence** at noon. |
+| | diploma (复现) | /dɪˈploʊmə/ | n. 毕业证书，文凭 | a college diploma 大学文凭 | She received her **diploma** last June. |
+| | lease (复现) | /liːs/ | n. 租约，租契<br>v. 出租，租用 | sign a lease 签租约<br>lease out 出租 | They signed a one-year **lease**. |
+| | trifle (复现) | /ˈtraɪfl/ | n. 琐事，小事；少量<br>v. 轻视，玩弄 | a trifle 稍微<br>trifle with 玩弄 | Don't waste time on **trifles**. |
+| | desolate | /ˈdesələt/ | adj. 荒凉的，无人烟的；<br>（人）凄凉的，孤寂的<br>v. 使荒凉 | a desolate landscape 荒凉的景色<br>desolate and alone 凄凉孤独 | The village was left **desolate** after the flood. （洪水过后村庄一片荒凉。）<br>She felt **desolate** after losing her family. （失去家人后她感到孤寂凄凉。）<br><br>🔍 **近义**：barren（荒芜的）/ deserted（荒废的）/ lonely（孤独的）· **反义**：thriving（繁荣的）/ lively（热闹的）· **易混**：desolate vs isolate（隔离）vs desperate（绝望的）· 词根：de-完全 + sol-单独（sole）+ -ate → 完全孤单→荒凉的 |
