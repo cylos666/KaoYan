@@ -172,3 +172,26 @@
 | | lease (复现) | /liːs/ | n. 租约，租契<br>v. 出租，租用 | sign a lease 签租约<br>lease out 出租 | They signed a one-year **lease**. |
 | | trifle (复现) | /ˈtraɪfl/ | n. 琐事，小事；少量<br>v. 轻视，玩弄 | a trifle 稍微<br>trifle with 玩弄 | Don't waste time on **trifles**. |
 | | desolate | /ˈdesələt/ | adj. 荒凉的，无人烟的；<br>（人）凄凉的，孤寂的<br>v. 使荒凉 | a desolate landscape 荒凉的景色<br>desolate and alone 凄凉孤独 | The village was left **desolate** after the flood. （洪水过后村庄一片荒凉。）<br>She felt **desolate** after losing her family. （失去家人后她感到孤寂凄凉。）<br><br>🔍 **近义**：barren（荒芜的）/ deserted（荒废的）/ lonely（孤独的）· **反义**：thriving（繁荣的）/ lively（热闹的）· **易混**：desolate vs isolate（隔离）vs desperate（绝望的）· 词根：de-完全 + sol-单独（sole）+ -ate → 完全孤单→荒凉的 |
+| 2026-09-13 | bulk (复现) | /bʌlk/ | n. 大部分，主体；体积<br>adj. 大量的 | the bulk of 大部分<br>in bulk 大批量 | The **bulk** of the work is already done. |
+| | fatigue (复现) | /fəˈtiːɡ/ | n. 疲劳，劳累<br>v. 使疲劳 | mental fatigue 精神疲劳 | He was overcome by **fatigue**. |
+| | intense (复现) | /ɪnˈtens/ | adj. 强烈的，剧烈的；紧张的 | intense heat 酷热<br>intense competition 激烈竞争 | The pain was **intense**. |
+| | pile (复现) | /paɪl/ | n. 堆；大量<br>v. 堆积，堆放 | a pile of 一堆<br>pile up 堆积 | A **pile** of books lay on the desk. |
+| | reluctant (复现) | /rɪˈlʌktənt/ | adj. 不情愿的，勉强的 | be reluctant to do 不愿做 | She was **reluctant** to leave. |
+| | span (复现) | /spæn/ | n. 一段时间；跨度<br>v. 横跨；持续 | life span 寿命<br>attention span 注意力持续时间 | The bridge **spans** the river. |
+| | indulge (复现) | /ɪnˈdʌldʒ/ | v. 放纵，纵容；沉溺于 | indulge in 沉溺于<br>indulge oneself 放纵自己 | He **indulged** in a piece of cake. |
+| | bleak (复现) | /bliːk/ | adj. 荒凉的；凄凉的；前景黯淡的 | bleak future 黯淡的未来 | The prospect looks **bleak**. |
+| | endeavor (复现) | /ɪnˈdevər/ | n./v. 努力，尽力 | endeavor to do 努力做 | She **endeavored** to finish on time. |
+| | genre (复现) | /ˈʒɑːnrə/ | n. 体裁，类型（尤指文艺作品） | literary genre 文学体裁 | This **genre** of music is very popular. |
+| | prone (复现) | /proʊn/ | adj. 易于…的，有…倾向的；俯卧的 | be prone to 易于… | He is **prone** to making careless mistakes. |
+| | speculate (复现) | /ˈspekjuleɪt/ | v. 推测，猜测；投机 | speculate about 推测<br>speculate on 投机 | They **speculated** about the cause of the crash. |
+| | emit (复现) | /iˈmɪt/ | v. 发出，散发（光/热/声/气） | emit light 发光<br>emit smoke 冒烟 | The device **emits** a beeping sound. |
+| | abide (复现) | /əˈbaɪd/ | v. 遵守；忍受；持续 | abide by 遵守 | Everyone must **abide by** the rules. |
+| | solitary (复现) | /ˈsɑːləteri/ | adj. 独自的，孤独的；单个的 | solitary life 孤独的生活 | He led a **solitary** life in the countryside. |
+| | decay (复现) | /dɪˈkeɪ/ | v./n. 腐烂，腐朽；衰退 | tooth decay 蛀牙<br>urban decay 城市衰败 | The old building has fallen into **decay**. |
+| | democratic (复现) | /ˌdeməˈkrætɪk/ | adj. 民主的，民主主义的 | democratic society 民主社会 | They demanded **democratic** reforms. |
+| | compassion (复现) | /kəmˈpæʃn/ | n. 同情，怜悯 | show compassion for 对…表示同情 | She felt deep **compassion** for the victims. |
+| | appraisal (复现) | /əˈpreɪzl/ | n. 评估，评价；鉴定 | performance appraisal 绩效评估 | The **appraisal** of the project took a week. |
+| | retain | /rɪˈteɪn/ | v. 保留，保持；<br>记住；聘请 | retain control 保持控制<br>retain heat 保温<br>retain information 记住信息 | The company **retained** its top talent. （公司留住了顶尖人才。）<br>This material **retains** heat well. （这种材料保温性好。）<br><br>🔍 **近义**：keep（保留）/ preserve（保存）/ maintain（维持）· **反义**：lose（失去）/ discard（丢弃）· **易混**：retain vs detain（拘留）vs sustain（维持）· 词根：re-回 + tain-握住（hold）→ 握回来→保留 |
+| | resistant | /rɪˈzɪstənt/ | adj. 抵抗的，反抗的；<br>耐…的 | be resistant to 对…有抵抗力<br>heat-resistant 耐热的<br>drug-resistant 耐药的 | These plants are **resistant to** drought. （这些植物耐旱。）<br>The material is **resistant** to corrosion. （这种材料耐腐蚀。）<br><br>🔍 **近义**：immune（免疫的）/ opposed（反对的）· **反义**：susceptible（易受影响的）/ vulnerable（脆弱的）· **易混**：resistant vs persistent（持续的）vs resist（抵抗）vs assist（帮助）· 词根：re-反 + sist-站 + -ant → 站住对抗→抵抗的 |
+| | union | /ˈjuːniən/ | n. 联合，合并；<br>联盟，工会 | trade union 工会<br>the Soviet Union 苏联<br>union of 结合 | The workers formed a **union** to protect their rights. （工人们成立工会来保护自身权益。）<br>The **union** of the two firms created a giant. （两家公司的联合造就了一个巨头。）<br><br>🔍 **近义**：alliance（联盟）/ association（协会）/ merger（合并）· **反义**：separation（分离）/ division（分裂）· **易混**：union vs onion（洋葱）vs unison（齐声）· 词根：uni-一 + -on → 合为一体→联合 |
+| | illuminate | /ɪˈluːmɪneɪt/ | v. 照亮，照明；<br>阐明，启发 | illuminate the room 照亮房间<br>illuminate the issue 阐明问题 | The streetlights **illuminate** the road at night. （路灯在夜里照亮马路。）<br>The lecture **illuminated** the difficult topic. （那场讲座阐明了这个难题。）<br><br>🔍 **近义**：light up（照亮）/ clarify（阐明）/ enlighten（启发）· **反义**：darken（使变暗）/ obscure（使模糊）· **易混**：illuminate vs illustrate（举例说明）vs eliminate（消除）· 词根：il-使 + lumin-光 + -ate → 使有光→照亮 |

@@ -1212,3 +1212,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 1 个（desolate）+ 复现 16 个（overlook, owe, unanimous, inflict, discern, diversion, bulletin, premier, warrant, ego, bizarre, eminent, commence, diploma, lease, trifle） | `Words.md` |
+
+---
+
+## 2026-09-13
+
+### 🔁 复习
+
+- 单词：9/12 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 4 个（retain, resistant, union, illuminate）+ 复现 19 个（bulk, fatigue, intense, pile, reluctant, span, indulge, bleak, endeavor, genre, prone, speculate, emit, abide, solitary, decay, democratic, compassion, appraisal） | `Words.md` |
