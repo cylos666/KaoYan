@@ -195,3 +195,21 @@
 | | resistant | /rɪˈzɪstənt/ | adj. 抵抗的，反抗的；<br>耐…的 | be resistant to 对…有抵抗力<br>heat-resistant 耐热的<br>drug-resistant 耐药的 | These plants are **resistant to** drought. （这些植物耐旱。）<br>The material is **resistant** to corrosion. （这种材料耐腐蚀。）<br><br>🔍 **近义**：immune（免疫的）/ opposed（反对的）· **反义**：susceptible（易受影响的）/ vulnerable（脆弱的）· **易混**：resistant vs persistent（持续的）vs resist（抵抗）vs assist（帮助）· 词根：re-反 + sist-站 + -ant → 站住对抗→抵抗的 |
 | | union | /ˈjuːniən/ | n. 联合，合并；<br>联盟，工会 | trade union 工会<br>the Soviet Union 苏联<br>union of 结合 | The workers formed a **union** to protect their rights. （工人们成立工会来保护自身权益。）<br>The **union** of the two firms created a giant. （两家公司的联合造就了一个巨头。）<br><br>🔍 **近义**：alliance（联盟）/ association（协会）/ merger（合并）· **反义**：separation（分离）/ division（分裂）· **易混**：union vs onion（洋葱）vs unison（齐声）· 词根：uni-一 + -on → 合为一体→联合 |
 | | illuminate | /ɪˈluːmɪneɪt/ | v. 照亮，照明；<br>阐明，启发 | illuminate the room 照亮房间<br>illuminate the issue 阐明问题 | The streetlights **illuminate** the road at night. （路灯在夜里照亮马路。）<br>The lecture **illuminated** the difficult topic. （那场讲座阐明了这个难题。）<br><br>🔍 **近义**：light up（照亮）/ clarify（阐明）/ enlighten（启发）· **反义**：darken（使变暗）/ obscure（使模糊）· **易混**：illuminate vs illustrate（举例说明）vs eliminate（消除）· 词根：il-使 + lumin-光 + -ate → 使有光→照亮 |
+| 2026-09-14 | mutual (复现) | /ˈmjuːtʃuəl/ | adj. 相互的，共同的 | mutual respect 相互尊重<br>mutual benefit 互利 | They have **mutual** trust in each other. |
+| | defect (复现) | /ˈdiːfekt/ | n. 缺点，缺陷，瑕疵<br>v. 叛逃 | a birth defect 天生缺陷<br>defective adj. 有缺陷的 | The product has a serious **defect**. |
+| | perspective (复现) | /pərˈspektɪv/ | n. 观点，视角；透视法 | from the perspective of 从…角度<br>in perspective 正确地 | Try to see it from my **perspective**. |
+| | intrinsic (复现) | /ɪnˈtrɪnsɪk/ | adj. 内在的，固有的，本质的 | intrinsic value 内在价值 | Curiosity has **intrinsic** value. |
+| | empirical (复现) | /ɪmˈpɪrɪkl/ | adj. 经验主义的，实证的 | empirical evidence 实证证据 | The theory lacks **empirical** support. |
+| | notion (复现) | /ˈnoʊʃn/ | n. 概念，观念；想法 | the notion that 认为…的观念 | He rejected the **notion** that luck decides success. |
+| | intuition (复现) | /ˌɪntuˈɪʃn/ | n. 直觉，直觉力 | by intuition 凭直觉 | Her **intuition** told her something was wrong. |
+| | moderate (复现) | /ˈmɑːdərət/ | adj. 适度的，温和的<br>v. 使缓和 | moderate exercise 适度锻炼<br>moderate climate 温和的气候 | He holds **moderate** political views. |
+| | bait (复现) | /beɪt/ | n. 诱饵<br>v. 引诱；戏弄 | use sth as bait 用…作诱饵<br>rise to the bait 上钩 | The fish took the **bait**. |
+| | aggravate (复现) | /ˈæɡrəveɪt/ | v. 加重，恶化；激怒 | aggravate the problem 使问题恶化 | Stress can **aggravate** the illness. |
+| | punctual (复现) | /ˈpʌŋktʃuəl/ | adj. 准时的，守时的 | be punctual for 准时参加 | Please be **punctual** for the meeting. |
+| | repel (复现) | /rɪˈpel/ | v. 击退，驱逐；使厌恶；排斥 | repel the attack 击退进攻<br>water-repellent 防水的 | The army **repelled** the invaders. |
+| | overhaul (复现) | /ˈoʊvərhɔːl/ n.<br>/ˌoʊvərˈhɔːl/ v. | n. 彻底检修；全面改革<br>v. 彻底检修；全面改革 | a major overhaul 大检修 | The engine needs a complete **overhaul**. |
+| | definite (复现) | /ˈdefɪnət/ | adj. 明确的，确定的；肯定的 | a definite answer 明确的答复 | We need a **definite** plan before we start. |
+| | cohesive (复现) | /koʊˈhiːsɪv/ | adj. 有凝聚力的，团结的 | a cohesive team 有凝聚力的团队 | The group is remarkably **cohesive**. |
+| | sentiment (复现) | /ˈsentɪmənt/ | n. 情感，情绪；观点 | public sentiment 公众情绪 | His **sentiment** was shared by many. |
+| | manuscript (复现) | /ˈmænjuskrɪpt/ | n. 手稿，原稿；手抄本 | submit a manuscript 投稿 | She sent her **manuscript** to a publisher. |
+| | impair | /ɪmˈper/ | v. 损害，削弱，减少 | impair one's health 损害健康<br>impaired vision 受损的视力<br>hearing-impaired 听力受损的 | Smoking can seriously **impair** your health. （吸烟会严重损害你的健康。）<br>Alcohol **impairs** one's judgment. （酒精会削弱人的判断力。）<br><br>🔍 **近义**：damage（损害）/ weaken（削弱）/ harm（伤害）· **反义**：improve（改善）/ enhance（增强）· **易混**：impair vs repair（修理）vs impart（传授）· 词根：im-使 + pair-变坏 → 使变坏→损害 |
