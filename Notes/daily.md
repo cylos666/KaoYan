@@ -1240,3 +1240,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 1 个（impair）+ 复现 17 个（mutual, defect, perspective, intrinsic, empirical, notion, intuition, moderate, bait, aggravate, punctual, repel, overhaul, definite, cohesive, sentiment, manuscript） | `Words.md` |
+
+---
+
+## 2026-09-15
+
+### 🔁 复习
+
+- 单词：9/14 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 3 个（approval, statue, eligible）+ 复现 5 个（reclaim, denote, rehearse, petition, veto） | `Words.md` |
