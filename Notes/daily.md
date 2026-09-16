@@ -1254,3 +1254,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 3 个（approval, statue, eligible）+ 复现 5 个（reclaim, denote, rehearse, petition, veto） | `Words.md` |
+
+---
+
+## 2026-09-16
+
+### 🔁 复习
+
+- 单词：9/15 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 复现 8 个（apparatus, excel, erase, blaze, timid, snatch, loaf, juvenile） | `Words.md` |

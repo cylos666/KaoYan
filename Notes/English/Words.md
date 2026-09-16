@@ -221,3 +221,11 @@
 | | approval | /əˈpruːvl/ | n. 批准，认可；赞成 | win approval 获得认可<br>give approval to 批准<br>on approval 供试用的 | The plan won the committee's **approval**. （该计划获得了委员会的批准。）<br>She nodded in **approval**. （她赞许地点了点头。）<br><br>🔍 **近义**：consent（同意）/ endorsement（认可）/ agreement（赞同）· **反义**：disapproval（不赞成）/ rejection（拒绝）· **易混**：approval vs approve（动词）vs appreciate（感激/欣赏）· 词根：ap-向 + prov-证明（prove）+ -al → 证明可行→批准 |
 | | statue | /ˈstætʃuː/ | n. 雕像，塑像 | the Statue of Liberty 自由女神像<br>a bronze statue 铜像<br>erect a statue 竖立雕像 | They erected a **statue** in his honor. （他们为他竖立了一座雕像。）<br>The **statue** stands in the square. （雕像矗立在广场上。）<br><br>🔍 **近义**：sculpture（雕塑）/ figure（人像）/ monument（纪念碑）· **易混**：statue vs status（地位）vs stature（身高/声望）vs statute（法规）· 词根：stat-站立 + -ue → 立着的东西→雕像 |
 | | eligible | /ˈelɪdʒəbl/ | adj. 有资格的，符合条件的；<br>合适的（结婚对象） | be eligible for 有资格获得<br>be eligible to do 有资格做<br>eligible bachelor 合适的单身汉 | Only members are **eligible** to vote. （只有会员才有资格投票。）<br>She is **eligible for** the scholarship. （她符合获得奖学金的资格。）<br><br>🔍 **近义**：qualified（合格的）/ entitled（有资格的）· **反义**：ineligible（不合格的）· **易混**：eligible vs illegible（字迹难辨的）vs intelligent（聪明的）· 词根：e-出 + lig-选择（lect）+ -ible → 可被选出的→有资格的 |
+| 2026-09-16 | apparatus (复现) | /ˌæpəˈrætəs/ | n. 仪器，设备；机构；器官 | laboratory apparatus 实验仪器<br>the state apparatus 国家机器 | The lab is equipped with modern **apparatus**. |
+| | excel (复现) | /ɪkˈsel/ | v. 擅长，精通；胜过 | excel at/in 擅长 | She **excels** at mathematics. |
+| | erase (复现) | /ɪˈreɪs/ | v. 擦掉，抹去；删除 | erase the blackboard 擦黑板<br>erase data 删除数据 | He **erased** the mistake with a rubber. |
+| | blaze (复现) | /bleɪz/ | n. 大火，烈火；光辉<br>v. 熊熊燃烧；闪耀 | a blaze of light 一片光亮<br>blaze a trail 开辟道路 | Firefighters fought the **blaze** all night. |
+| | timid (复现) | /ˈtɪmɪd/ | adj. 胆小的，羞怯的 | a timid smile 羞怯的微笑 | He gave a **timid** answer. |
+| | snatch (复现) | /snætʃ/ | v. 抢夺，夺走；抓住（机会）<br>n. 片段；抢夺 | snatch away 抢走<br>in snatches 断断续续 | The thief **snatched** her purse. |
+| | loaf (复现) | /loʊf/ | n. 一条（面包）<br>v. 游荡，虚度光阴 | a loaf of bread 一条面包<br>loaf around 闲逛 | He spent the whole day **loafing** around. |
+| | juvenile (复现) | /ˈdʒuːvənaɪl/ | adj. 青少年的；幼稚的<br>n. 青少年 | juvenile delinquency 青少年犯罪 | The film targets a **juvenile** audience. |
