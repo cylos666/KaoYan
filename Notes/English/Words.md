@@ -229,3 +229,11 @@
 | | snatch (复现) | /snætʃ/ | v. 抢夺，夺走；抓住（机会）<br>n. 片段；抢夺 | snatch away 抢走<br>in snatches 断断续续 | The thief **snatched** her purse. |
 | | loaf (复现) | /loʊf/ | n. 一条（面包）<br>v. 游荡，虚度光阴 | a loaf of bread 一条面包<br>loaf around 闲逛 | He spent the whole day **loafing** around. |
 | | juvenile (复现) | /ˈdʒuːvənaɪl/ | adj. 青少年的；幼稚的<br>n. 青少年 | juvenile delinquency 青少年犯罪 | The film targets a **juvenile** audience. |
+| 2026-09-17 | underlie (复现) | /ˌʌndərˈlaɪ/ | v. 构成…的基础；位于…之下 | underlie the theory 构成理论的基础 | Economic factors **underlie** the conflict. |
+| | venue (复现) | /ˈvenjuː/ | n. 场所，场地；（活动）举办地 | the venue for 举办地 | The **venue** was changed at the last minute. |
+| | yawn (复现) | /jɔːn/ | v. 打哈欠<br>n. 哈欠 | yawn widely 大打哈欠 | He **yawned** during the lecture. |
+| | esteem (复现) | /ɪˈstiːm/ | n. 尊重，敬重<br>v. 尊重；认为 | hold sb in high esteem 高度尊重 | She is held in high **esteem** by her students. |
+| | concession (复现) | /kənˈseʃn/ | n. 让步，妥协；特许权；优惠 | make a concession 作出让步 | Both sides made **concessions** to reach a deal. |
+| | jaw (复现) | /dʒɔː/ | n. 下巴，颌 | the lower jaw 下颌 | He broke his **jaw** in the accident. |
+| | porcelain (复现) | /ˈpɔːrsəlɪn/ | n. 瓷器，瓷<br>adj. 瓷制的 | a porcelain vase 瓷花瓶 | This **porcelain** is delicately made. |
+| | trial | /ˈtraɪəl/ | n. 审判，审讯；<br>试验，试用；磨难<br>adj. 试验的 | a trial for 因…受审<br>clinical trial 临床试验<br>trial and error 反复试验<br>stand trial 受审 | The case went to **trial**. （此案进入了审判程序。）<br>They conducted a clinical **trial** of the drug. （他们对这种药进行了临床试验。）<br><br>🔍 **近义**：test（试验）/ hearing（听证）/ experiment（实验）· **易混**：trial vs trail（小径/追踪）vs tribunal（法庭）· 一词多义：审判 / 试验 / 磨难 |

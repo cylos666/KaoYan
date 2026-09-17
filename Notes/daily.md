@@ -1268,3 +1268,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 复现 8 个（apparatus, excel, erase, blaze, timid, snatch, loaf, juvenile） | `Words.md` |
+
+---
+
+## 2026-09-17
+
+### 🔁 复习
+
+- 单词：9/16 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 1 个（trial）+ 复现 7 个（underlie, venue, yawn, esteem, concession, jaw, porcelain） | `Words.md` |
