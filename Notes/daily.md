@@ -1282,3 +1282,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 1 个（trial）+ 复现 7 个（underlie, venue, yawn, esteem, concession, jaw, porcelain） | `Words.md` |
+
+---
+
+## 2026-09-18
+
+### 🔁 复习
+
+- 单词：9/17 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 复现 9 个（consent, eliminate, executive, revenue, lapse, denounce, recession, obscure, divine） | `Words.md` |

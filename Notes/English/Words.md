@@ -237,3 +237,12 @@
 | | jaw (复现) | /dʒɔː/ | n. 下巴，颌 | the lower jaw 下颌 | He broke his **jaw** in the accident. |
 | | porcelain (复现) | /ˈpɔːrsəlɪn/ | n. 瓷器，瓷<br>adj. 瓷制的 | a porcelain vase 瓷花瓶 | This **porcelain** is delicately made. |
 | | trial | /ˈtraɪəl/ | n. 审判，审讯；<br>试验，试用；磨难<br>adj. 试验的 | a trial for 因…受审<br>clinical trial 临床试验<br>trial and error 反复试验<br>stand trial 受审 | The case went to **trial**. （此案进入了审判程序。）<br>They conducted a clinical **trial** of the drug. （他们对这种药进行了临床试验。）<br><br>🔍 **近义**：test（试验）/ hearing（听证）/ experiment（实验）· **易混**：trial vs trail（小径/追踪）vs tribunal（法庭）· 一词多义：审判 / 试验 / 磨难 |
+| 2026-09-18 | consent (复现) | /kənˈsent/ | n. 同意，准许<br>v. 同意，赞成 | give consent 同意<br>consent to 同意 | Her parents gave their **consent** to the trip. |
+| | eliminate (复现) | /ɪˈlɪmɪneɪt/ | v. 排除，消除；淘汰 | eliminate the possibility 排除可能性 | We must **eliminate** all errors before release. |
+| | executive (复现) | /ɪɡˈzekjətɪv/ | n. 主管，行政人员；行政部门<br>adj. 行政的；执行的 | chief executive 首席执行官<br>executive power 行政权 | She is a senior **executive** at the firm. |
+| | revenue (复现) | /ˈrevənuː/ | n. 收入，收益；税收 | tax revenue 税收<br>annual revenue 年收入 | The company's **revenue** doubled last year. |
+| | lapse (复现) | /læps/ | n. 小错，失误；流逝<br>v. 失效；陷入 | a lapse in judgment 判断失误<br>lapse into 陷入 | He apologized for his **lapse** in judgment. |
+| | denounce (复现) | /dɪˈnaʊns/ | v. 谴责，指责；告发 | denounce sb as 指责某人为 | The government **denounced** the attack. |
+| | recession (复现) | /rɪˈseʃn/ | n. 衰退，不景气；撤回 | economic recession 经济衰退 | The country slid into **recession**. |
+| | obscure (复现) | /əbˈskjʊr/ | adj. 模糊的，晦涩的；无名的<br>v. 使模糊 | an obscure poet 无名诗人<br>obscure the truth 掩盖真相 | The meaning of the poem is **obscure**. |
+| | divine (复现) | /dɪˈvaɪn/ | adj. 神的，神圣的；极好的<br>v. 推测，占卜 | divine intervention 神的干预 | They believed in **divine** power. |
