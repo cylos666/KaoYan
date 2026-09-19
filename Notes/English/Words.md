@@ -246,3 +246,19 @@
 | | recession (复现) | /rɪˈseʃn/ | n. 衰退，不景气；撤回 | economic recession 经济衰退 | The country slid into **recession**. |
 | | obscure (复现) | /əbˈskjʊr/ | adj. 模糊的，晦涩的；无名的<br>v. 使模糊 | an obscure poet 无名诗人<br>obscure the truth 掩盖真相 | The meaning of the poem is **obscure**. |
 | | divine (复现) | /dɪˈvaɪn/ | adj. 神的，神圣的；极好的<br>v. 推测，占卜 | divine intervention 神的干预 | They believed in **divine** power. |
+| 2026-09-19 | alleviate (复现) | /əˈliːvieɪt/ | v. 减轻，缓解 | alleviate the pain 减轻疼痛<br>alleviate poverty 缓解贫困 | The medicine **alleviated** the pain. |
+| | compassion (复现) | /kəmˈpæʃn/ | n. 同情，怜悯 | show compassion for 对…表示同情 | She felt deep **compassion** for the victims. |
+| | scenario (复现) | /səˈnærioʊ/ | n. 设想，情节；方案 | worst-case scenario 最坏的情况 | In the worst-case **scenario**, we lose everything. |
+| | feeble (复现) | /ˈfiːbl/ | adj. 虚弱的，无力的；微弱的 | a feeble excuse 站不住脚的借口 | His voice was **feeble** with illness. |
+| | subtle (复现) | /ˈsʌtl/ | adj. 微妙的，细微的；锐敏的 | a subtle difference 细微差别 | There is a **subtle** difference between the two words. |
+| | stack (复现) | /stæk/ | n. 一堆，一叠<br>v. 堆放 | a stack of 一叠<br>stack up 堆积 | A **stack** of papers covered the desk. |
+| | latent (复现) | /ˈleɪtnt/ | adj. 潜在的，潜伏的 | latent potential 潜在的能力 | The disease remained **latent** for years. |
+| | dread (复现) | /dred/ | v./n. 恐惧，害怕 | dread doing 害怕做<br>in dread of 害怕 | She **dreaded** the coming exam. |
+| | futile (复现) | /ˈfjuːtl/ | adj. 徒劳的，无效的 | a futile attempt 徒劳的尝试 | It is **futile** to argue with him. |
+| | booth (复现) | /buːð/ | n. 亭，小间；摊位 | a phone booth 电话亭<br>a ticket booth 售票亭 | She voted in the polling **booth**. |
+| | endorse (复现) | /ɪnˈdɔːrs/ | v. 支持，赞同；背书；代言 | endorse a plan 支持计划<br>endorse a product 代言产品 | Several celebrities **endorsed** the product. |
+| | quarantine (复现) | /ˈkwɔːrəntiːn/ | n. 隔离，检疫<br>v. 隔离 | in quarantine 处于隔离中 | The travelers were put in **quarantine**. |
+| | nostalgic (复现) | /nəˈstældʒɪk/ | adj. 怀旧的，留恋过去的 | feel nostalgic about 对…怀旧 | The old song made me **nostalgic**. |
+| | narrative | /ˈnærətɪv/ | n. 叙述，故事；记叙文<br>adj. 叙事的 | a narrative of 关于…的叙述<br>narrative structure 叙事结构<br>a compelling narrative 引人入胜的故事 | The film has a powerful **narrative**. （这部电影叙事很有力量。）<br>He gave a detailed **narrative** of the events. （他详细叙述了事件经过。）<br><br>🔍 **近义**：story（故事）/ account（描述）/ tale（故事）· **易混**：narrative vs narrator（叙述者）vs native（本地的）· 词根：narr-讲述（narrate 讲述）+ -ative |
+| | stun | /stʌn/ | v. 使震惊，使目瞪口呆；<br>把…打昏 | be stunned by 被…震惊<br>stunning adj. 惊人的；极漂亮的 | The news **stunned** everyone in the room. （这个消息让屋里所有人都震惊了。）<br>She was **stunned** by the result. （她对结果感到震惊。）<br><br>🔍 **近义**：shock（震惊）/ astonish（使惊讶）/ daze（使发懵）· **反义**：calm（使平静）· **易混**：stun vs stunt（特技/阻碍）vs stain（污点）· 词源：与 astonish 同源（古法语 estoner） |
+| | quantitative | /ˈkwɑːntəteɪtɪv/ | adj. 定量的，数量的 | quantitative analysis 定量分析<br>quantitative data 定量数据 | They carried out a **quantitative** analysis of the data. （他们对数据进行了定量分析。）<br>**Quantitative** research relies on numbers. （定量研究依赖数字。）<br><br>🔍 **近义**：numerical（数字的）· **反义**：qualitative（定性的）· **易混**：quantitative vs qualitative（定性的）vs quantity（数量）· 词根：quant-多少（quantity）+ -itative |

@@ -1296,3 +1296,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 复现 9 个（consent, eliminate, executive, revenue, lapse, denounce, recession, obscure, divine） | `Words.md` |
+
+---
+
+## 2026-09-19
+
+### 🔁 复习
+
+- 单词：9/18 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 3 个（narrative, stun, quantitative）+ 复现 13 个（alleviate, compassion, scenario, feeble, subtle, stack, latent, dread, futile, booth, endorse, quarantine, nostalgic） | `Words.md` |
