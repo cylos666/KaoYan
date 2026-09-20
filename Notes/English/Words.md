@@ -262,3 +262,13 @@
 | | narrative | /ˈnærətɪv/ | n. 叙述，故事；记叙文<br>adj. 叙事的 | a narrative of 关于…的叙述<br>narrative structure 叙事结构<br>a compelling narrative 引人入胜的故事 | The film has a powerful **narrative**. （这部电影叙事很有力量。）<br>He gave a detailed **narrative** of the events. （他详细叙述了事件经过。）<br><br>🔍 **近义**：story（故事）/ account（描述）/ tale（故事）· **易混**：narrative vs narrator（叙述者）vs native（本地的）· 词根：narr-讲述（narrate 讲述）+ -ative |
 | | stun | /stʌn/ | v. 使震惊，使目瞪口呆；<br>把…打昏 | be stunned by 被…震惊<br>stunning adj. 惊人的；极漂亮的 | The news **stunned** everyone in the room. （这个消息让屋里所有人都震惊了。）<br>She was **stunned** by the result. （她对结果感到震惊。）<br><br>🔍 **近义**：shock（震惊）/ astonish（使惊讶）/ daze（使发懵）· **反义**：calm（使平静）· **易混**：stun vs stunt（特技/阻碍）vs stain（污点）· 词源：与 astonish 同源（古法语 estoner） |
 | | quantitative | /ˈkwɑːntəteɪtɪv/ | adj. 定量的，数量的 | quantitative analysis 定量分析<br>quantitative data 定量数据 | They carried out a **quantitative** analysis of the data. （他们对数据进行了定量分析。）<br>**Quantitative** research relies on numbers. （定量研究依赖数字。）<br><br>🔍 **近义**：numerical（数字的）· **反义**：qualitative（定性的）· **易混**：quantitative vs qualitative（定性的）vs quantity（数量）· 词根：quant-多少（quantity）+ -itative |
+| 2026-09-20 | trait (复现) | /treɪt/ | n. 特征，特点，品质 | a personality trait 性格特征<br>genetic traits 遗传特征 | Patience is his best **trait**. |
+| | thrive (复现) | /θraɪv/ | v. 茁壮成长，繁荣，兴旺 | thrive on 靠…兴旺 | Small businesses **thrive** in this city. |
+| | humiliate (复现) | /hjuːˈmɪlieɪt/ | v. 羞辱，使丢脸 | humiliate sb in public 当众羞辱 | She felt **humiliated** by the criticism. |
+| | intimidate (复现) | /ɪnˈtɪmɪdeɪt/ | v. 恐吓，威胁 | intimidate sb into doing 威胁某人做 | Don't let them **intimidate** you. |
+| | ego (复现) | /ˈiːɡoʊ/ | n. 自我，自尊；自负 | boost one's ego 增强自尊 | His **ego** was badly hurt. |
+| | surveillance (复现) | /sɜːrˈveɪləns/ | n. 监视，监控 | under surveillance 被监视<br>video surveillance 视频监控 | The suspect was under constant **surveillance**. |
+| | guild (复现) | /ɡɪld/ | n. 行会，协会；公会 | the guild of merchants 商会 | He joined the writers' **guild**. |
+| | advent (复现) | /ˈædvent/ | n. 出现，到来（尤指重要事物） | the advent of 随着…的到来 | The **advent** of the internet changed everything. |
+| | allege (复现) | /əˈledʒ/ | v. 断言，指称（未经证实） | be alleged to 据称<br>alleged adj. 所谓的 | He is **alleged** to have stolen the money. |
+| | redeem (复现) | /rɪˈdiːm/ | v. 赎回；兑换；弥补，挽回 | redeem a coupon 兑换优惠券<br>redeem oneself 挽回名声 | He worked hard to **redeem** his reputation. |

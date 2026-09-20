@@ -1310,3 +1310,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 3 个（narrative, stun, quantitative）+ 复现 13 个（alleviate, compassion, scenario, feeble, subtle, stack, latent, dread, futile, booth, endorse, quarantine, nostalgic） | `Words.md` |
+
+---
+
+## 2026-09-20
+
+### 🔁 复习
+
+- 单词：9/19 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 复现 10 个（trait, thrive, humiliate, intimidate, ego, surveillance, guild, advent, allege, redeem） | `Words.md` |
