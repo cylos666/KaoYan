@@ -272,3 +272,15 @@
 | | advent (复现) | /ˈædvent/ | n. 出现，到来（尤指重要事物） | the advent of 随着…的到来 | The **advent** of the internet changed everything. |
 | | allege (复现) | /əˈledʒ/ | v. 断言，指称（未经证实） | be alleged to 据称<br>alleged adj. 所谓的 | He is **alleged** to have stolen the money. |
 | | redeem (复现) | /rɪˈdiːm/ | v. 赎回；兑换；弥补，挽回 | redeem a coupon 兑换优惠券<br>redeem oneself 挽回名声 | He worked hard to **redeem** his reputation. |
+| 2026-09-21 | crude (复现) | /kruːd/ | adj. 粗糙的；未加工的；粗鲁的 | crude oil 原油 | The pipeline transports **crude** oil. |
+| | retreat (复现) | /rɪˈtriːt/ | v./n. 撤退，退却；隐退处 | retreat from 从…撤退<br>beat a retreat 撤退 | The army **retreated** to the mountains. |
+| | perish (复现) | /ˈperɪʃ/ | v. 死亡，丧生；毁灭 | perish in 在…中丧生 | Thousands **perished** in the earthquake. |
+| | mortal (复现) | /ˈmɔːrtl/ | adj. 致死的；凡人的；不共戴天的<br>n. 凡人 | a mortal wound 致命伤<br>mortal enemy 死敌 | He received a **mortal** wound in the battle. |
+| | screw (复现) | /skruː/ | n. 螺丝钉<br>v. 用螺丝固定；拧 | tighten the screw 拧紧螺丝<br>screw up 弄糟 | He **screwed** the lid on tightly. |
+| | rein (复现) | /reɪn/ | n. 缰绳；控制<br>v. 控制，驾驭 | give free rein to 放纵<br>rein in 控制 | The government tried to **rein in** inflation. |
+| | wagon (复现) | /ˈwæɡən/ | n. 四轮马车；货车车厢 | a wagon of hay 一车干草 | The pioneers traveled by **wagon**. |
+| | analogue (复现) | /ˈænəlɔːɡ/ | n. 类似物<br>adj. 模拟的 | analogue signal 模拟信号<br>an analogue of 与…类似的东西 | This design is an **analogue** of the earlier one. |
+| | profitable | /ˈprɑːfɪtəbl/ | adj. 有利可图的，赚钱的；<br>有益的 | a profitable business 赚钱的生意<br>profitable investment 有利可图的投资<br>profit n./v. 利润 | The company became highly **profitable**. （这家公司变得非常赚钱。）<br>It proved to be a **profitable** investment. （结果证明这是一笔有利可图的投资。）<br><br>🔍 **近义**：lucrative（赚钱的）/ rewarding（有益的）/ gainful（有收益的）· **反义**：unprofitable（无利可图的）/ loss-making（亏损的）· **易混**：profitable vs profile（简介）vs profound（深刻的）· 词根：profit-利润 + -able → 能获利的 |
+| | multitude | /ˈmʌltɪtuːd/ | n. 大量，许多；<br>群众，大众 | a multitude of 大量的<br>the multitude 民众 | There are a **multitude of** reasons for the delay. （延误的原因多种多样。）<br>A **multitude** gathered in the square. （大批人群聚集在广场上。）<br><br>🔍 **近义**：host（大量）/ crowd（人群）/ masses（大众）· **反义**：few（少数）/ handful（少量）· **易混**：multitude vs altitude（高度）vs magnitude（量级，重要性）vs attitude（态度）· 词根：multi-多 + -tude（名词后缀）→ 众多 |
+| | vein | /veɪn/ | n. 静脉；叶脉；纹理；<br>风格，情绪 | a vein of 一缕/一种<br>in the same vein 以同样的风格 | The blood flows through the **veins**. （血液在静脉中流动。）<br>He spoke in a humorous **vein**. （他以幽默的口吻讲话。）<br><br>🔍 **近义**：artery（动脉）/ mood（情绪）/ style（风格）· **易混**：vein vs vain（徒劳的）vs vane（风向标）· 一词多义：静脉 / 纹理 / 情绪 |
+| | invert | /ɪnˈvɜːrt/ | v. 颠倒，倒置，翻转 | invert the order 颠倒顺序<br>inverted commas 引号 | **Invert** the bowl over the plate. （把碗倒扣在盘子上。）<br>The image is **inverted** by the lens. （图像被镜片颠倒。）<br><br>🔍 **近义**：reverse（颠倒）/ flip（翻转）/ turn over（翻转）· **反义**：restore（恢复）· **易混**：invert vs convert（转换）vs divert（转移）· 词根：in-使 + vert-转（turn）→ 使倒转 |

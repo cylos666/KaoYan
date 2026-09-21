@@ -1324,3 +1324,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 复现 10 个（trait, thrive, humiliate, intimidate, ego, surveillance, guild, advent, allege, redeem） | `Words.md` |
+
+---
+
+## 2026-09-21
+
+### 🔁 复习
+
+- 单词：9/20 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 4 个（profitable, multitude, vein, invert）+ 复现 8 个（crude, retreat, perish, mortal, screw, rein, wagon, analogue） | `Words.md` |
