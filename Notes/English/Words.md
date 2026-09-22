@@ -284,3 +284,13 @@
 | | multitude | /ˈmʌltɪtuːd/ | n. 大量，许多；<br>群众，大众 | a multitude of 大量的<br>the multitude 民众 | There are a **multitude of** reasons for the delay. （延误的原因多种多样。）<br>A **multitude** gathered in the square. （大批人群聚集在广场上。）<br><br>🔍 **近义**：host（大量）/ crowd（人群）/ masses（大众）· **反义**：few（少数）/ handful（少量）· **易混**：multitude vs altitude（高度）vs magnitude（量级，重要性）vs attitude（态度）· 词根：multi-多 + -tude（名词后缀）→ 众多 |
 | | vein | /veɪn/ | n. 静脉；叶脉；纹理；<br>风格，情绪 | a vein of 一缕/一种<br>in the same vein 以同样的风格 | The blood flows through the **veins**. （血液在静脉中流动。）<br>He spoke in a humorous **vein**. （他以幽默的口吻讲话。）<br><br>🔍 **近义**：artery（动脉）/ mood（情绪）/ style（风格）· **易混**：vein vs vain（徒劳的）vs vane（风向标）· 一词多义：静脉 / 纹理 / 情绪 |
 | | invert | /ɪnˈvɜːrt/ | v. 颠倒，倒置，翻转 | invert the order 颠倒顺序<br>inverted commas 引号 | **Invert** the bowl over the plate. （把碗倒扣在盘子上。）<br>The image is **inverted** by the lens. （图像被镜片颠倒。）<br><br>🔍 **近义**：reverse（颠倒）/ flip（翻转）/ turn over（翻转）· **反义**：restore（恢复）· **易混**：invert vs convert（转换）vs divert（转移）· 词根：in-使 + vert-转（turn）→ 使倒转 |
+| 2026-09-22 | distress (复现) | /dɪˈstres/ | n. 痛苦，忧伤；困境<br>v. 使痛苦 | in distress 处于痛苦中<br>distressed adj. 苦恼的 | The news caused her great **distress**. |
+| | intricate (复现) | /ˈɪntrɪkət/ | adj. 错综复杂的，精细的 | intricate patterns 复杂的图案 | The watch has an **intricate** mechanism. |
+| | articulate (复现) | /ɑːrˈtɪkjulət/ adj.<br>/ɑːrˈtɪkjuleɪt/ v. | adj. 口齿清晰的；善于表达的<br>v. 清晰表达 | an articulate speaker 善于表达的演讲者 | She is an **articulate** speaker. |
+| | casualty (复现) | /ˈkæʒuəlti/ | n. 伤亡人员；受害者 | civilian casualties 平民伤亡 | The battle caused heavy **casualties**. |
+| | edible (复现) | /ˈedəbl/ | adj. 可食用的 | edible oil 食用油 | Are these mushrooms **edible**? |
+| | vulgar (复现) | /ˈvʌlɡər/ | adj. 粗俗的，庸俗的 | vulgar language 粗俗语言 | His jokes were **vulgar**. |
+| | ruthless (复现) | /ˈruːθləs/ | adj. 无情的，残忍的 | a ruthless dictator 无情的独裁者 | He is **ruthless** in business. |
+| | immense (复现) | /ɪˈmens/ | adj. 巨大的，极大的 | immense pressure 巨大的压力 | The project required **immense** effort. |
+| | satire | /ˈsætaɪər/ | n. 讽刺，讥讽；<br>讽刺作品 | a satire on 对…的讽刺<br>political satire 政治讽刺 | The novel is a **satire on** modern society. （这部小说是对现代社会的讽刺。）<br>He wrote a biting **satire**. （他写了一篇辛辣的讽刺作品。）<br><br>🔍 **近义**：irony（反讽）/ sarcasm（讥讽，更尖刻）/ parody（戏仿）· **易混**：satire vs satiate（使饱足）vs saturate（使饱和）· 词根：sat-足够（satur）→ 讽刺作品（原义“拼盘”）|
+| | porch | /pɔːrtʃ/ | n. 门廊，走廊；阳台 | sit on the porch 坐在门廊上<br>front porch 前廊 | We sat on the **porch** drinking tea. （我们坐在门廊上喝茶。）<br>The house has a wide **porch**. （这房子有一个宽敞的门廊。）<br><br>🔍 **近义**：veranda（游廊）/ balcony（阳台）/ portico（柱廊）· **易混**：porch vs torch（火炬）vs pouch（小袋）· 词根：port-门（portal）→ 门口处 |

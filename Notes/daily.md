@@ -1338,3 +1338,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 4 个（profitable, multitude, vein, invert）+ 复现 8 个（crude, retreat, perish, mortal, screw, rein, wagon, analogue） | `Words.md` |
+
+---
+
+## 2026-09-22
+
+### 🔁 复习
+
+- 单词：9/21 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 2 个（satire, porch）+ 复现 8 个（distress, intricate, articulate, casualty, edible, vulgar, ruthless, immense） | `Words.md` |
