@@ -1352,3 +1352,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 2 个（satire, porch）+ 复现 8 个（distress, intricate, articulate, casualty, edible, vulgar, ruthless, immense） | `Words.md` |
+
+---
+
+## 2026-09-23
+
+### 🔁 复习
+
+- 单词：9/22 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 2 个（broker, affluent）+ 复现 18 个（discharge, friction, implication, optical, detach, propagate, rehearse, torrent, mutter, contagious, sibling, imperial, naive, overwhelm, vague, offset, ditch, resemblance） | `Words.md` |

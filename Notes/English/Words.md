@@ -294,3 +294,23 @@
 | | immense (复现) | /ɪˈmens/ | adj. 巨大的，极大的 | immense pressure 巨大的压力 | The project required **immense** effort. |
 | | satire | /ˈsætaɪər/ | n. 讽刺，讥讽；<br>讽刺作品 | a satire on 对…的讽刺<br>political satire 政治讽刺 | The novel is a **satire on** modern society. （这部小说是对现代社会的讽刺。）<br>He wrote a biting **satire**. （他写了一篇辛辣的讽刺作品。）<br><br>🔍 **近义**：irony（反讽）/ sarcasm（讥讽，更尖刻）/ parody（戏仿）· **易混**：satire vs satiate（使饱足）vs saturate（使饱和）· 词根：sat-足够（satur）→ 讽刺作品（原义“拼盘”）|
 | | porch | /pɔːrtʃ/ | n. 门廊，走廊；阳台 | sit on the porch 坐在门廊上<br>front porch 前廊 | We sat on the **porch** drinking tea. （我们坐在门廊上喝茶。）<br>The house has a wide **porch**. （这房子有一个宽敞的门廊。）<br><br>🔍 **近义**：veranda（游廊）/ balcony（阳台）/ portico（柱廊）· **易混**：porch vs torch（火炬）vs pouch（小袋）· 词根：port-门（portal）→ 门口处 |
+| 2026-09-23 | discharge (复现) | /dɪsˈtʃɑːrdʒ/ | v. 排放；解雇；释放；履行<br>n. 排放；卸货 | discharge waste 排放废物<br>be discharged from 从…被释放 | The factory **discharged** waste into the river. |
+| | friction (复现) | /ˈfrɪkʃn/ | n. 摩擦；冲突，不和 | friction between 之间的摩擦 | There was some **friction** between the two teams. |
+| | implication (复现) | /ˌɪmplɪˈkeɪʃn/ | n. 含意，暗示；影响，后果 | the implications of …的影响<br>by implication 含蓄地 | Consider the **implications** of your decision. |
+| | optical (复现) | /ˈɑːptɪkl/ | adj. 光学的，视觉的 | optical illusion 视觉错觉 | It's just an **optical** illusion. |
+| | detach (复现) | /dɪˈtætʃ/ | v. 分开，拆卸；使疏离 | detach from 从…拆下<br>detached adj. 超然的 | You can **detach** the keyboard from the screen. |
+| | propagate (复现) | /ˈprɑːpəɡeɪt/ | v. 传播，宣传；繁殖 | propagate ideas 传播思想 | They **propagated** the rumor quickly. |
+| | rehearse (复现) | /rɪˈhɜːrs/ | v. 排练，排演；背诵；重复 | rehearse a play 排练戏剧 | The actors **rehearsed** the scene again. |
+| | torrent (复现) | /ˈtɔːrənt/ | n. 激流，洪流；连发 | a torrent of 一阵…<br>a torrent of abuse 一阵辱骂 | A **torrent** of rain poured down. |
+| | mutter (复现) | /ˈmʌtər/ | v./n. 咕哝，低声抱怨 | mutter about 嗒囔 | He **muttered** something under his breath. |
+| | contagious (复现) | /kənˈteɪdʒəs/ | adj. 传染的，有感染力的 | contagious disease 传染病 | The flu is highly **contagious**. |
+| | sibling (复现) | /ˈsɪblɪŋ/ | n. 兄弟姐妹 | sibling rivalry 手足之争 | She has three **siblings**. |
+| | imperial (复现) | /ɪmˈpɪriəl/ | adj. 帝国的，皇帝的；专横的 | imperial palace 皇宫 | The **imperial** army marched west. |
+| | naive (复现) | /naɪˈiːv/ | adj. 天真的，幼稚的 | naive to believe 天真地相信 | It was **naive** of him to trust them. |
+| | overwhelm (复现) | /ˌoʊvərˈwelm/ | v. 压倒，淹没；使不知所措 | be overwhelmed by 被…压倒 | She was **overwhelmed** by the response. |
+| | vague (复现) | /veɪɡ/ | adj. 模糊的，含糊的 | vague idea 模糊的想法 | He gave a **vague** answer. |
+| | offset (复现) | /ˈɔːfset/ | v. 抵消，弥补<br>n. 抵消；补偿 | offset the cost 抵消成本 | Higher prices **offset** the gains. |
+| | ditch (复现) | /dɪtʃ/ | n. 沟，渠<br>v. 抛弃，丢弃 | ditch a plan 抛弃计划 | They **ditched** the old car. |
+| | resemblance (复现) | /rɪˈzembləns/ | n. 相似，相像 | bear a resemblance to 与…相像 | She bears a strong **resemblance** to her mother. |
+| | broker | /ˈbroʊkər/ | n. 经纪人，中间人<br>v. 作为中间人促成 | insurance broker 保险经纪人<br>real estate broker 房产经纪人<br>broker a deal 促成交易 | She works as an insurance **broker**. （她是一名保险经纪人。）<br>He **brokered** a peace deal. （他促成了一项和平协议。）<br><br>🔍 **近义**：agent（代理人）/ intermediary（中间人）/ dealer（经销商）· **易混**：broker vs bicker（争吵）vs break（打破）· 词源：broc-（broach 开启/提出）→ 经手人 |
+| | affluent | /ˈæfluənt/ | adj. 富裕的，富足的 | an affluent society 富裕社会<br>affluent families 富裕家庭 | They live in an **affluent** suburb. （他们住在富裕的郊区。）<br>The **affluent** can afford better healthcare. （富人能负担更好的医疗。）<br><br>🔍 **近义**：wealthy（富有的）/ prosperous（繁荣的）/ rich（富有的）· **反义**：poor（贫穷的）/ impoverished（贫困的）· **易混**：affluent vs effluent（废水）vs fluent（流利的）· 词根：af-向 + flu-流 + -ent → 源源流入→富裕的 |
