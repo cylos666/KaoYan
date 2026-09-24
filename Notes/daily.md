@@ -1366,3 +1366,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 2 个（broker, affluent）+ 复现 18 个（discharge, friction, implication, optical, detach, propagate, rehearse, torrent, mutter, contagious, sibling, imperial, naive, overwhelm, vague, offset, ditch, resemblance） | `Words.md` |
+
+---
+
+## 2026-09-24
+
+### 🔁 复习
+
+- 单词：9/23 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 1 个（concept）+ 复现 18 个（derive, induce, defer, portray, territory, allegiance, relish, procession, congress, mischief, elicit, swell, susceptible, wedge, salient, obsolete, coarse, slum） | `Words.md` |

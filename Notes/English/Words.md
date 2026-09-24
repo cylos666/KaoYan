@@ -314,3 +314,22 @@
 | | resemblance (复现) | /rɪˈzembləns/ | n. 相似，相像 | bear a resemblance to 与…相像 | She bears a strong **resemblance** to her mother. |
 | | broker | /ˈbroʊkər/ | n. 经纪人，中间人<br>v. 作为中间人促成 | insurance broker 保险经纪人<br>real estate broker 房产经纪人<br>broker a deal 促成交易 | She works as an insurance **broker**. （她是一名保险经纪人。）<br>He **brokered** a peace deal. （他促成了一项和平协议。）<br><br>🔍 **近义**：agent（代理人）/ intermediary（中间人）/ dealer（经销商）· **易混**：broker vs bicker（争吵）vs break（打破）· 词源：broc-（broach 开启/提出）→ 经手人 |
 | | affluent | /ˈæfluənt/ | adj. 富裕的，富足的 | an affluent society 富裕社会<br>affluent families 富裕家庭 | They live in an **affluent** suburb. （他们住在富裕的郊区。）<br>The **affluent** can afford better healthcare. （富人能负担更好的医疗。）<br><br>🔍 **近义**：wealthy（富有的）/ prosperous（繁荣的）/ rich（富有的）· **反义**：poor（贫穷的）/ impoverished（贫困的）· **易混**：affluent vs effluent（废水）vs fluent（流利的）· 词根：af-向 + flu-流 + -ent → 源源流入→富裕的 |
+| 2026-09-24 | derive (复现) | /dɪˈraɪv/ | v. 得到，取得；起源于；推导 | derive from 源于<br>derive pleasure from 从…中获得乐趣 | Many English words **derive** from Latin. |
+| | induce (复现) | /ɪnˈduːs/ | v. 引起，导致；诱导；劝使 | induce sb to do 诱使某人做 | Nothing would **induce** him to change his mind. |
+| | defer (复现) | /dɪˈfɜːr/ | v. 推迟，延期；服从 | defer to 遵从<br>defer the decision 推迟决定 | They agreed to **defer** the meeting. |
+| | portray (复现) | /pɔːrˈtreɪ/ | v. 描绘，描写；扮演 | portray sb as 把某人描绘成 | The film **portrays** him as a hero. |
+| | territory (复现) | /ˈterətɔːri/ | n. 领土，领地；领域 | national territory 领土 | The island is disputed **territory**. |
+| | allegiance (复现) | /əˈliːdʒəns/ | n. 忠诚，效忠 | pledge allegiance to 向…宣誓效忠 | They pledged **allegiance** to the king. |
+| | relish (复现) | /ˈrelɪʃ/ | v. 喜爱，享受<br>n. 乐趣；调味品 | relish the idea 喜欢这个想法 | She **relished** the challenge. |
+| | procession (复现) | /prəˈseʃn/ | n. 队伍，行列；游行 | funeral procession 送葬队伍<br>in procession 列队 | The graduates marched **in procession**. |
+| | congress (复现) | /ˈkɑːŋɡrəs/ | n. 国会，议会；代表大会 | members of Congress 国会议员 | Congress passed the bill. |
+| | mischief (复现) | /ˈmɪstʃɪf/ | n. 恶作剧，捣蛋；伤害 | get into mischief 捣蛋 | The children were up to **mischief**. |
+| | elicit (复现) | /iˈlɪsɪt/ | v. 引出，探出；引起 | elicit a response 引起回应 | The question **elicited** an angry reply. |
+| | swell (复现) | /swel/ | v. 肿胀；增多<br>n. 膨胀 | swell up 肿起来 | The river **swelled** after the heavy rain. |
+| | susceptible (复现) | /səˈseptəbl/ | adj. 易受影响的；易患病的；敏感的 | be susceptible to 易受…影响 | Children are **susceptible to** colds. |
+| | wedge (复现) | /wedʒ/ | n. 楔子；三角块<br>v. 楔入，挤入 | drive a wedge between 挑拨离间 | He **wedged** the door open. |
+| | salient (复现) | /ˈseɪliənt/ | adj. 显著的，突出的；重要的 | salient points 要点 | Let me summarize the **salient** points. |
+| | obsolete (复现) | /ˌɑːbsəˈliːt/ | adj. 过时的，淘汰的 | become obsolete 过时 | This technology is now **obsolete**. |
+| | coarse (复现) | /kɔːrs/ | adj. 粗糙的；粗俗的；粗大的 | coarse sand 粗砂<br>coarse language 粗话 | The cloth feels **coarse**. |
+| | slum (复现) | /slʌm/ | n. 贫民窟，棚户区 | slum area 贫民区 | He grew up in the **slums**. |
+| | concept | /ˈkɑːnsept/ | n. 概念，观念，想法 | the concept of …的概念<br>basic concept 基本概念<br>a concept car 概念车 | The **concept** of time is hard to define. （时间的概念很难定义。）<br>He introduced a new **concept** to the field. （他为这一领域引入了一个新概念。）<br><br>🔍 **近义**：notion（观念）/ idea（想法）/ conception（概念，构想）· **易混**：concept vs concert（音乐会）vs conceive（构想）· 词根：con-共同 + cept-拿（take）→ 共同把握→概念 |
