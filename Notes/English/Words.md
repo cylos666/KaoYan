@@ -333,3 +333,19 @@
 | | coarse (复现) | /kɔːrs/ | adj. 粗糙的；粗俗的；粗大的 | coarse sand 粗砂<br>coarse language 粗话 | The cloth feels **coarse**. |
 | | slum (复现) | /slʌm/ | n. 贫民窟，棚户区 | slum area 贫民区 | He grew up in the **slums**. |
 | | concept | /ˈkɑːnsept/ | n. 概念，观念，想法 | the concept of …的概念<br>basic concept 基本概念<br>a concept car 概念车 | The **concept** of time is hard to define. （时间的概念很难定义。）<br>He introduced a new **concept** to the field. （他为这一领域引入了一个新概念。）<br><br>🔍 **近义**：notion（观念）/ idea（想法）/ conception（概念，构想）· **易混**：concept vs concert（音乐会）vs conceive（构想）· 词根：con-共同 + cept-拿（take）→ 共同把握→概念 |
+| 2026-09-25 | fatigue (复现) | /fəˈtiːɡ/ | n. 疲劳，劳累<br>v. 使疲劳 | mental fatigue 精神疲劳 | He was overcome by **fatigue**. |
+| | bleak (复现) | /bliːk/ | adj. 荒凉的；凄凉的；前景黯淡的 | bleak future 黯淡的未来 | The prospect looks **bleak**. |
+| | endeavor (复现) | /ɪnˈdevər/ | n./v. 努力，尽力 | endeavor to do 努力做 | She **endeavored** to finish on time. |
+| | prone (复现) | /proʊn/ | adj. 易于…的，有…倾向的；俯卧的 | be prone to 易于… | He is **prone** to making careless mistakes. |
+| | rake (复现) | /reɪk/ | n. 耘子<br>v. 耘；搜索；扫射 | rake in 赚大钱<br>rake up 翻出（旧事） | He **raked** the leaves into a pile. |
+| | dispute (复现) | /dɪˈspjuːt/ | n. 争论，争端<br>v. 争论；质疑 | in dispute 有争议的<br>beyond dispute 无可争辩 | They are in **dispute** over the contract. |
+| | reproach (复现) | /rɪˈproʊtʃ/ | n./v. 责备，指责；使丢脸 | reproach sb for 因…责备<br>beyond reproach 无可指责 | He **reproached** himself for the mistake. |
+| | pendulum (复现) | /ˈpendʒələm/ | n. 钟摆；摇摆不定的事物 | the swing of the pendulum 钟摆的摆动 | Public opinion swings like a **pendulum**. |
+| | depict (复现) | /dɪˈpɪkt/ | v. 描绘，描述；画 | depict sb as 把某人描绘成 | The painting **depicts** a rural scene. |
+| | insult (复现) | /ɪnˈsʌlt/ v.<br>/ˈɪnsʌlt/ n. | v. 侮辱，辱骂<br>n. 侮辱；辱骂 | an insult to 对…的侮辱 | He **insulted** her in front of everyone. |
+| | culprit (复现) | /ˈkʌlprɪt/ | n. 罪犯；肇事者；问题的根源 | the culprit behind 背后的元凶 | The police finally caught the **culprit**. |
+| | rigorous (复现) | /ˈrɪɡərəs/ | adj. 严格的，严密的；严酷的 | rigorous testing 严格的测试<br>rigorous training 严格训练 | The drug underwent **rigorous** testing. |
+| | tumble (复现) | /ˈtʌmbl/ | v. 跌倒，摔倒；暴跌 | tumble down 倒塌<br>prices tumble 价格暴跌 | Share prices **tumbled** yesterday. |
+| | crane (复现) | /kreɪn/ | n. 起重机；鹤<br>v. 伸长（脖子） | a crane operator 起重机操作员 | He **craned** his neck to see over the crowd. |
+| | shallow | /ˈʃæloʊ/ | adj. 浅的；<br>肤浅的，浅薄的 | shallow water 浅水<br>a shallow argument 肤浅的论点 | The river is quite **shallow** here. （这里的河水很浅。）<br>He is a **shallow** person who cares only about looks. （他是个只在乎外表肤浅的人。）<br><br>🔍 **近义**：superficial（肤浅的）/ skin-deep（表面的）· **反义**：deep（深的）/ profound（深刻的）· **易混**：shallow vs shadow（影子）vs swallow（吞咽）· 词源：与 shoal（浅滩）相关 |
+| | synthetic | /sɪnˈθetɪk/ | adj. 合成的，人造的；<br>综合的；虚假的 | synthetic materials 合成材料<br>synthetic fiber 合成纤维 | This jacket is made of **synthetic** fibers. （这件夹克由合成纤维制成。）<br>**Synthetic** drugs are highly dangerous. （合成毒品极其危险。）<br><br>🔍 **近义**：artificial（人造的）/ man-made（人造的）· **反义**：natural（天然的）/ genuine（真正的）· **易混**：synthetic vs sympathetic（同情的）vs systematic（系统的）· 词根：syn-共同 + thet-放置（thesis）+ -ic → 拼合而成→合成的 |

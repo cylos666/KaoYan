@@ -1380,3 +1380,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 1 个（concept）+ 复现 18 个（derive, induce, defer, portray, territory, allegiance, relish, procession, congress, mischief, elicit, swell, susceptible, wedge, salient, obsolete, coarse, slum） | `Words.md` |
+
+---
+
+## 2026-09-25
+
+### 🔁 复习
+
+- 单词：9/24 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 2 个（shallow, synthetic）+ 复现 14 个（fatigue, bleak, endeavor, prone, rake, dispute, reproach, pendulum, depict, insult, culprit, rigorous, tumble, crane） | `Words.md` |
