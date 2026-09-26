@@ -349,3 +349,24 @@
 | | crane (复现) | /kreɪn/ | n. 起重机；鹤<br>v. 伸长（脖子） | a crane operator 起重机操作员 | He **craned** his neck to see over the crowd. |
 | | shallow | /ˈʃæloʊ/ | adj. 浅的；<br>肤浅的，浅薄的 | shallow water 浅水<br>a shallow argument 肤浅的论点 | The river is quite **shallow** here. （这里的河水很浅。）<br>He is a **shallow** person who cares only about looks. （他是个只在乎外表肤浅的人。）<br><br>🔍 **近义**：superficial（肤浅的）/ skin-deep（表面的）· **反义**：deep（深的）/ profound（深刻的）· **易混**：shallow vs shadow（影子）vs swallow（吞咽）· 词源：与 shoal（浅滩）相关 |
 | | synthetic | /sɪnˈθetɪk/ | adj. 合成的，人造的；<br>综合的；虚假的 | synthetic materials 合成材料<br>synthetic fiber 合成纤维 | This jacket is made of **synthetic** fibers. （这件夹克由合成纤维制成。）<br>**Synthetic** drugs are highly dangerous. （合成毒品极其危险。）<br><br>🔍 **近义**：artificial（人造的）/ man-made（人造的）· **反义**：natural（天然的）/ genuine（真正的）· **易混**：synthetic vs sympathetic（同情的）vs systematic（系统的）· 词根：syn-共同 + thet-放置（thesis）+ -ic → 拼合而成→合成的 |
+| 2026-09-26 | arbitrary (复现) | /ˈɑːrbətreri/ | adj. 任意的，武断的；专横的 | an arbitrary decision 武断的决定 | The choice seemed completely **arbitrary**. |
+| | heap (复现) | /hiːp/ | n. 一堆；大量<br>v. 堆积 | a heap of 一堆<br>heap praise on 大加赞扬 | There was a **heap** of dirty clothes. |
+| | illiterate (复现) | /ɪˈlɪtərət/ | adj. 文盲的，不识字的；无知的 | functionally illiterate 功能性文盲 | Many adults are still **illiterate**. |
+| | storey (复现) | /ˈstɔːri/ | n. 楼层（= story） | a three-storey building 三层的楼房 | They live on the fifth **storey**. |
+| | blur (复现) | /blɜːr/ | v. 使模糊<br>n. 模糊不清的事物 | blur the line 模糊界限 | Tears **blurred** her vision. |
+| | embark (复现) | /ɪmˈbɑːrk/ | v. 上船（或飞机）；着手，开始 | embark on 开始从事 | She **embarked on** a new career. |
+| | racket (复现) | /ˈrækɪt/ | n. 球拍；喧闹；非法勾当 | tennis racket 网球拍<br>make a racket 大声喧闹 | The kids were making a **racket** upstairs. |
+| | pledge (复现) | /pledʒ/ | n. 誓言，承诺<br>v. 发誓，保证 | make a pledge 作出承诺<br>pledge to do 保证做 | He **pledged** to support the plan. |
+| | vicinity (复现) | /vəˈsɪnəti/ | n. 附近，邻近地区 | in the vicinity of 在…附近 | There is a school **in the vicinity of** our house. |
+| | crow (复现) | /kroʊ/ | n. 乌鸦<br>v. （公鸡）啼叫；自夸 | as the crow flies 直线距离 | A **crow** perched on the fence. |
+| | debut (复现) | /ˈdeɪbjuː/ | n. 首次登台，初次亮相<br>v. 首次演出 | make one's debut 初次亮相 | She made her **debut** at the age of ten. |
+| | strife (复现) | /straɪf/ | n. 冲突，纷争，争斗 | political strife 政治纷争 | Years of **strife** devastated the region. |
+| | curb (复现) | /kɜːrb/ | v. 控制，抑制<br>n. 路缘；控制 | curb inflation 抑制通胀 | The government tried to **curb** spending. |
+| | disposition (复现) | /ˌdɪspəˈzɪʃn/ | n. 性情，性格；倾向；布置 | a cheerful disposition 开朗的性格 | She has a friendly **disposition**. |
+| | cosmic (复现) | /ˈkɑːzmɪk/ | adj. 宇宙的；巨大的 | cosmic rays 宇宙射线 | The telescope studies **cosmic** radiation. |
+| | eccentric (复现) | /ɪkˈsentrɪk/ | adj. 古怪的，反常的<br>n. 古怪的人 | eccentric behavior 古怪的行为 | The old man is quite **eccentric**. |
+| | credential (复现) | /krəˈdenʃl/ | n. 资格证书；证件；资历 | academic credentials 学历证书 | Please bring your **credentials** to the interview. |
+| | probe (复现) | /proʊb/ | v. 探查，探究；探测<br>n. 探针；调查 | probe into 探究 | Scientists **probed** the ocean depths. |
+| | verse (复现) | /vɜːrs/ | n. 诗句，韵文；诗节 | free verse 自由诗 | He wrote the poem in **verse**. |
+| | compatible (复现) | /kəmˈpætəbl/ | adj. 兼容的；相容的，协调的 | be compatible with 与…兼容 | This software is **compatible with** all systems. |
+| | psychiatry | /saɪˈkaɪətri/ | n. 精神病学，精神病治疗 | a professor of psychiatry 精神病学教授<br>child psychiatry 儿童精神病学<br>psychiatrist n. 精神科医生 | She specializes in **psychiatry**. （她专攻精神病学。）<br>He was referred to **psychiatry**. （他被转介到精神科。）<br><br>🔍 **近义**：psychology（心理学）/ psychotherapy（心理治疗）· **易混**：psychiatry vs psychology（心理学）vs psychotic（精神病的）· 词根：psych-精神/心灵 + -iatry（治疗）→ 治疗心灵的学科 |

@@ -1394,3 +1394,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 2 个（shallow, synthetic）+ 复现 14 个（fatigue, bleak, endeavor, prone, rake, dispute, reproach, pendulum, depict, insult, culprit, rigorous, tumble, crane） | `Words.md` |
+
+---
+
+## 2026-09-26
+
+### 🔁 复习
+
+- 单词：9/25 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 1 个（psychiatry）+ 复现 20 个（arbitrary, heap, illiterate, storey, blur, embark, racket, pledge, vicinity, crow, debut, strife, curb, disposition, cosmic, eccentric, credential, probe, verse, compatible） | `Words.md` |
