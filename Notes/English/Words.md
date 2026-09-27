@@ -370,3 +370,14 @@
 | | verse (复现) | /vɜːrs/ | n. 诗句，韵文；诗节 | free verse 自由诗 | He wrote the poem in **verse**. |
 | | compatible (复现) | /kəmˈpætəbl/ | adj. 兼容的；相容的，协调的 | be compatible with 与…兼容 | This software is **compatible with** all systems. |
 | | psychiatry | /saɪˈkaɪətri/ | n. 精神病学，精神病治疗 | a professor of psychiatry 精神病学教授<br>child psychiatry 儿童精神病学<br>psychiatrist n. 精神科医生 | She specializes in **psychiatry**. （她专攻精神病学。）<br>He was referred to **psychiatry**. （他被转介到精神科。）<br><br>🔍 **近义**：psychology（心理学）/ psychotherapy（心理治疗）· **易混**：psychiatry vs psychology（心理学）vs psychotic（精神病的）· 词根：psych-精神/心灵 + -iatry（治疗）→ 治疗心灵的学科 |
+| 2026-09-27 | corporate (复现) | /ˈkɔːrpərət/ | adj. 公司的；法人的；共同的 | corporate culture 企业文化 | She works in the **corporate** world. |
+| | ponder (复现) | /ˈpɑːndər/ | v. 沉思，考虑 | ponder over 思考<br>ponder a question 思考问题 | He **pondered** the offer for days. |
+| | hop (复现) | /hɑːp/ | v. 单脚跳；（鸟兽）跳跃<br>n. 蹦跳 | hop on 跳上（车）<br>hop off 跳下 | The rabbit **hopped** across the lawn. |
+| | subjective (复现) | /səbˈdʒektɪv/ | adj. 主观的，个人的 | a subjective judgment 主观判断 | Beauty is a **subjective** matter. |
+| | exotic (复现) | /ɪɡˈzɑːtɪk/ | adj. 异国风情的，奇异的 | exotic plants 异国植物 | The garden is full of **exotic** flowers. |
+| | controversial (复现) | /ˌkɑːntrəˈvɜːrʃl/ | adj. 有争议的，引起争论的 | controversial issue 有争议的问题 | The decision proved highly **controversial**. |
+| | inspect (复现) | /ɪnˈspekt/ | v. 检查，视察 | inspect the goods 检查货物 | The officer **inspected** our passports. |
+| | arise | /əˈraɪz/ | v. 出现，产生；起立；<br>起因于 | arise from 由…引起<br>problems arise 问题出现 | New problems **arise** every day. （每天都会出现新问题。）<br>Accidents often **arise from** carelessness. （事故常因粗心而起。）<br><br>🔍 **近义**：occur（发生）/ emerge（出现）/ originate（起源）· **易混**：arise vs rise（上升）vs raise（举起，及物）vs arouse（唤起）· 词根：a-（加强）+ rise（上升）→ 出现 |
+| | mass | /mæs/ | n. 大量，众多；团，块；群众<br>adj. 大量的，大规模的<br>v. 聚集 | a mass of 大量的<br>mass media 大众传媒<br>mass production 批量生产<br>the masses 群众 | A **mass** of evidence supports the theory. （大量证据支持这一理论。）<br>The **masses** demanded reform. （民众要求改革。）<br><br>🔍 **近义**：bulk（大量）/ crowd（人群）/ majority（多数）· **反义**：minority（少数）· **易混**：mass vs mess（混乱）vs massive（巨大的）· 一词多义：大量 / 群众 / 聚集 |
+| | overseas | /ˌoʊvərˈsiːz/ | adj./adv. 海外的，国外的；<br>在海外 | overseas students 留学生<br>go overseas 出国<br>overseas market 海外市场 | She studied **overseas** for two years. （她在国外学习了两年。）<br>The company expanded into **overseas** markets. （该公司拓展到海外市场。）<br><br>🔍 **近义**：abroad（在国外）/ foreign（外国的）/ offshore（海外的）· **反义**：domestic（国内的）/ at home（在国内）· **易混**：overseas vs oversee（监督）· 词根：over-越过 + seas 海 → 越过海的 |
+| | gasp | /ɡæsp/ | v. 喘气，倒吸气<br>n. 喘息；惊讶 | gasp for breath 喘气<br>gasp in surprise 惊讶得倒抽一口气<br>last gasp 最后挣扎 | He **gasped** for air after the race. （赛跑后他大口喘气。）<br>She **gasped** in astonishment. （她惊讶得倒吸一口凉气。）<br><br>🔍 **近义**：pant（气喘）/ puff（喘气）· **易混**：gasp vs grasp（抓住）vs gap（缺口）· 词源：拟声词（急促呼吸声）|

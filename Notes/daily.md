@@ -1408,3 +1408,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 1 个（psychiatry）+ 复现 20 个（arbitrary, heap, illiterate, storey, blur, embark, racket, pledge, vicinity, crow, debut, strife, curb, disposition, cosmic, eccentric, credential, probe, verse, compatible） | `Words.md` |
+
+---
+
+## 2026-09-27
+
+### 🔁 复习
+
+- 单词：9/26 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 4 个（arise, mass, overseas, gasp）+ 复现 7 个（corporate, ponder, hop, subjective, exotic, controversial, inspect） | `Words.md` |
