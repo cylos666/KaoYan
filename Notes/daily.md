@@ -1422,3 +1422,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 4 个（arise, mass, overseas, gasp）+ 复现 7 个（corporate, ponder, hop, subjective, exotic, controversial, inspect） | `Words.md` |
+
+---
+
+## 2026-09-29
+
+### 🔁 复习
+
+- 单词：9/27 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 复现 7 个（premium, plunge, strenuous, protest, gloomy, ward, fluctuate） | `Words.md` |
