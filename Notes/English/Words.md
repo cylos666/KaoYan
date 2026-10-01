@@ -399,3 +399,16 @@
 | | gloomy (复现) | /ˈɡluːmi/ | adj. 阴暗的；忧郁的；前景黯淡的 | gloomy weather 阴沉天气 | The future looks **gloomy**. |
 | | ward (复现) | /wɔːrd/ | n. 病房；牢房；受监护人<br>v. 挡开，避开 | ward off 抵御，避免<br>a hospital ward 病房 | Vitamin C helps **ward off** colds. |
 | | fluctuate (复现) | /ˈflʌktʃueɪt/ | v. 波动，起伏不定 | fluctuate between 在…之间波动 | Prices **fluctuate** with demand. |
+| 2026-09-30 | drawback (复现) | /ˈdrɔːbæk/ | n. 缺点，不利条件；障碍 | a major drawback 主要缺点<br>the drawback of …的缺点 | The main **drawback** is the cost. |
+| | overhaul (复现) | /ˈoʊvərhɔːl/ n.<br>/ˌoʊvərˈhɔːl/ v. | n. 彻底检修；全面改革<br>v. 彻底检修；全面改革 | a major overhaul 大检修 | The engine needs a complete **overhaul**. |
+| | liable (复现) | /ˈlaɪəbl/ | adj. 有责任的；易于…的 | be liable for 对…负责<br>be liable to 易于… | Drivers are **liable** for any damage. |
+| | inverse (复现) | /ˌɪnˈvɜːrs/ | adj. 相反的，反向的<br>n. 相反的事物 | inverse proportion 反比<br>in inverse proportion to 与…成反比 | They are in **inverse** proportion. |
+| | comrade (复现) | /ˈkɑːmræd/ | n. 同志，同伴，战友 | a comrade in arms 战友 | He fought alongside his **comrades**. |
+| 2026-10-01 | obscure (复现) | /əbˈskjʊr/ | adj. 模糊的，晦涩的；无名的<br>v. 使模糊 | an obscure poet 无名诗人<br>obscure the truth 掩盖真相 | The meaning of the poem is **obscure**. |
+| | expire (复现) | /ɪkˈspaɪər/ | v. 到期，失效；去世 | expire next month 下月到期 | My passport **expires** next year. |
+| | premier (复现) | /prɪˈmɪr/ | n. 总理，首相<br>adj. 首要的，最好的 | premier league 超级联赛<br>the premier event 首要活动 | She was appointed **premier** last year. |
+| | lane (复现) | /leɪn/ | n. 小巷，车道；泳道；航线 | bus lane 公交专用道<br>fast lane 快车道 | The road has four **lanes** in each direction. |
+| | avert (复现) | /əˈvɜːrt/ | v. 避免，防止；转移（目光） | avert a crisis 避免危机<br>avert one's eyes 转移目光 | The pilot **averted** a disaster. |
+| | toil (复现) | /tɔɪl/ | v. 辛勤工作，苦干<br>n. 辛苦，劳累 | toil away 埋头苦干 | They **toiled** all day in the fields. |
+| | dean (复现) | /diːn/ | n. 院长，系主任；（大学）教务长 | the dean of the faculty 学院院长 | She was appointed **dean** of the college. |
+| | tenant (复现) | /ˈtenənt/ | n. 房客，租户<br>v. 租用 | a tenant farmer 佃农 | The **tenants** pay rent monthly. |

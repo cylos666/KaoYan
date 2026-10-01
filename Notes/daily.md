@@ -1436,3 +1436,31 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 复现 7 个（premium, plunge, strenuous, protest, gloomy, ward, fluctuate） | `Words.md` |
+
+---
+
+## 2026-09-30
+
+### 🔁 复习
+
+- 单词：9/29 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 复现 5 个（drawback, overhaul, liable, inverse, comrade） | `Words.md` |
+
+---
+
+## 2026-10-01
+
+### 🔁 复习
+
+- 单词：9/30 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 复现 8 个（obscure, expire, premier, lane, avert, toil, dean, tenant） | `Words.md` |
