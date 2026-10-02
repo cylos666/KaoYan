@@ -1464,3 +1464,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 复现 8 个（obscure, expire, premier, lane, avert, toil, dean, tenant） | `Words.md` |
+
+---
+
+## 2026-10-02
+
+### 🔁 复习
+
+- 单词：10/1 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 复现 3 个（trait, sprinkle, bait） | `Words.md` |

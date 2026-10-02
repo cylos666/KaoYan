@@ -412,3 +412,6 @@
 | | toil (复现) | /tɔɪl/ | v. 辛勤工作，苦干<br>n. 辛苦，劳累 | toil away 埋头苦干 | They **toiled** all day in the fields. |
 | | dean (复现) | /diːn/ | n. 院长，系主任；（大学）教务长 | the dean of the faculty 学院院长 | She was appointed **dean** of the college. |
 | | tenant (复现) | /ˈtenənt/ | n. 房客，租户<br>v. 租用 | a tenant farmer 佃农 | The **tenants** pay rent monthly. |
+| 2026-10-02 | trait (复现) | /treɪt/ | n. 特征，特点，品质 | a personality trait 性格特征<br>genetic traits 遗传特征 | Patience is his best **trait**. |
+| | sprinkle (复现) | /ˈsprɪŋkl/ | v. 撒，洒；点缀<br>n. 少量 | sprinkle salt on 在…上撒盐 | **Sprinkle** some salt on the potatoes. |
+| | bait (复现) | /beɪt/ | n. 诱饵<br>v. 引诱；戏弄 | use sth as bait 用…作诱饵<br>rise to the bait 上钩 | The fish took the **bait**. |
