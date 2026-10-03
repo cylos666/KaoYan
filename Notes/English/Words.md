@@ -415,3 +415,5 @@
 | 2026-10-02 | trait (复现) | /treɪt/ | n. 特征，特点，品质 | a personality trait 性格特征<br>genetic traits 遗传特征 | Patience is his best **trait**. |
 | | sprinkle (复现) | /ˈsprɪŋkl/ | v. 撒，洒；点缀<br>n. 少量 | sprinkle salt on 在…上撒盐 | **Sprinkle** some salt on the potatoes. |
 | | bait (复现) | /beɪt/ | n. 诱饵<br>v. 引诱；戏弄 | use sth as bait 用…作诱饵<br>rise to the bait 上钩 | The fish took the **bait**. |
+| 2026-10-03 | trial (复现) | /ˈtraɪəl/ | n. 审判，审讯；试验，试用；磨难<br>adj. 试验的 | a trial for 因…受审<br>clinical trial 临床试验<br>trial and error 反复试验 | The case went to **trial**. |
+| | empirical (复现) | /ɪmˈpɪrɪkl/ | adj. 经验主义的，实证的 | empirical evidence 实证证据 | The theory lacks **empirical** support. |
