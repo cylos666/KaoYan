@@ -417,3 +417,7 @@
 | | bait (复现) | /beɪt/ | n. 诱饵<br>v. 引诱；戏弄 | use sth as bait 用…作诱饵<br>rise to the bait 上钩 | The fish took the **bait**. |
 | 2026-10-03 | trial (复现) | /ˈtraɪəl/ | n. 审判，审讯；试验，试用；磨难<br>adj. 试验的 | a trial for 因…受审<br>clinical trial 临床试验<br>trial and error 反复试验 | The case went to **trial**. |
 | | empirical (复现) | /ɪmˈpɪrɪkl/ | adj. 经验主义的，实证的 | empirical evidence 实证证据 | The theory lacks **empirical** support. |
+| 2026-10-06 | rigorous (复现) | /ˈrɪɡərəs/ | adj. 严格的，严密的；严酷的 | rigorous testing 严格的测试<br>rigorous training 严格训练 | The drug underwent **rigorous** testing. |
+| | remark (复现) | /rɪˈmɑːrk/ | n. 评论，言论<br>v. 评论，谈论；注意到 | make a remark 发表评论<br>remark on 评论 | He made a rude **remark**. |
+| | rigid (复现) | /ˈrɪdʒɪd/ | adj. 僵硬的，刚硬的；<br>严格的，死板的 | rigid rules 严格的规定<br>rigid body 刚体 | The rules are too **rigid** — there's no flexibility. |
+| | retrieve | /rɪˈtriːv/ | v. 取回，找回；检索；<br>（计算机）恢复数据 | retrieve information 检索信息<br>retrieve the data 恢复数据<br>retrieve a lost item 找回丢失的物品 | The dog **retrieved** the ball. （狗把球叼了回来。）<br>You can **retrieve** deleted files from the recycle bin. （你可以从回收站恢复已删除的文件。）<br><br>🔍 **近义**：recover（找回）/ regain（重获）/ fetch（取来）· **反义**：lose（丢失）/ abandon（放弃）· **易混**：retrieve vs receive（收到）vs relieve（减轻）· 词根：re-回 + triev-（法语 trouver 找到）→ 找回来 |
