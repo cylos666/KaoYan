@@ -1506,3 +1506,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 1 个（retrieve）+ 复现 3 个（rigorous, remark, rigid） | `Words.md` |
+
+---
+
+## 2026-10-07
+
+### 🔁 复习
+
+- 单词：10/6 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 新词 1 个（bolster）+ 复现 7 个（violate, deplore, esteem, futile, denounce, dread, lapse） | `Words.md` |

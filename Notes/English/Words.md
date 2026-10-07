@@ -421,3 +421,11 @@
 | | remark (复现) | /rɪˈmɑːrk/ | n. 评论，言论<br>v. 评论，谈论；注意到 | make a remark 发表评论<br>remark on 评论 | He made a rude **remark**. |
 | | rigid (复现) | /ˈrɪdʒɪd/ | adj. 僵硬的，刚硬的；<br>严格的，死板的 | rigid rules 严格的规定<br>rigid body 刚体 | The rules are too **rigid** — there's no flexibility. |
 | | retrieve | /rɪˈtriːv/ | v. 取回，找回；检索；<br>（计算机）恢复数据 | retrieve information 检索信息<br>retrieve the data 恢复数据<br>retrieve a lost item 找回丢失的物品 | The dog **retrieved** the ball. （狗把球叼了回来。）<br>You can **retrieve** deleted files from the recycle bin. （你可以从回收站恢复已删除的文件。）<br><br>🔍 **近义**：recover（找回）/ regain（重获）/ fetch（取来）· **反义**：lose（丢失）/ abandon（放弃）· **易混**：retrieve vs receive（收到）vs relieve（减轻）· 词根：re-回 + triev-（法语 trouver 找到）→ 找回来 |
+| 2026-10-07 | violate (复现) | /ˈvaɪəleɪt/ | v. 违反，违犯；侵犯；亵渎 | violate the law 违法 | He **violated** the traffic rules. |
+| | deplore (复现) | /dɪˈplɔːr/ | v. 谴责，强烈反对；哀叹 | deplore the violence 谴责暴力 | We **deplore** the use of violence. |
+| | esteem (复现) | /ɪˈstiːm/ | n. 尊重，敬重<br>v. 尊重；认为 | hold sb in high esteem 高度尊重 | She is held in high **esteem** by her students. |
+| | futile (复现) | /ˈfjuːtl/ | adj. 无效的，徒劳的 | a futile attempt 徒劳的尝试 | All our efforts were **futile**. |
+| | denounce (复现) | /dɪˈnaʊns/ | v. 谴责，指责；告发 | denounce sb as 指责某人为 | The government **denounced** the attack. |
+| | dread (复现) | /dred/ | v./n. 恐惧，害怕 | dread doing sth 害怕做<br>in dread of 害怕 | She **dreaded** the coming exam. |
+| | lapse (复现) | /læps/ | n. 小错，失误；流逝<br>v. 失效；陷入 | a lapse in judgment 判断失误<br>lapse into 陷入 | He apologized for his **lapse** in judgment. |
+| | bolster | /ˈboʊlstər/ | v. 支持，加强，改善<br>n. 长枕，靠垫 | bolster the economy 提振经济<br>bolster confidence 增强信心<br>bolster up 支持，加强 | The government took steps to **bolster** the economy. （政府采取措施提振经济。）<br>Good results **bolstered** his confidence. （好成绩增强了他的信心。）<br><br>🔍 **近义**：strengthen（加强）/ boost（促进）/ reinforce（强化）· **反义**：weaken（削弱）/ undermine（破坏）· **易混**：bolster vs blister（水泡）vs boast（自夸）· 词源：bolster（长垫枕）→ 支撑→支持 |
