@@ -1520,3 +1520,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 新词 1 个（bolster）+ 复现 7 个（violate, deplore, esteem, futile, denounce, dread, lapse） | `Words.md` |
+
+---
+
+## 2026-10-08
+
+### 🔁 复习
+
+- 单词：10/7 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 复现 6 个（instinct, amateur, revenue, fuse, divine, allege） | `Words.md` |

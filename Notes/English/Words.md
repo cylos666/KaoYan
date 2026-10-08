@@ -429,3 +429,9 @@
 | | dread (复现) | /dred/ | v./n. 恐惧，害怕 | dread doing sth 害怕做<br>in dread of 害怕 | She **dreaded** the coming exam. |
 | | lapse (复现) | /læps/ | n. 小错，失误；流逝<br>v. 失效；陷入 | a lapse in judgment 判断失误<br>lapse into 陷入 | He apologized for his **lapse** in judgment. |
 | | bolster | /ˈboʊlstər/ | v. 支持，加强，改善<br>n. 长枕，靠垫 | bolster the economy 提振经济<br>bolster confidence 增强信心<br>bolster up 支持，加强 | The government took steps to **bolster** the economy. （政府采取措施提振经济。）<br>Good results **bolstered** his confidence. （好成绩增强了他的信心。）<br><br>🔍 **近义**：strengthen（加强）/ boost（促进）/ reinforce（强化）· **反义**：weaken（削弱）/ undermine（破坏）· **易混**：bolster vs blister（水泡）vs boast（自夸）· 词源：bolster（长垫枕）→ 支撑→支持 |
+| 2026-10-08 | instinct (复现) | /ˈɪnstɪŋkt/ | n. 本能，直觉 | by instinct 凭本能<br>animal instinct 动物本能 | Birds build nests by **instinct**. |
+| | amateur (复现) | /ˈæmətər/ | n. 业余爱好者<br>adj. 业余的 | an amateur photographer 业余摄影师 | He plays tennis as an **amateur**. |
+| | revenue (复现) | /ˈrevənuː/ | n. 收入，收益；税收 | tax revenue 税收<br>annual revenue 年收入 | The company's **revenue** doubled last year. |
+| | fuse (复现) | /fjuːz/ | n. 保险丝；导火线<br>v. 熔化；融合 | blow a fuse 烧断保险丝 | The lights went out when the **fuse** blew. |
+| | divine (复现) | /dɪˈvaɪn/ | adj. 神的，神圣的；极好的<br>v. 推测，占卜 | divine intervention 神的干预 | They believed in **divine** power. |
+| | allege (复现) | /əˈledʒ/ | v. 断言，指称（未经证实） | be alleged to 据称<br>alleged adj. 所谓的 | He is **alleged** to have stolen the money. |
