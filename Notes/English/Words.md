@@ -435,3 +435,10 @@
 | | fuse (复现) | /fjuːz/ | n. 保险丝；导火线<br>v. 熔化；融合 | blow a fuse 烧断保险丝 | The lights went out when the **fuse** blew. |
 | | divine (复现) | /dɪˈvaɪn/ | adj. 神的，神圣的；极好的<br>v. 推测，占卜 | divine intervention 神的干预 | They believed in **divine** power. |
 | | allege (复现) | /əˈledʒ/ | v. 断言，指称（未经证实） | be alleged to 据称<br>alleged adj. 所谓的 | He is **alleged** to have stolen the money. |
+| 2026-10-11 | mutual (复现) | /ˈmjuːtʃuəl/ | adj. 相互的，共同的 | mutual respect 相互尊重<br>mutual benefit 互利 | They have **mutual** trust in each other. |
+| | competent (复现) | /ˈkɑːmpɪtənt/ | adj. 有能力的，能胜任的 | be competent at 擅长<br>a competent teacher 称职的老师 | She is a **competent** manager. |
+| | component (复现) | /kəmˈpoʊnənt/ | n. 组成部分，成分；部件<br>adj. 组成的 | a key component 关键部分 | Trust is a key **component** of friendship. |
+| | gauge (复现) | /ɡeɪdʒ/ | v. 测量，估计；判断<br>n. 测量仪；标准 | gauge the mood 判断情绪<br>pressure gauge 压力表 | It's hard to **gauge** his reaction. |
+| | bewilder (复现) | /bɪˈwɪldər/ | v. 使迷惑，使困惑 | be bewildered by 被…弄糊涂 | The instructions **bewildered** me. |
+| | frustrate (复现) | /ˈfrʌstreɪt/ | v. 使沮丧；挫败，阻挠 | be frustrated by 因…沮丧 | The delays **frustrated** the passengers. |
+| | immense (复现) | /ɪˈmens/ | adj. 巨大的，极大的 | immense pressure 巨大的压力 | The project required **immense** effort. |

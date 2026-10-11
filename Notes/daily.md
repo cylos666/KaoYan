@@ -1534,3 +1534,17 @@
 | 学科 | 内容 | 文件 |
 |:---|:---|:---|
 | 英语 | 复现 6 个（instinct, amateur, revenue, fuse, divine, allege） | `Words.md` |
+
+---
+
+## 2026-10-11
+
+### 🔁 复习
+
+- 单词：10/8 批次快速回顾
+
+### 🆕 新学
+
+| 学科 | 内容 | 文件 |
+|:---|:---|:---|
+| 英语 | 复现 7 个（mutual, competent, component, gauge, bewilder, frustrate, immense） | `Words.md` |
